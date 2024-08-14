@@ -1,6 +1,6 @@
 <meta annotation="Lydia Bremer-McCollum, Amir Zeldes" attributed_author="Mena of Pshati" author="Mena of Pshati" collection="Vatican Coptic" Coptic_edition="Améliineau 1890 (https://archive.org/details/histoiredupatria00minauoft/page/n45/mode/2up?view=theater)" copyist="-optional-" corpus="-" country="Egypt" document_cts_urn="-required-" endnote="-optional-" Greek_source="-optional but recommended if relevant-" idno="Vat. Copt. 62.12 ff. 211-242 (https://digi.vatlib.it/view/MSS_Vat.copt.62)  " language="Bohairic Coptic" license="CC-BY 4.0" msContents_title_n="-" msContents_title_type="-" msItem_title="The Life of Isaac of Alexandria" msName="MACA.CA" next="-urn:cts format urn; required if another text follows this one in sequence-" note="-" objectType="codex" order="-" origDate="-" origDate_notAfter="801" origDate_notBefore="1065" origDate_precision="-" origPlace="Monastery of St. Macariuus" pages_from="211" pages_to="242" parsing="automatic" paths_authors="181" paths_manuscripts="114" paths_works="cc0225" people="none" placeName="Wadi Natrun" places="none" previous="-urn:cts format URN; required if another text precedes this one in sequence-" project=" Coptic SCRIPTORIUM, PATHS" redundant="no" repository="Biblioteca Apostolica Vaticana" segmentation="-ONLY automatic, checked, gold-" source="archive.org" source_info="OCR" tagging="-ONLY automatic, checked, gold-" title="Life of Isaac of Alexandria--part 1" translation="none" Trismegistos="none" version_date="-" version_n="-" witness="-optional-">
 <pb_n pb_n="MACA.CA1">
-<ed_pg_n ed_pg_n="1">
+<ed_page_n ed_page_n="1">
 <translation translation="The life of the holy patriarch and archbishop of the great city of Alexandria, which the holy Abba Mina recounted, the most holy archbishop of the city of Pshati (Zawyat Razin). In the peace of God: Amen.">
 <chapter_n chapter_n="1">
 <lb_n lb_n="1">
@@ -1348,8 +1348,8 @@
 <lang lang="Greek">
 ⲁⲣⲭⲓⲉ
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="2">
+</ed_page_n>
+<ed_page_n ed_page_n="2">
 <lb_n lb_n="1">
 ⲣⲉⲩⲥ
 </lang>
@@ -3119,7 +3119,7 @@
 </translation>
 </chapter_n>
 <chapter_n chapter_n="3">
-<translation translation="t">
+<translation translation="This saint then, my brethren, was a man of Egypt by his race, from a village called Pisho.">
 <lb_n lb_n="12">
 <orig_group orig_group="ⲡⲁⲓⲁⲅⲓⲟⲥ">
 <norm_group norm_group="ⲡⲁⲓϩⲁⲅⲓⲟⲥ">
@@ -3166,7 +3166,9 @@
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
 <pos pos="PTC">
+<lang lang="Greek">
 ⲟⲩⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -3177,7 +3179,7 @@
 <norm_group norm_group="ⲛⲁⲥⲛⲏⲩ">
 <orig orig="ⲛⲁ">
 <norm norm="ⲛⲁ">
-<lemma lemma="ⲛⲁ">
+<lemma lemma="ⲡⲁ">
 <pos pos="PPOS">
 ⲛⲁ
 </pos>
@@ -3209,7 +3211,7 @@
 <orig orig="ⲣⲉⲙⲛⲭⲏⲙⲓ">
 <norm norm="ⲣⲉⲙⲛⲭⲏⲙⲓ">
 <lemma lemma="ⲣⲉⲙⲛⲭⲏⲙⲓ">
-<pos pos="N">
+<pos pos="NPROP">
 <morph morph="ⲣⲉⲙ">
 ⲣⲉⲙ
 </morph>
@@ -3406,7 +3408,7 @@
 <orig orig="ⲡⲓϣⲱ">
 <norm norm="ⲡⲓϣⲱ">
 <lemma lemma="ⲡⲓϣⲱ">
-<pos pos="N">
+<pos pos="NPROP">
 ⲡⲓϣⲱ
 </pos>
 </lemma>
@@ -3430,7 +3432,7 @@
 </lb_n>
 </translation>
 <lb_n lb_n="14">
-<translation translation="t">
+<translation translation="His parents were very God loving.">
 <orig_group orig_group="ⲛⲉϥⲓⲟϯ">
 <norm_group norm_group="ⲛⲉϥⲓⲟϯ">
 <orig orig="ⲛⲉϥ">
@@ -3544,7 +3546,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="They possessed a multitude of possessions, and servants and maidservants. ">
 <orig_group orig_group="ⲛⲉⲟⲩⲟⲛ">
 <norm_group norm_group="ⲛⲉⲟⲩⲟⲛ">
 <orig orig="ⲛⲉ">
@@ -3571,7 +3573,7 @@
 <norm_group norm_group="ⲛⲧⲱⲟⲩ">
 <orig orig="ⲛⲧⲱ">
 <norm norm="ⲛⲧⲱ">
-<lemma lemma="ⲛⲧⲱ">
+<lemma lemma="ⲛⲧⲉ">
 <pos pos="PREP">
 ⲛⲧⲱ
 </pos>
@@ -3590,8 +3592,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="3">
+</ed_page_n>
+<ed_page_n ed_page_n="3">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲙⲙⲁⲩ">
 <norm_group norm_group="ⲙⲙⲁⲩ">
@@ -3729,7 +3731,7 @@
 </orig_group>
 </lb_n>
 </translation>
-<translation translation="t">
+<translation translation="It came to pass when the holy child came into the world that he was called by the name of Isaac: the meaning of this name is joy. ">
 <lb_n lb_n="2">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲓ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲓ">
@@ -3958,7 +3960,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲉⲧϩⲉⲣⲙⲏⲛⲉⲓⲁ">
+<orig_group orig_group="ⲉⲧⲉⲧⲉⲣⲙⲏⲛⲓⲁ">
 <norm_group norm_group="ⲉⲧⲉⲧϩⲉⲣⲙⲏⲛⲉⲓⲁ">
 <orig orig="ⲉⲧⲉ">
 <norm norm="ⲉⲧⲉ">
@@ -3978,12 +3980,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲉⲣⲙⲏⲛⲉⲓⲁ">
+<orig orig="ⲉⲣⲙⲏⲛⲓⲁ">
 <norm norm="ϩⲉⲣⲙⲏⲛⲉⲓⲁ">
 <lemma lemma="ϩⲉⲣⲙⲏⲛⲉⲓⲁ">
 <pos pos="N">
 <lang lang="Greek">
-ϩⲉⲣⲙⲏⲛⲉⲓⲁ
+ⲉⲣⲙⲏⲛⲓⲁ
 </lang>
 </pos>
 </lemma>
@@ -4022,7 +4024,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲡⲓⲣⲁϣⲓ">
+<orig_group orig_group="ϫⲉⲡⲓⲣⲁϫⲓ">
 <norm_group norm_group="ϫⲉⲡⲓⲣⲁϣⲓ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
@@ -4042,11 +4044,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲣⲁϣⲓ">
+<orig orig="ⲣⲁϫⲓ">
 <norm norm="ⲣⲁϣⲓ">
 <lemma lemma="ⲣⲁϣⲓ">
 <pos pos="N">
-ⲣⲁϣⲓ
+ⲣⲁϫⲓ
 </pos>
 </lemma>
 </norm>
@@ -4054,7 +4056,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="When the day came to baptize him according to the traditions of the Christians, his parents took him to the bishop of that time: he was an inspired man.">
 <orig_group orig_group="ⲉⲧⲁⲩⲙⲟϩ">
 <norm_group norm_group="ⲉⲧⲁⲩⲙⲟϩ">
 <orig orig="ⲉⲧ">
@@ -4275,7 +4277,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉⲛⲓⲭⲣⲓⲥⲧⲓⲁⲛⲟⲥ">
+<orig_group orig_group="ⲛⲧⲉⲛⲓⲭⲣⲏⲥⲧⲓⲁⲛⲟⲥ">
 <norm_group norm_group="ⲛⲧⲉⲛⲓⲭⲣⲓⲥⲧⲓⲁⲛⲟⲥ">
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
@@ -4295,12 +4297,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲭⲣⲓⲥⲧⲓⲁⲛⲟⲥ">
+<orig orig="ⲭⲣⲏⲥⲧⲓⲁⲛⲟⲥ">
 <norm norm="ⲭⲣⲓⲥⲧⲓⲁⲛⲟⲥ">
 <lemma lemma="ⲭⲣⲓⲥⲧⲓⲁⲛⲟⲥ">
-<pos pos="N">
+<pos pos="NPROP">
 <lang lang="Greek">
-ⲭⲣⲓⲥⲧⲓⲁⲛⲟⲥ
+ⲭⲣⲏⲥⲧⲓⲁⲛⲟⲥ
 </lang>
 </pos>
 </lemma>
@@ -4535,8 +4537,8 @@
 </orig_group>
 </lb_n>
 <lb_n lb_n="7">
-<orig_group orig_group="ⲙⲡⲛⲁⲧⲟⲫⲟⲣⲟⲥ">
-<norm_group norm_group="ⲙⲡⲛⲁⲧⲟⲫⲟⲣⲟⲥ">
+<orig_group orig_group="ⲙⲡ︤ⲛ︦ⲁ︥ⲧⲟⲫⲟⲣⲟⲥ">
+<norm_group norm_group="ⲙⲡⲛⲉⲩⲙⲁⲧⲟⲫⲟⲣⲟⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -4546,20 +4548,13 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡ">
-<norm norm="ⲡ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲡ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲛⲁⲧⲟⲫⲟⲣⲟⲥ">
-<norm norm="ⲛⲁⲧⲟⲫⲟⲣⲟⲥ">
-<lemma lemma="ⲛⲁⲧⲟⲫⲟⲣⲟⲥ">
+<orig orig="ⲡ︤ⲛ︦ⲁ︥ⲧⲟⲫⲟⲣⲟⲥ">
+<norm norm="ⲡⲛⲉⲩⲙⲁⲧⲟⲫⲟⲣⲟⲥ">
+<lemma lemma="ⲡⲛⲉⲩⲙⲁⲧⲟⲫⲟⲣⲟⲥ">
 <pos pos="N">
-ⲛⲁⲧⲟⲫⲟⲣⲟⲥ
+<lang lang="Greek">
+ⲡ︤ⲛ︦ⲁ︥ⲧⲟⲫⲟⲣⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -4593,7 +4588,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="As he was baptizing the holy child in the pool in the name of the Father, the Son, and the Holy Spirit, the consubstantial Trinity, his eyes were opened, and he saw a luminous cross on the head of the child. ">
 <orig_group orig_group="ⲫⲁⲓ">
 <norm_group norm_group="ⲫⲁⲓ">
 <orig orig="ⲫⲁⲓ">
@@ -4719,7 +4714,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϧⲉⲛϯⲕⲟⲗⲩⲃⲏⲑⲣⲁ">
+<orig_group orig_group="ϧⲉⲛϯⲕⲱⲗⲩⲃⲏⲑⲣⲁ">
 <norm_group norm_group="ϧⲉⲛϯⲕⲟⲗⲩⲃⲏⲑⲣⲁ">
 <orig orig="ϧⲉⲛ">
 <norm norm="ϧⲉⲛ">
@@ -4730,16 +4725,22 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϯⲕⲟⲗⲩⲃⲏⲑⲣⲁ">
-<norm norm="ϯⲕⲟⲗⲩⲃⲏⲑⲣⲁ">
-<lemma lemma="ϯⲕⲟⲗⲩⲃⲏⲑⲣⲁ">
-<pos pos="V">
-<morph morph="ϯ">
+<orig orig="ϯ">
+<norm norm="ϯ">
+<lemma lemma="ⲡⲓ">
+<pos pos="ART">
 ϯ
-</morph>
-<morph morph="ⲕⲟⲗⲩⲃⲏⲑⲣⲁ">
-ⲕⲟⲗⲩⲃⲏⲑⲣⲁ
-</morph>
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲕⲱⲗⲩⲃⲏⲑⲣⲁ">
+<norm norm="ⲕⲟⲗⲩⲃⲏⲑⲣⲁ">
+<lemma lemma="ⲕⲟⲗⲩⲃⲏⲑⲣⲁ">
+<pos pos="N">
+<lang lang="Greek">
+ⲕⲱⲗⲩⲃⲏⲑⲣⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -4911,7 +4912,9 @@
 <norm norm="ⲧⲣⲓⲁⲉ">
 <lemma lemma="ⲧⲣⲓⲁⲉ">
 <pos pos="N">
+<lang lang="Greek">
 ⲧⲣⲓⲁⲉ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -4933,7 +4936,9 @@
 <norm norm="ⲟⲙⲟⲟⲩⲉⲓⲟⲉ">
 <lemma lemma="ⲟⲙⲟⲟⲩⲉⲓⲟⲉ">
 <pos pos="N">
+<lang lang="Greek">
 ⲟⲙⲟⲟⲩⲉⲓⲟⲉ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -5048,8 +5053,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲟⲩⲉⲧⲁⲩⲣⲟⲉ">
-<norm_group norm_group="ⲉⲟⲩⲉⲧⲁⲩⲣⲟⲉ">
+<orig_group orig_group="ⲉⲟⲩ⳧">
+<norm_group norm_group="ⲉⲟⲩⲥⲧⲁⲩⲣⲟⲥ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -5068,11 +5073,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲧⲁⲩⲣⲟⲉ">
-<norm norm="ⲉⲧⲁⲩⲣⲟⲉ">
-<lemma lemma="ⲉⲧⲁⲩⲣⲟⲉ">
+<orig orig="⳧">
+<norm norm="ⲥⲧⲁⲩⲣⲟⲥ">
+<lemma lemma="ⲥⲧⲁⲩⲣⲟⲥ">
 <pos pos="N">
-ⲉⲧⲁⲩⲣⲟⲉ
+⳧
 </pos>
 </lemma>
 </norm>
@@ -5165,6 +5170,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="As if he had been moved by the Holy Spirit, he cried out in a prophetic voice, saying, ‘Thou art great, O Lord God, Creator of all things, thou alone art great, and no one shall question thee about thy thoughts.’">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -5312,8 +5319,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
-<translation translation="t">
 <orig_group orig_group="ⲁϥⲱϣ">
 <norm_group norm_group="ⲁϥⲱϣ">
 <orig orig="ⲁ">
@@ -5516,12 +5521,21 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲡⲟ︦︦ⲥ︦">
-<norm_group norm_group="ⲡⲟⲥ">
-<orig orig="ⲡⲟ︦︦ⲥ︦">
-<norm norm="ⲡⲟⲥ">
-<lemma lemma="ⲡⲟⲥ">
-<pos pos="PREP">
-ⲡⲟ︦︦ⲥ︦
+<norm_group norm_group="ⲡϭⲟⲉⲓⲥ">
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲡ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲟ︦︦ⲥ︦">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
+<pos pos="N">
+ⲟ︦︦ⲥ︦
 </pos>
 </lemma>
 </norm>
@@ -5813,7 +5827,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="After saying these words, the holy bishop gave the child to his parents, saying: ‘Keep this child well, for he is a gift from God, he will be a great pontiff in the house of God and many peoples will be entrusted to him.’">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -5868,8 +5882,8 @@
 <pos pos="V">
 ϥ
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="4">
+</ed_page_n>
+<ed_page_n ed_page_n="4">
 <lb_n lb_n="1">
 ϫⲟⲧ
 </pos>
@@ -6500,7 +6514,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="When his parents heard this, they raised their voices and said, ‘From ever since and until forever, prasied be the name of the Lord!’">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -6558,11 +6572,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲟⲑⲙⲟⲩ">
-<norm norm="ⲥⲟⲑⲙⲟⲩ">
-<lemma lemma="ⲥⲟⲑⲙⲟⲩ">
+<orig orig="ⲥⲟⲑⲙ">
+<norm norm="ⲥⲟⲑⲙ">
+<lemma lemma="ⲥⲱⲧⲉⲙ">
 <pos pos="V">
-ⲥⲟⲑⲙⲟⲩ
+ⲥⲟⲑⲙ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲟⲩ">
+<norm norm="ⲟⲩ">
+<lemma lemma="ⲛⲑⲱⲟⲩ">
+<pos pos="PPERO">
+ⲟⲩ
 </pos>
 </lemma>
 </norm>
@@ -6577,7 +6600,7 @@
 <norm norm="ⲛϫⲉ">
 <lemma lemma="ⲛϫⲉ">
 <pos pos="PTC">
-ⲛϫⲉ
+ⲟⲩ
 </pos>
 </lemma>
 </norm>
@@ -6791,7 +6814,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲟⲥ">
-<norm_group norm_group="ⲙⲡⲟⲥ">
+<norm_group norm_group="ⲙⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -6801,11 +6824,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡⲟⲥ">
-<norm norm="ⲡⲟⲥ">
-<lemma lemma="ⲡⲟⲥ">
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲡ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
-ⲡⲟⲥ
+ⲟⲥ
 </pos>
 </lemma>
 </norm>
@@ -6914,8 +6946,8 @@
 </lb_n>
 </translation>
 </chapter_n>
-<chapter_n chapter_n="c">
-<translation translation="t">
+<chapter_n chapter_n="4">
+<translation translation="When the holy child was advanced in years, his parents sent him to school, and in a few days he learned the value of letters and the things taught, so that all those who were with him in school admired him when they saw the knowledge that God had given him, and all his fellow-students were his inferiors.">
 <lb_n lb_n="8">
 <orig_group orig_group="ⲉⲧⲁϥⲉⲣⲡⲣⲟⲕⲟⲡⲧⲉⲓⲛ">
 <norm_group norm_group="ⲉⲧⲁϥⲉⲣⲡⲣⲟⲕⲟⲡⲧⲉⲓⲛ">
@@ -7901,7 +7933,7 @@
 </orig_group>
 </lb_n>
 </translation>
-<translation translation="t">
+<translation translation="And when he was full of knowledge and wisdom, his parents entrusted him to one of their relatives, named Meneson, secretary to Georgios, eparch of the land of Egypt: the little boy Isaac was to be a notary under his direction.">
 <lb_n lb_n="14">
 <orig_group orig_group="ⲉⲧⲁϥⲙⲟϩ">
 <norm_group norm_group="ⲉⲧⲁϥⲙⲟϩ">
@@ -8234,11 +8266,11 @@
 <orig orig="ⲙⲉⲛⲉⲥⲱⲛ">
 <norm norm="ⲙⲉⲛⲉⲥⲱⲛ">
 <lemma lemma="ⲙⲉⲛⲉⲥⲱⲛ">
-<pos pos="N">
+<pos pos="NPROP">
 ⲙⲉⲛⲉ
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="5">
+</ed_page_n>
+<ed_page_n ed_page_n="5">
 <lb_n lb_n="1">
 ⲥⲱⲛ
 </pos>
@@ -8295,7 +8327,9 @@
 <norm norm="ⲭⲁⲣⲧⲟⲗⲁⲣⲓⲟⲥ">
 <lemma lemma="ⲭⲁⲣⲧⲟⲗⲁⲣⲓⲟⲥ">
 <pos pos="N">
+<lang lang="Latin">
 ⲭⲁⲣⲧⲟⲗⲁⲣⲓⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -8324,8 +8358,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲅⲉⲱⲣⲅⲓⲟⲥⲉϥⲟⲓ">
-<norm_group norm_group="ⲛⲅⲉⲱⲣⲅⲓⲟⲥⲉϥⲟⲓ">
+<orig_group orig_group="ⲛⲅⲉⲱⲣⲅⲓⲟⲥ">
+<norm_group norm_group="ⲛⲅⲉⲱⲣⲅⲓⲟⲥ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -8335,14 +8369,45 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲅⲉⲱⲣⲅⲓⲟⲥⲉϥⲟⲓ">
-<norm norm="ⲅⲉⲱⲣⲅⲓⲟⲥⲉϥⲟⲓ">
-<lemma lemma="ⲅⲉⲱⲣⲅⲓⲟⲥⲉϥⲟⲓ">
+<orig orig="ⲅⲉⲱⲣⲅⲓⲟⲥ">
+<norm norm="ⲅⲉⲱⲣⲅⲓⲟⲥ">
+<lemma lemma="ⲅⲉⲱⲣⲅⲓⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲅⲉⲱⲣⲅⲓⲟⲥ
+</lang>
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 </lb_n>
-<lb_n lb_n="2">
-ⲉϥⲟⲓ
+<orig_group orig_group="ⲉϥⲟⲓ">
+<norm_group norm_group="ⲉϥⲟⲓ">
+<orig orig="ⲉ">
+<norm norm="ⲉ">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
+ⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϥ">
+<norm norm="ϥ">
+<lemma lemma="ⲛⲑⲟϥ">
+<pos pos="PPERS">
+ϥ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲟⲓ">
+<norm norm="ⲟⲓ">
+<lemma lemma="ⲓⲣⲓ">
+<pos pos="VSTAT">
+ⲟⲓ
 </pos>
 </lemma>
 </norm>
@@ -8420,7 +8485,7 @@
 <orig orig="ⲭⲏⲙⲓ">
 <norm norm="ⲭⲏⲙⲓ">
 <lemma lemma="ⲭⲏⲙⲓ">
-<pos pos="N">
+<pos pos="NPROP">
 ⲭⲏⲙⲓ
 </pos>
 </lemma>
@@ -8483,7 +8548,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</lb_n>
 <lb_n lb_n="3">
 <orig_group orig_group="ⲓⲥⲁⲁⲕ">
 <norm_group norm_group="ⲓⲥⲁⲁⲕ">
@@ -8573,7 +8637,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="As long as he was in this place, he set an example of a monk's life: ">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -8818,7 +8882,7 @@
 </orig_group>
 </lb_n>
 </translation>
-<translation translation="t">
+<translation translation="first of all, he learned the psalms by heart, he fasted every day until evening, he wore a tunic of hair on his skin and on it a magnificent garment.">
 <lb_n lb_n="5">
 <orig_group orig_group="ⲛϣⲟⲣⲡ">
 <norm_group norm_group="ⲛϣⲟⲣⲡ">
@@ -9335,7 +9399,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="One day it happened that the prefect called Meneson, desiring to have him write a necessary letter, for he was the first of the notaries; but he did not find him immediately and became very angry.">
 <orig_group orig_group="ⲁⲥϣⲱⲡⲓ">
 <norm_group norm_group="ⲁⲥϣⲱⲡⲓ">
 <orig orig="ⲁ">
@@ -9404,8 +9468,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲓⲉϩⲟⲟⲩⲁϥⲙⲟⲩϯ">
-<norm_group norm_group="ⲛⲛⲓⲉϩⲟⲟⲩⲁϥⲙⲟⲩϯ">
+<orig_group orig_group="ⲛⲛⲓⲉϩⲟⲟⲩ">
+<norm_group norm_group="ⲛⲛⲓⲉϩⲟⲟⲩ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -9424,13 +9488,25 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉϩⲟⲟⲩⲁ">
-<norm norm="ⲉϩⲟⲟⲩⲁ">
-<lemma lemma="ⲉϩⲟⲟⲩⲁ">
+<orig orig="ⲉϩⲟⲟⲩ">
+<norm norm="ⲉϩⲟⲟⲩ">
+<lemma lemma="ⲉϩⲟⲟⲩ">
 <pos pos="N">
 ⲉϩⲟⲟⲩ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 </lb_n>
 <lb_n lb_n="9">
+<orig_group orig_group="ⲁϥⲙⲟⲩϯ">
+<norm_group norm_group="ⲁϥⲙⲟⲩϯ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
 ⲁ
 </pos>
 </lemma>
@@ -9503,7 +9579,7 @@
 <orig orig="ⲙⲉⲛⲉⲥⲱⲛ">
 <norm norm="ⲙⲉⲛⲉⲥⲱⲛ">
 <lemma lemma="ⲙⲉⲛⲉⲥⲱⲛ">
-<pos pos="N">
+<pos pos="NPROP">
 ⲙⲉⲛⲉⲥⲱⲛ
 </pos>
 </lemma>
@@ -9673,8 +9749,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲛⲟⲧⲁⲣⲓⲟⲥⲟⲩⲟϩ">
-<norm_group norm_group="ⲛⲛⲟⲧⲁⲣⲓⲟⲥⲟⲩⲟϩ">
+<orig_group orig_group="ⲛⲛⲟⲧⲁⲣⲓⲟⲥ">
+<norm_group norm_group="ⲛⲛⲟⲧⲁⲣⲓⲟⲥ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -9684,13 +9760,27 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛⲟⲧⲁⲣⲓⲟⲥⲟⲩⲟϩ">
-<norm norm="ⲛⲟⲧⲁⲣⲓⲟⲥⲟⲩⲟϩ">
-<lemma lemma="ⲛⲟⲧⲁⲣⲓⲟⲥⲟⲩⲟϩ">
+<orig orig="ⲛⲟⲧⲁⲣⲓⲟⲥ">
+<norm norm="ⲛⲟⲧⲁⲣⲓⲟⲥ">
+<lemma lemma="ⲛⲟⲧⲁⲣⲓⲟⲥ">
 <pos pos="N">
+<lang lang="Latin">
 ⲛⲟⲧⲁⲣⲓⲟⲥ
+</lang>
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 </lb_n>
 <lb_n lb_n="11">
+<orig_group orig_group="ⲟⲩⲟϩ">
+<norm_group norm_group="ⲟⲩⲟϩ">
+<orig orig="ⲟⲩⲟϩ">
+<norm norm="ⲟⲩⲟϩ">
+<lemma lemma="ⲟⲩⲟϩ">
+<pos pos="CONJ">
 ⲟⲩⲟϩ
 </pos>
 </lemma>
@@ -9880,7 +9970,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="He asked the boy Isaac, 'Where is your master?'">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -10088,6 +10178,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="He answered, 'I don't know.' ">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
@@ -10168,7 +10260,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="And when the little boy saw that his face was sad, he spoke to him as the holy David spoke to the king of Israel, saying: ‘Why is the face of my lord sad? command me, and I will write the letter as you wish.’ ">
 <orig_group orig_group="ⲉⲧⲁⲡⲓⲁⲗⲟⲩ">
 <norm_group norm_group="ⲉⲧⲁⲡⲓⲁⲗⲟⲩ">
 <orig orig="ⲉⲧ">
@@ -10245,8 +10337,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="6">
+</ed_page_n>
+<ed_page_n ed_page_n="6">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲉⲣⲉⲡⲉϥϩⲟ">
 <norm_group norm_group="ⲉⲣⲉⲡⲉϥϩⲟ">
@@ -10284,7 +10376,7 @@
 <orig orig="ⲟⲕⲉⲙ">
 <norm norm="ⲟⲕⲉⲙ">
 <lemma lemma="ⲟⲕⲉⲙ">
-<pos pos="N">
+<pos pos="V">
 ⲟⲕⲉⲙ
 </pos>
 </lemma>
@@ -10474,7 +10566,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲓ︤ⲥ︦ⲗ︥">
-<norm_group norm_group="ⲙⲡⲓⲥⲗ">
+<norm_group norm_group="ⲙⲡⲓⲥⲣⲁⲏⲗ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -10494,10 +10586,12 @@
 </norm>
 </orig>
 <orig orig="ⲓ︤ⲥ︦ⲗ︥">
-<norm norm="ⲓⲥⲗ">
-<lemma lemma="ⲓⲥⲗ">
+<norm norm="ⲓⲥⲣⲁⲏⲗ">
+<lemma lemma="ⲓⲥⲣⲁⲏⲗ">
 <pos pos="N">
+<lang lang="Hebrew">
 ⲓ︤ⲥ︦ⲗ︥
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -10825,7 +10919,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="The prefect, surprised at his reply, said to him, as if to put him to the test: ‘Go to one of the rooms, write it down, bring it to me, so that I may see it.’ ">
 <orig_group orig_group="ⲉⲧⲁϥⲉⲣϣⲫⲏⲣⲓ">
 <norm_group norm_group="ⲉⲧⲁϥⲉⲣϣⲫⲏⲣⲓ">
 <orig orig="ⲉⲧ">
@@ -11342,7 +11436,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="And when he had written it, he brought it and showed it to him, and when the prefect saw the letter that the little boy had written, he was stupefied. ">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -11718,8 +11812,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉϫⲱⲥⲁϥⲉⲣⲟⲩⲱ">
-<norm_group norm_group="ⲉϫⲱⲥⲁϥⲉⲣⲟⲩⲱ">
+<orig_group orig_group="ⲉϫⲱⲥ">
+<norm_group norm_group="ⲉϫⲱⲥ">
 <orig orig="ⲉϫⲱ">
 <norm norm="ⲉϫⲱ">
 <lemma lemma="ⲉϫⲉⲛ">
@@ -11729,15 +11823,27 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲁ">
-<norm norm="ⲥⲁ">
-<lemma lemma="ⲥⲁ">
-<pos pos="N">
+<orig orig="ⲥ">
+<norm norm="ⲥ">
+<lemma lemma="ⲛⲑⲟⲥ">
+<pos pos="PPERO">
 ⲥ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 </lb_n>
 </translation>
-<translation translation="t">
+<translation translation="The prefect spoke up and said: ‘You have such merit and I have not known it until today? Truly man looks at the appearance, but God at the heart.’">
 <lb_n lb_n="10">
+<orig_group orig_group="ⲁϥⲉⲣⲟⲩⲱ">
+<norm_group norm_group="ⲁϥⲉⲣⲟⲩⲱ">
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
 ⲁ
 </pos>
 </lemma>
@@ -11745,7 +11851,7 @@
 </orig>
 <orig orig="ϥ">
 <norm norm="ϥ">
-<lemma lemma="ⲛⲑⲟϥ">
+<lemma lemma="ϥ">
 <pos pos="PPERS">
 ϥ
 </pos>
@@ -11815,7 +11921,7 @@
 <orig orig="ⲟⲩⲕ">
 <norm norm="ⲟⲩⲕ">
 <lemma lemma="ⲟⲩⲕ">
-<pos pos="V">
+<pos pos="FM">
 <lang lang="Greek">
 ⲟⲩⲕ
 </lang>
@@ -11827,7 +11933,9 @@
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
 <pos pos="PTC">
+<lang lang="Greek">
 ⲟⲩⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -11959,7 +12067,7 @@
 </orig>
 <orig orig="ⲟⲟⲩ">
 <norm norm="ⲟⲟⲩ">
-<lemma lemma="ⲟⲟⲩ">
+<lemma lemma="ϩⲟⲟⲩ">
 <pos pos="N">
 ⲟⲟⲩ
 </pos>
@@ -12062,11 +12170,20 @@
 </orig_group>
 <orig_group orig_group="ⲫ︦ϯ︦">
 <norm_group norm_group="ⲫⲛⲟⲩϯ">
-<orig orig="ⲫ︦ϯ︦">
-<norm norm="ⲫⲛⲟⲩϯ">
-<lemma lemma="ⲫⲛⲟⲩϯ">
+<orig orig="ⲫ︦">
+<norm norm="ⲫ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲫ︦
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϯ︦">
+<norm norm="ⲛⲟⲩϯ">
+<lemma lemma="ⲛⲟⲩϯ">
 <pos pos="N">
-ⲫ︦ϯ︦
+ϯ︦
 </pos>
 </lemma>
 </norm>
@@ -12133,7 +12250,7 @@
 </norm_group>
 </orig_group>
 </translation>
-<translation translation="t">
+<translation translation="And from that day the prefect put him at the head of all the notaries, and everyone cherished him: all those who were in the praetorium loved him; he was called the saint because of the wisdom that was in him. ">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -12348,8 +12465,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="7">
+</ed_page_n>
+<ed_page_n ed_page_n="7">
 <lb_n lb_n="14">
 <orig_group orig_group="ⲛⲁⲩⲙⲉⲓ">
 <norm_group norm_group="ⲛⲁⲩⲙⲉⲓ">
@@ -14573,7 +14690,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲙⲡⲟⲥ">
+<norm_group norm_group="ⲙⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -14593,8 +14710,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -14990,8 +15107,8 @@
 </orig_group>
 </lb_n>
 </translation>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="8">
+</ed_page_n>
+<ed_page_n ed_page_n="8">
 <translation translation="t">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲟⲩⲟϩ">
@@ -17246,10 +17363,10 @@
 </orig_group>
 </lb_n>
 </translation>
-</ed_pg_n>
+</ed_page_n>
 </chapter_n>
 <chapter_n chapter_n="c">
-<ed_pg_n ed_pg_n="9">
+<ed_page_n ed_page_n="9">
 <translation translation="t">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲉⲣⲉⲛⲁⲓ">
@@ -19558,8 +19675,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="10">
+</ed_page_n>
+<ed_page_n ed_page_n="10">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲓⲃⲉⲛ">
 <norm_group norm_group="ⲛⲓⲃⲉⲛ">
@@ -21443,7 +21560,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲡⲟⲥ">
+<norm_group norm_group="ⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -21454,8 +21571,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -21864,8 +21981,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="11">
+</ed_page_n>
+<ed_page_n ed_page_n="11">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲁⲩϯ">
 <norm_group norm_group="ⲁⲩϯ">
@@ -21976,7 +22093,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲧⲉⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲛⲧⲉⲡⲟⲥ">
+<norm_group norm_group="ⲛⲧⲉⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
 <lemma lemma="ⲛⲧⲉ">
@@ -21996,8 +22113,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -24301,8 +24418,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="12">
+</ed_page_n>
+<ed_page_n ed_page_n="12">
 <lb_n lb_n="1">
 <orig_group orig_group="ϩⲱⲗ">
 <norm_group norm_group="ϩⲱⲗ">
@@ -26743,8 +26860,8 @@
 </orig_group>
 </lb_n>
 </translation>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="13">
+</ed_page_n>
+<ed_page_n ed_page_n="13">
 <translation translation="t">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲁϥⲧⲁⲙⲟϥ">
@@ -28924,8 +29041,8 @@
 </norm>
 </orig>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="14">
+</ed_page_n>
+<ed_page_n ed_page_n="14">
 <lb_n lb_n="1">
 <orig orig="ⲕⲟⲥⲙⲟⲥ">
 <norm norm="ⲕⲟⲥⲙⲟⲥ">
@@ -31054,8 +31171,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="15">
+</ed_page_n>
+<ed_page_n ed_page_n="15">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲙⲙⲟⲓ">
 <norm_group norm_group="ⲙⲙⲟⲓ">
@@ -33700,8 +33817,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="16">
+</ed_page_n>
+<ed_page_n ed_page_n="16">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲥⲥϧⲏⲟⲩⲧ">
 <norm_group norm_group="ⲥⲥϧⲏⲟⲩⲧ">
@@ -34282,7 +34399,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲧⲉⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲉⲧⲉⲡⲟⲥ">
+<norm_group norm_group="ⲉⲧⲉⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲉⲧⲉ">
 <norm norm="ⲉⲧⲉ">
 <lemma lemma="ⲉⲧⲉ">
@@ -34302,8 +34419,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -34550,7 +34667,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲙⲡⲟⲥ">
+<norm_group norm_group="ⲙⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -34570,8 +34687,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -35773,7 +35890,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲉⲛⲟ︦ⲥ︦">
-<norm_group norm_group="ⲙⲡⲉⲛⲟⲥ">
+<norm_group norm_group="ⲙⲡⲉⲛϭⲟⲉⲓⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -35793,8 +35910,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -35901,8 +36018,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="17">
+</ed_page_n>
+<ed_page_n ed_page_n="17">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛⲓⲃⲉⲛ">
 <norm_group norm_group="ⲛⲓⲃⲉⲛ">
@@ -38183,8 +38300,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="18">
+</ed_page_n>
+<ed_page_n ed_page_n="18">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲓⲥⲁⲁⲕ">
 <norm_group norm_group="ⲓⲥⲁⲁⲕ">
@@ -40619,8 +40736,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="19">
+</ed_page_n>
+<ed_page_n ed_page_n="19">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲙⲙⲟⲛⲁⲭⲟⲥ">
 <norm_group norm_group="ⲙⲙⲟⲛⲁⲭⲟⲥ">
@@ -42704,8 +42821,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="20">
+</ed_page_n>
+<ed_page_n ed_page_n="20">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲣⲏϯ">
 <norm_group norm_group="ⲣⲏϯ">
@@ -44392,7 +44509,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲙⲡⲟⲥ">
+<norm_group norm_group="ⲙⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -44412,8 +44529,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -45069,8 +45186,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="21">
+</ed_page_n>
+<ed_page_n ed_page_n="21">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲙⲙⲟⲥ">
 <norm_group norm_group="ⲙⲙⲟⲥ">
@@ -45350,7 +45467,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲟ︦ⲥ︦">
-<norm_group norm_group="ⲛⲟⲥ">
+<norm_group norm_group="ⲛϭⲟⲉⲓⲥ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -45361,8 +45478,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -47234,8 +47351,8 @@
 <lang lang="Greek">
 ⲙⲟ
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="22">
+</ed_page_n>
+<ed_page_n ed_page_n="22">
 <lb_n lb_n="1">
 ⲛⲁⲥⲧⲏⲣⲓⲟⲛ
 </lang>
@@ -49697,9 +49814,9 @@
 </orig_group>
 </translation>
 </lb_n>
-</ed_pg_n>
+</ed_page_n>
 </chapter_n>
-<ed_pg_n ed_pg_n="23">
+<ed_page_n ed_page_n="23">
 <chapter_n chapter_n="c">
 <translation translation="t">
 <lb_n lb_n="1">
@@ -50034,7 +50151,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲡⲟⲥ">
+<norm_group norm_group="ⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -50045,8 +50162,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -51914,7 +52031,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲙⲡⲟⲥ">
+<norm_group norm_group="ⲙⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
@@ -51934,8 +52051,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -52051,8 +52168,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="24">
+</ed_page_n>
+<ed_page_n ed_page_n="24">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲛϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ">
 <norm_group norm_group="ⲛϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ">
@@ -54162,8 +54279,8 @@
 ⲁⲧ
 </morph>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="25">
+</ed_page_n>
+<ed_page_n ed_page_n="25">
 <lb_n lb_n="1">
 <morph morph="ⲥⲙⲟⲩ">
 ⲥⲙⲟⲩ
@@ -56490,8 +56607,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="26">
+</ed_page_n>
+<ed_page_n ed_page_n="26">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲉⲣⲁϥ">
 <norm_group norm_group="ⲉⲣⲁϥ">
@@ -58836,8 +58953,8 @@
 </norm>
 </orig>
 </lb_n>
-</ed_pg_n>
-<ed_pg_n ed_pg_n="27">
+</ed_page_n>
+<ed_page_n ed_page_n="27">
 <lb_n lb_n="1">
 <orig orig="ϫⲱⲕ">
 <norm norm="ϫⲱⲕ">
@@ -60743,7 +60860,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲧⲁⲡⲟ︦ⲥ︦">
-<norm_group norm_group="ⲉⲧⲁⲡⲟⲥ">
+<norm_group norm_group="ⲉⲧⲁⲡϭⲟⲉⲓⲥ">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
 <lemma lemma="ⲉⲧⲉ">
@@ -60772,8 +60889,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -61169,7 +61286,7 @@
 </orig_group>
 </lb_n>
 </translation>
-</ed_pg_n>
+</ed_page_n>
 </pb_n>
 </chapter_n>
 </meta>
