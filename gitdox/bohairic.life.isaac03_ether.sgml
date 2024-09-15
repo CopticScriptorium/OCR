@@ -2319,7 +2319,7 @@
 <orig_group orig_group="ⲉⲑⲟⲩⲁⲃ">
 <norm_group norm_group="ⲉⲧⲟⲩⲁⲃ">
 <orig orig="ⲉⲑ">
-<norm norm="ⲉⲧ">
+<norm norm="ⲉⲑ">
 <lemma lemma="ⲉⲧⲉ">
 <pos pos="CREL">
 ⲉⲑ
@@ -2365,8 +2365,8 @@
 </norm>
 </orig>
 <orig orig="ⲟ︦ⲥ︦">
-<norm norm="ⲟⲥ">
-<lemma lemma="ⲟⲥ">
+<norm norm="ⲑⲉⲟⲥ">
+<lemma lemma="ⲑⲉⲟⲥ">
 <pos pos="N">
 ⲟ︦ⲥ︦
 </pos>
@@ -2479,7 +2479,8 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="t">
+<translation translation="And when the saint had reflected on the vision, he called his disciple and said: &quot;Is there a bishop here?&quot; ">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲉⲧⲁϥⲉⲣⲛⲩⲙⲫⲉⲓⲛ">
 <norm_group norm_group="ⲉⲧⲁϥⲉⲣⲛⲩⲙⲫⲉⲓⲛ">
 <orig orig="ⲉⲧ">
@@ -2511,7 +2512,7 @@
 </orig>
 <orig orig="ⲉⲣⲛⲩⲙⲫⲉⲓⲛ">
 <norm norm="ⲉⲣⲛⲩⲙⲫⲉⲓⲛ">
-<lemma lemma="ⲉⲣⲛⲩⲙⲫⲉⲓⲛ">
+<lemma lemma="ⲉⲣⲛⲩⲙⲫⲓⲛ">
 <pos pos="V">
 <morph morph="ⲉⲣ">
 ⲉⲣ
@@ -2775,6 +2776,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="t">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
@@ -2799,8 +2801,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲥⲉϥⲉⲙⲙⲁⲓ">
-<norm_group norm_group="ϫⲉⲥⲉϥⲉⲙⲙⲁⲓ">
+<orig_group orig_group="ϫⲉⲥⲉ">
+<norm_group norm_group="ϫⲉⲥⲉ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
@@ -2810,13 +2812,25 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲥⲉϥ">
-<norm norm="ⲥⲉϥ">
-<lemma lemma="ⲥⲱϥ">
-<pos pos="V">
+<orig orig="ⲥⲉ">
+<norm norm="ⲥⲉ">
+<lemma lemma="ⲥⲉ">
+<pos pos="PTC">
 ⲥⲉ
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="MACA.CA44">
+<orig_group orig_group="ϥⲉⲙⲙⲁⲓ">
+<norm_group norm_group="ϥⲉⲙⲙⲁⲓ">
+<orig orig="ϥ">
+<norm norm="ϥ">
+<lemma lemma="ⲛⲑⲟϥ">
+<pos pos="PPERS">
 ϥ
 </pos>
 </lemma>
@@ -2824,8 +2838,8 @@
 </orig>
 <orig orig="ⲉⲙⲙⲁⲓ">
 <norm norm="ⲉⲙⲙⲁⲓ">
-<lemma lemma="ⲉⲙⲙⲁⲓ">
-<pos pos="V">
+<lemma lemma="ⲉⲙⲛⲁⲓ">
+<pos pos="ADV">
 ⲉⲙⲙⲁⲓ
 </pos>
 </lemma>
@@ -2849,7 +2863,7 @@
 <orig orig="ⲁⲃⲃⲁ">
 <norm norm="ⲁⲃⲃⲁ">
 <lemma lemma="ⲁⲃⲃⲁ">
-<pos pos="ART">
+<pos pos="N">
 <lang lang="Hebrew">
 ⲁⲃⲃⲁ
 </lang>
@@ -2864,8 +2878,10 @@
 <orig orig="ⲅⲉⲱⲣⲅⲓⲟⲥ">
 <norm norm="ⲅⲉⲱⲣⲅⲓⲟⲥ">
 <lemma lemma="ⲅⲉⲱⲣⲅⲓⲟⲥ">
-<pos pos="N">
+<pos pos="NPROP">
+<lang lang="Greek">
 ⲅⲉⲱⲣⲅⲓⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -2940,7 +2956,7 @@
 <orig orig="ⲡⲓⲁⲙⲟⲧ">
 <norm norm="ⲡⲓⲁⲙⲟⲧ">
 <lemma lemma="ⲡⲓⲁⲙⲟⲧ">
-<pos pos="V">
+<pos pos="NPROP">
 ⲡⲓⲁⲙⲟⲧ
 </pos>
 </lemma>
