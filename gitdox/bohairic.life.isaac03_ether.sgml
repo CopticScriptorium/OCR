@@ -36904,7 +36904,7 @@
 </translation>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="MACA.CA56">
-<translation translation="t">
+<translation translation="The king did not know what the archbishop had done; but the collectors and the (Christian) leaders understood what he had done, they admired his great prudence and the astonishing graces that God had given him. ">
 <verse_n verse_n="10">
 <orig_group orig_group="ⲡⲟⲩⲣⲟ">
 <norm_group norm_group="ⲡⲟⲩⲣⲟ">
@@ -37316,7 +37316,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉϫⲉⲛⲡⲉϥⲡⲓϣϯ">
-<norm_group norm_group="ⲉϫⲉⲛⲡⲉϥⲡⲓϣϯ">
+<norm_group norm_group="ⲉϫⲉⲛⲡⲉϥⲛⲓϣϯ">
 <orig orig="ⲉϫⲉⲛ">
 <norm norm="ⲉϫⲉⲛ">
 <lemma lemma="ⲉϫⲉⲛ">
@@ -37336,8 +37336,8 @@
 </norm>
 </orig>
 <orig orig="ⲡⲓϣϯ">
-<norm norm="ⲡⲓϣϯ">
-<lemma lemma="ⲡⲓϣϯ">
+<norm norm="ⲛⲓϣϯ">
+<lemma lemma="ⲛⲓϣϯ">
 <pos pos="N">
 ⲡⲓϣϯ
 </pos>
@@ -37360,7 +37360,7 @@
 <orig orig="ⲕⲁϯ">
 <norm norm="ⲕⲁϯ">
 <lemma lemma="ⲕⲁϯ">
-<pos pos="V">
+<pos pos="N">
 ⲕⲁϯ
 </pos>
 </lemma>
@@ -37471,7 +37471,7 @@
 <norm_group norm_group="ⲁⲓⲧⲟⲩ">
 <orig orig="ⲁⲓⲧ">
 <norm norm="ⲁⲓⲧ">
-<lemma lemma="ⲁⲓⲧ">
+<lemma lemma="ⲓⲣⲓ">
 <pos pos="V">
 ⲁⲓⲧ
 </pos>
@@ -37526,7 +37526,8 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="t">
+<translation translation="The king answered: &quot;Eat where you wish.&quot; And when the archbishop had finished eating the dates, the king dismissed him.">
+<verse_n verse_n="11">
 <orig_group orig_group="ⲁϥⲉⲣⲟⲩⲱ">
 <norm_group norm_group="ⲁϥⲉⲣⲟⲩⲱ">
 <orig orig="ⲁ">
@@ -37782,8 +37783,6 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</translation>
-<translation translation="t">
 <lb_n lb_n="3">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -37993,8 +37992,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
-<translation translation="t">
+<translation translation="And the king said to the collectors and leaders, as if congratulating himself: &quot;I made him eat without the sign of the cross.&quot; They said to him with joy: &quot;He did not eat until he had traced the cross.&quot; ">
+<verse_n verse_n="12">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -38235,20 +38236,11 @@
 </orig_group>
 <orig_group orig_group="ⲁϭⲛⲉⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
 <norm_group norm_group="ⲁϭⲛⲉⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
-<orig orig="ⲁ">
-<norm norm="ⲁ">
-<lemma lemma="ⲁ">
-<pos pos="APST">
-ⲁ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ϭⲛⲉ">
-<norm norm="ϭⲛⲉ">
-<lemma lemma="ϭⲛⲟⲛ">
-<pos pos="V">
-ϭⲛⲉ
+<orig orig="ⲁϭⲛⲉ">
+<norm norm="ⲁϭⲛⲉ">
+<lemma lemma="ⲁϭⲛⲉ">
+<pos pos="PREP">
+ⲁϭⲛⲉ
 </pos>
 </lemma>
 </norm>
@@ -38290,8 +38282,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
-<translation translation="t">
 <orig_group orig_group="ⲡⲉϫⲱⲟⲩ">
 <norm_group norm_group="ⲡⲉϫⲱⲟⲩ">
 <orig orig="ⲡⲉϫⲱ">
@@ -38429,28 +38419,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲓ">
-<norm norm="ϩⲓ">
-<lemma lemma="ϩⲓ">
-<pos pos="PREP">
+<orig orig="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
+<norm norm="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
+<lemma lemma="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
+<pos pos="V">
 ϩⲓ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲡⲓ">
-<norm norm="ⲡⲓ">
-<lemma lemma="ⲡⲓ">
-<pos pos="ART">
 ⲡⲓ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲥⲧⲁⲩⲣⲟⲥ">
-<norm norm="ⲥⲧⲁⲩⲣⲟⲥ">
-<lemma lemma="ⲥⲧⲁⲩⲣⲟⲥ">
-<pos pos="N">
 <lang lang="Greek">
 ⲥⲧⲁⲩⲣⲟⲥ
 </lang>
@@ -38495,8 +38469,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
-<translation translation="t">
+<translation translation="The king said to them: &quot;How did he trace the cross?&quot; They said to him: &quot;At the moment when he put his fingers on the four sides of the basket, saying: 'Do you want me to eat from this side or from that side? Here or there?' It was then that he traced the cross on the dates.&quot; ">
+<verse_n verse_n="13">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲟⲩⲣⲟ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲟⲩⲣⲟ">
 <orig orig="ⲡⲉϫⲉ">
@@ -38550,7 +38526,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲛⲁϣⲛⲣⲏϯ">
+<orig_group orig_group="ϫⲉⲛⲁϣ">
 <norm_group norm_group="ϫⲉⲛⲁϣⲛⲣⲏϯ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
@@ -38561,31 +38537,44 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛⲁ">
-<norm norm="ⲛⲁ">
-<lemma lemma="ⲛⲁ">
-<pos pos="FUT">
-ⲛⲁ
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
+ⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣ">
-<norm norm="ϣ">
-<lemma lemma="ϣ">
-<pos pos="V">
-ϣ
+<orig orig="ⲁϣ">
+<norm norm="ⲁϣ">
+<lemma lemma="ⲁϣ">
+<pos pos="PINT">
+ⲁϣ
 </pos>
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </lb_n>
+<orig_group orig_group="ⲛⲣⲏϯ">
+<norm_group norm_group="ⲛⲣⲏϯ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
 <lb_n lb_n="8">
 <orig orig="ⲛⲣⲏϯ">
 <norm norm="ⲛⲣⲏϯ">
 <lemma lemma="ⲛⲣⲏϯ">
 <pos pos="N">
-ⲛⲣⲏϯ
+ⲣⲏϯ
 </pos>
 </lemma>
 </norm>
@@ -38612,28 +38601,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲓ">
-<norm norm="ϩⲓ">
-<lemma lemma="ϩⲓⲟⲩⲓ">
+<orig orig="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
+<norm norm="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
+<lemma lemma="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
 <pos pos="V">
 ϩⲓ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲡⲓ">
-<norm norm="ⲡⲓ">
-<lemma lemma="ⲡⲓ">
-<pos pos="ART">
 ⲡⲓ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲥⲧⲁⲩⲣⲟⲥ">
-<norm norm="ⲥⲧⲁⲩⲣⲟⲥ">
-<lemma lemma="ⲥⲧⲁⲩⲣⲟⲥ">
-<pos pos="N">
 <lang lang="Greek">
 ⲥⲧⲁⲩⲣⲟⲥ
 </lang>
@@ -38656,8 +38629,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</translation>
-<translation translation="t">
 <orig_group orig_group="ⲡⲉϫⲱⲟⲩ">
 <norm_group norm_group="ⲡⲉϫⲱⲟⲩ">
 <orig orig="ⲡⲉϫⲱ">
@@ -38802,13 +38773,46 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲡⲓⲇⲛⲥⲁ">
-<norm_group norm_group="ⲉⲡⲓⲇⲛⲥⲁ">
-<orig orig="ⲉⲡⲓⲇⲛⲥⲁ">
-<norm norm="ⲉⲡⲓⲇⲛⲥⲁ">
-<lemma lemma="ⲉⲡⲓⲇⲛⲥⲁ">
+<orig_group orig_group="ⲉⲡⲓⲇ̅">
+<norm_group norm_group="ⲉⲡⲓⲇ">
+<orig orig="ⲉⲡⲓ">
+<norm norm="ⲉⲡⲓ">
+<lemma lemma="ⲉⲡⲓ">
 <pos pos="PREP">
-ⲉⲡⲓⲇⲛⲥⲁ
+<lang lang="Greek">
+ⲉⲡⲓ
+</lang>
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲇ̅">
+<norm norm="ⲇ">
+<lemma lemma="ⲇ">
+<pos pos="NUM">
+ⲇ̅
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲥⲁ">
+<norm_group norm_group="ⲛⲥⲁ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
+ⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲥⲁ">
+<norm norm="ⲥⲁ">
+<lemma lemma="ⲥⲁ">
+<pos pos="PREP">
+ⲥⲁ
 </pos>
 </lemma>
 </norm>
@@ -38848,7 +38852,9 @@
 <norm norm="ⲕⲁⲛⲓⲥⲕⲓⲟⲛ">
 <lemma lemma="ⲕⲁⲛⲓⲥⲕⲓⲟⲛ">
 <pos pos="N">
+<lang lang="Greek">
 ⲕⲁⲛⲓⲥⲕⲓⲟⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -38994,7 +39000,7 @@
 </orig>
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
-<lemma lemma="ⲫⲁⲓ">
+<lemma lemma="ⲡⲁⲓ">
 <pos pos="PDEM">
 ⲡⲁⲓ
 </pos>
@@ -39029,7 +39035,7 @@
 <norm_group norm_group="ⲡⲁⲓⲙⲁ">
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
-<lemma lemma="ⲫⲁⲓ">
+<lemma lemma="ⲡⲁⲓ">
 <pos pos="PDEM">
 ⲡⲁⲓ
 </pos>
@@ -39060,7 +39066,7 @@
 </orig>
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
-<lemma lemma="ⲫⲁⲓ">
+<lemma lemma="ⲡⲁⲓ">
 <pos pos="PDEM">
 ⲡⲁⲓ
 </pos>
@@ -39097,7 +39103,7 @@
 <norm_group norm_group="ⲡⲁⲓⲙⲱⲓⲧ">
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
-<lemma lemma="ⲫⲁⲓ">
+<lemma lemma="ⲡⲁⲓ">
 <pos pos="PDEM">
 ⲡⲁⲓ
 </pos>
@@ -39144,28 +39150,12 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϩⲓ">
-<norm norm="ϩⲓ">
-<lemma lemma="ϩⲓⲟⲩⲓ">
+<orig orig="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
+<norm norm="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
+<lemma lemma="ϩⲓⲡⲓⲥⲧⲁⲩⲣⲟⲥ">
 <pos pos="V">
 ϩⲓ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲡⲓ">
-<norm norm="ⲡⲓ">
-<lemma lemma="ⲡⲓ">
-<pos pos="ART">
 ⲡⲓ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲥⲧⲁⲩⲣⲟⲥ">
-<norm norm="ⲥⲧⲁⲩⲣⲟⲥ">
-<lemma lemma="ⲥⲧⲁⲩⲣⲟⲥ">
-<pos pos="N">
 <lang lang="Greek">
 ⲥⲧⲁⲩⲣⲟⲥ
 </lang>
@@ -39273,8 +39263,10 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</verse_n>
 </translation>
 <translation translation="t">
+<verse_n verse_n="14">
 <lb_n lb_n="12">
 <orig_group orig_group="ⲧⲟⲧⲉ">
 <norm_group norm_group="ⲧⲟⲧⲉ">
@@ -39549,6 +39541,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </translation>
 <translation translation="t">
 <orig_group orig_group="ⲫ︦ϯ︦">
