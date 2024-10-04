@@ -1,2 +1,44 @@
-annotation	attributed_author	author	collection	Coptic_edition	copyist	corpus	country	document_cts_urn	endnote	Greek_source	idno	language	license	msContents_title_n	msContens_title _type	msItem_title 	msName	next	note	objectType	order	origDate	origDate_notAfter	OrigDate_notBefore	origDate_precision	origPlace	pages_from	pages_to	parsing	paths_authors	paths_manuscripts	paths_works	placeName	previous	project	redundant	repository	segmentation	source	source_info	tagging	title	translation	Trismegistos	version_datte	version_n	witness
-Lydia Bremer-McCollum	Theodosius of Alexandria	Theodosius of Alexandria	Oriental Manuscripts	Budge Miscellaneous 1915			Egypt				BL Or. 7810 ff. 1-50	Sahidic Coptic	CC-BY 4.0			Encomium on Michael the Archangel	MERC.AI			codex		987	987	987	hgh	Hagr Edfu	1	96	automatic	277	187	cc0387	Hagr Edfu		"Coptic SCRIPTORIUM, PATHS"	yes	British Library	automatic	OCR			Encomium on Michael the Archangel	none				
+annotation	Lydia Bremer-McCollum
+attributed_author	Theodosius of Alexandria
+author	Theodosius of Alexandria
+collection	Oriental Manuscripts
+Coptic_edition	"<a href=""https://archive.org/details/miscellaneouscop00budguoft"">Budge Miscellaneous 1915</a> pp. 321-420"
+copyist	Sirê
+corpus	theodosius.alexandria
+country	Egypt
+document_cts_urn	urn:cts:copticLit:theodosiusalex.michael.budge_ai_ed:0-70
+idno	BL Or. 7810 ff. 1-50
+language	Sahidic Coptic
+license	CC-BY 4.0
+msItem_title 	Encomium on Michael the Archangel
+msName	MERC.AI
+next	urn:cts:copticLit:theodosiusalex.michael.budge_al_ed:9-70
+note	Coptic follows Budge's transcription of MERC.AI. Chapter divisions follow the paragraph breaks in Budge's English translation.
+objectType	codex
+ocr	automatic
+order	01
+origDate	987
+origDate_notAfter	987
+OrigDate_notBefore	987
+origDate_precision	hgh
+origPlace	Hagr Edfu
+pages_from	1
+pages_to	96
+parsing	automatic
+paths_authors	"<a href=""http://paths.uniroma1.it/atlas/authors/100"">100</a>"
+paths_manuscripts	"<a href=""http://paths.uniroma1.it/atlas/manuscripts/187"">187</a>"
+paths_works	"<a href=""http://paths.uniroma1.it/atlas/works/387"">387</a>"
+placeName	Hagr Edfu
+project	Coptic SCRIPTORIUM
+redundant	no
+repository	British Library
+segmentation	automatic
+source	"<a href=""https://archive.org/details/miscellaneouscop00budguoft"">Budge Miscellaneous 1915</a> on Internet Archive"
+source_info	OCR of Budge 1915 pdf from Internet Archive using OCR4All
+tagging	automatic
+title	Encomium on Michael the Archangel (Budge ed. MERC.AI)
+translation	none
+Trismegistos	none
+version_datte	2024-10-31
+version_n	6.0.0
+witness	urn:cts:copticLit:theodosiusalex.michael.budge_al_ed:9-70
