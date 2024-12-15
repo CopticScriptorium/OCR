@@ -1,8 +1,10 @@
 <meta people="none" places="none">
 <pb_xml_id pb_xml_id="ⲕ︦ⲇ︦">
-<verse_n verse_n="24">
+<chapter_n chapter_n="24">
 <lb_n lb_n="1">
+<translation translation="About Abba Pamo.">
 <ed_line_n ed_line_n="3">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲉⲑⲃⲉⲁⲡⲁ">
 <norm_group norm_group="ⲉⲑⲃⲉⲁⲡⲁ">
 <orig orig="ⲉⲑⲃⲉ">
@@ -53,8 +55,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
 </ed_line_n>
+</translation>
 </lb_n>
+<translation translation="A certain man was seen on Mount Pernoudj, whom they called apa Pamo. He was second only to Abba Antony, and they call him apa Pamo ἀληθινόν (that is, “the truthful”), of whose virtues all the brothers bear witness.">
+<verse_n verse_n="2">
 <lb_n lb_n="2">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲁ">
@@ -280,7 +286,7 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁϥⲉⲣ">
+<orig_group orig_group="ⲁϥⲉⲣⲙⲁ">
 <norm_group norm_group="ⲁϥⲉⲣ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -309,10 +315,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲙⲁ">
-<norm_group norm_group="ⲙⲁ">
 <orig orig="ⲙⲁ">
 <norm norm="ⲙⲁ">
 <lemma lemma="ⲙⲁ">
@@ -565,7 +567,7 @@
 </lb_n>
 <lb_n lb_n="5">
 <ed_line_n ed_line_n="7">
-<orig_group orig_group="ⲉⲧⲁ">
+<orig_group orig_group="ⲉⲧⲁϯⲙⲉⲧⲥⲟⲛ">
 <norm_group norm_group="ⲉⲧⲁ">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
@@ -585,38 +587,25 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ϯⲙⲉⲧⲥⲟⲛ">
-<norm_group norm_group="ϯⲙⲉⲧⲥⲟⲛ">
 <orig orig="ϯ">
 <norm norm="ϯ">
-<lemma lemma="ⲁⲛⲟⲕ">
-<pos pos="PPERS">
+<lemma lemma="ϯ">
+<pos pos="ART">
 ϯ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲉⲧⲥⲟ">
-<norm norm="ⲙⲉⲧⲥⲟ">
-<lemma lemma="ⲙⲉⲧⲥⲟ">
-<pos pos="V">
+<orig orig="ⲙⲉⲧⲥⲟⲛ">
+<norm norm="ⲙⲉⲧⲥⲟⲛ">
+<lemma lemma="ⲙⲉⲧⲥⲟⲛ">
+<pos pos="N">
 <morph morph="ⲙⲉⲧ">
 ⲙⲉⲧ
 </morph>
-<morph morph="ⲥⲟ">
-ⲥⲟ
+<morph morph="ⲥⲟⲛ">
+ⲥⲟⲛ
 </morph>
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
 </pos>
 </lemma>
 </norm>
@@ -645,26 +634,18 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲣ">
-<norm_group norm_group="ⲉⲣ">
-<orig orig="ⲉⲣ">
-<norm norm="ⲉⲣ">
-<lemma lemma="ⲓⲣⲓ">
+<orig_group orig_group="ⲉⲣⲙⲉⲑⲣⲉ">
+<norm_group norm_group="ⲉⲣⲙⲉⲑⲣⲉ">
+<orig orig="ⲉⲣⲙⲉⲑⲣⲉ">
+<norm norm="ⲉⲣⲙⲉⲑⲣⲉ">
+<lemma lemma="ⲉⲣⲙⲉⲑⲣⲉ">
 <pos pos="V">
+<morph morph="ⲉⲣ">
 ⲉⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲙⲉⲑⲣⲉ">
-<norm_group norm_group="ⲙⲉⲑⲣⲉ">
-<orig orig="ⲙⲉⲑⲣⲉ">
-<norm norm="ⲙⲉⲑⲣⲉ">
-<lemma lemma="ⲙⲉⲑⲣⲉ">
-<pos pos="N">
+</morph>
+<morph morph="ⲙⲉⲑⲣⲉ">
 ⲙⲉⲑⲣⲉ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -717,6 +698,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
 <orig_group orig_group="ⲫⲁⲓ">
 <norm_group norm_group="ⲫⲁⲓ">
 <orig orig="ⲫⲁⲓ">
@@ -982,11 +965,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡⲁⲓⲣⲱⲛⲓ">
-<norm norm="ⲡⲁⲓⲣⲱⲛⲓ">
-<lemma lemma="ⲡⲁⲓⲣⲱⲛⲓ">
+<orig orig="ⲡⲁⲓ">
+<norm norm="ⲡⲁⲓ">
+<lemma lemma="ⲡⲁⲓ">
+<pos pos="PDEM">
+ⲡⲁⲓ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲣⲱⲙⲓ">
+<norm norm="ⲣⲱⲙⲓ">
+<lemma lemma="ⲣⲱⲙⲓ">
 <pos pos="N">
-ⲡⲁⲓⲣⲱⲛⲓ
+ⲣⲱⲙⲓ
 </pos>
 </lemma>
 </norm>
@@ -1015,44 +1007,39 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲉϥϫⲉ">
+<orig_group orig_group="ⲛⲧⲉϥϫⲉⲙⲉⲑⲛⲟⲩϫ">
 <norm_group norm_group="ⲛⲧⲉϥϫⲉ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
+<orig orig="ⲛⲧⲉ">
+<norm norm="ⲛⲧⲉ">
+<lemma lemma="ⲛⲧⲉ">
+<pos pos="ACONJ">
+ⲛⲧⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲉϥ">
-<norm norm="ⲧⲉϥ">
-<lemma lemma="ⲡⲉϥ">
-<pos pos="PPOS">
-ⲧⲉϥ
+<orig orig="ϥ">
+<norm norm="ϥ">
+<lemma lemma="ⲛⲑⲟϥ">
+<pos pos="PPERS">
+ϥ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϫⲉ">
-<norm norm="ϫⲉ">
-<lemma lemma="ϫⲉ">
-<pos pos="CONJ">
+<orig orig="ϫⲉⲙⲉⲑⲛⲟⲩϫ">
+<norm norm="ϫⲉⲙⲉⲑⲛⲟⲩϫ">
+<lemma lemma="ϫⲉⲙⲉⲑⲛⲟⲩϫ">
+<pos pos="V">
+<morph morph="ϫⲉ">
 ϫⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲙⲉⲑⲛⲟⲩϫ">
-<norm_group norm_group="ⲙⲉⲑⲛⲟⲩϫ">
-<orig orig="ⲙⲉⲑⲛⲟⲩϫ">
-<norm norm="ⲙⲉⲑⲛⲟⲩϫ">
-<lemma lemma="ⲙⲉⲑⲛⲟⲩϫ">
-<pos pos="N">
-ⲙⲉⲑⲛⲟⲩϫ
+</morph>
+<morph morph="ⲙⲉⲑ">
+ⲙⲉⲑ
+</morph>
+<morph morph="ⲛⲟⲩϫ">
+ⲛⲟⲩϫ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -2556,10 +2543,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲕ︦ⲉ">
-<verse_n verse_n="25">
+<chapter_n chapter_n="25">
 <orig_group orig_group="ϩⲓⲛⲁ">
 <norm_group norm_group="ϩⲓⲛⲁ">
 <orig orig="ϩⲓⲛⲁ">
@@ -5476,12 +5463,12 @@
 </orig_group>
 </ed_line_n>
 </lb_n>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 </ed_page_xml_id>
 <ed_page_xml_id ed_page_xml_id="0026">
 <pb_xml_id pb_xml_id="ⲕ︦ⲋ︦">
-<verse_n verse_n="26">
+<chapter_n chapter_n="26">
 <lb_n lb_n="1">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲟⲩⲟϩ">
@@ -8118,10 +8105,10 @@
 </orig_group>
 </ed_line_n>
 </lb_n>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲕ︦ⲍ︦">
-<verse_n verse_n="27">
+<chapter_n chapter_n="27">
 <lb_n lb_n="1">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲙⲙⲟϥ">
@@ -10866,10 +10853,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲕ︦ⲏ︦">
-<verse_n verse_n="28">
+<chapter_n chapter_n="28">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
 <orig orig="ⲁⲛⲟⲕ">
@@ -13633,10 +13620,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲕ︦ⲑ︦">
-<verse_n verse_n="29">
+<chapter_n chapter_n="29">
 <orig_group orig_group="ⲏⲧϥ">
 <norm_group norm_group="ⲏⲧϥ">
 <orig orig="ⲏⲧ">
@@ -16282,10 +16269,10 @@
 </orig_group>
 </ed_line_n>
 </lb_n>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲗ︦">
-<verse_n verse_n="30">
+<chapter_n chapter_n="30">
 <lb_n lb_n="1">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲁϥⲥⲁϫⲓ">
@@ -18720,10 +18707,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲗ︦ⲁ︦">
-<verse_n verse_n="31">
+<chapter_n chapter_n="31">
 <orig_group orig_group="ⲟⲩⲇⲉ">
 <norm_group norm_group="ⲟⲩⲇⲉ">
 <orig orig="ⲟⲩⲇⲉ">
@@ -21438,10 +21425,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲗ︦ⲃ︦">
-<verse_n verse_n="32">
+<chapter_n chapter_n="32">
 <orig_group orig_group="ⲛⲁϥϯ">
 <norm_group norm_group="ⲛⲁϥϯ">
 <orig orig="ⲛⲁ">
@@ -24130,10 +24117,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲗ︦ⲅ︦">
-<verse_n verse_n="33">
+<chapter_n chapter_n="33">
 <orig_group orig_group="ⲡⲁⲙⲱ">
 <norm_group norm_group="ⲡⲁⲙⲱ">
 <orig orig="ⲡⲁⲙⲱ">
@@ -26782,10 +26769,10 @@
 </orig_group>
 </ed_line_n>
 </lb_n>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲗ︦︦ⲇ︦">
-<verse_n verse_n="34">
+<chapter_n chapter_n="34">
 <lb_n lb_n="1">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲛⲧⲉⲡⲉϥⲑⲉⲃⲓⲟ">
@@ -29314,10 +29301,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲗ︦ⲉ">
-<verse_n verse_n="35">
+<chapter_n chapter_n="35">
 <orig_group orig_group="ⲧⲟⲗⲓⲟⲥ">
 <norm_group norm_group="ⲧⲟⲗⲓⲟⲥ">
 <orig orig="ⲧⲟⲗⲓⲟⲥ">
@@ -31918,10 +31905,10 @@
 </lemma>
 </norm>
 </orig>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲗ︦ⲋ︦">
-<verse_n verse_n="36">
+<chapter_n chapter_n="36">
 <orig orig="ⲛⲏ">
 <norm norm="ⲛⲏ">
 <lemma lemma="ⲫⲏ">
@@ -34502,10 +34489,10 @@
 </orig_group>
 </ed_line_n>
 </lb_n>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲗ︦ⲍ︦">
-<verse_n verse_n="37">
+<chapter_n chapter_n="37">
 <lb_n lb_n="1">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲡⲉϫⲉ">
@@ -36672,6 +36659,6 @@
 </ed_line_n>
 </lb_n>
 </ed_page_xml_id>
-</verse_n>
+</chapter_n>
 </pb_xml_id>
 </meta>
