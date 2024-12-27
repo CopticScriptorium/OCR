@@ -1555,6 +1555,8 @@
 </orig_group>
 </verse_n>
 </translation>
+<translation translation="He had a wife and two sons who did not want to become monks. When he had come to the brothers, he approached an elder and said to him: “Teach me a psalm”; for he was illiterate. ">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲛⲉ">
 <norm_group norm_group="ⲛⲉ">
 <orig orig="ⲛⲉ">
@@ -1572,7 +1574,7 @@
 <norm_group norm_group="ⲟⲩⲟⲛⲧⲉϥ">
 <orig orig="ⲟⲩⲟⲛⲧⲉ">
 <norm norm="ⲟⲩⲟⲛⲧⲉ">
-<lemma lemma="ⲟⲩⲟⲛⲧⲉ">
+<lemma lemma="ⲟⲩⲟⲛ">
 <pos pos="EXIST">
 ⲟⲩⲟⲛⲧⲉ
 </pos>
@@ -1681,7 +1683,7 @@
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
 <norm norm="ⲛⲁⲓ">
-<lemma lemma="ⲫⲁⲓ">
+<lemma lemma="ⲡⲁⲓ">
 <pos pos="PDEM">
 ⲛⲁⲓ
 </pos>
@@ -1705,8 +1707,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲡⲟⲩϯ">
-<norm_group norm_group="ⲙⲡⲟⲩϯ">
+<orig_group orig_group="ⲙⲡⲟⲩϯⲙⲁϯ">
+<norm_group norm_group="ⲙⲡⲟⲩϯⲙⲁϯ">
 <orig orig="ⲙⲡ">
 <norm norm="ⲙⲡ">
 <lemma lemma="ⲙⲡⲉ">
@@ -1725,33 +1727,16 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϯ">
-<norm norm="ϯ">
-<lemma lemma="ϯ">
+<orig orig="ϯⲙⲁϯ">
+<norm norm="ϯⲙⲁϯ">
+<lemma lemma="ϯⲙⲁϯ">
 <pos pos="V">
+<morph morph="ϯ">
 ϯ
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲙⲁϯ">
-<norm_group norm_group="ⲙⲁϯ">
-<orig orig="ⲙⲁ">
-<norm norm="ⲙⲁ">
-<lemma lemma="ⲙⲁ">
-<pos pos="N">
-ⲙⲁ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ϯ">
-<norm norm="ϯ">
-<lemma lemma="ϯ">
-<pos pos="V">
-ϯ
+</morph>
+<morph morph="ϯⲙⲁ">
+ϯⲙⲁ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -1775,8 +1760,8 @@
 </lb_n>
 <lb_n lb_n="12">
 <ed_line_n ed_line_n="14">
-<orig_group orig_group="ⲉⲑⲣⲟⲩⲉⲣ">
-<norm_group norm_group="ⲉⲑⲣⲟⲩⲉⲣ">
+<orig_group orig_group="ⲉⲑⲣⲟⲩⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
+<norm_group norm_group="ⲉⲑⲣⲟⲩⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -1813,10 +1798,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲙⲟⲛⲁⲭⲟⲥ">
-<norm_group norm_group="ⲙⲟⲛⲁⲭⲟⲥ">
 <orig orig="ⲙⲟⲛⲁⲭⲟⲥ">
 <norm norm="ⲙⲟⲛⲁⲭⲟⲥ">
 <lemma lemma="ⲙⲟⲛⲁⲭⲟⲥ">
@@ -2009,14 +1990,13 @@
 <morph morph="ⲉⲣ">
 ⲉⲣ
 </morph>
-<lang lang="Greek">
-<morph morph="ⲁⲡⲁⲛⲧⲁⲛ">
-ⲁ
 </ed_line_n>
 </lb_n>
 <lb_n lb_n="13">
 <ed_line_n ed_line_n="15">
-ⲡⲁⲛⲧⲁⲛ
+<lang lang="Greek">
+<morph morph="ⲁⲡⲁⲛⲧⲁⲛ">
+ⲁⲡⲁⲛⲧⲁⲛ
 </morph>
 </lang>
 </pos>
@@ -2111,11 +2091,29 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲁⲧⲥⲁⲃⲟⲓ">
-<norm norm="ⲙⲁⲧⲥⲁⲃⲟⲓ">
-<lemma lemma="ⲙⲁⲧⲥⲁⲃⲟⲓ">
-<pos pos="NPROP">
-ⲙⲁⲧⲥⲁⲃⲟⲓ
+<orig orig="ⲙⲁ">
+<norm norm="ⲙⲁ">
+<lemma lemma="ⲙⲁ">
+<pos pos="V">
+ⲙⲁ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲧⲥⲁⲃⲟ">
+<norm norm="ⲧⲥⲁⲃⲟ">
+<lemma lemma="ⲥⲁⲃⲟ">
+<pos pos="V">
+ⲧⲥⲁⲃⲟ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm norm="ⲓ">
+<lemma lemma="ⲁⲛⲟⲕ">
+<pos pos="PPERO">
+ⲓ
 </pos>
 </lemma>
 </norm>
@@ -2200,7 +2198,12 @@
 <norm norm="ⲁⲧⲥϧⲁⲓ">
 <lemma lemma="ⲁⲧⲥϧⲁⲓ">
 <pos pos="N">
-ⲁⲧⲥϧⲁⲓ
+<morph morph="ⲁⲧ">
+ⲁⲧ
+</morph>
+<morph morph="ⲥϧⲁⲓ">
+ⲥϧⲁⲓ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -2248,6 +2251,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
