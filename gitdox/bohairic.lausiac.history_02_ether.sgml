@@ -287,7 +287,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁϥⲉⲣⲙⲁ">
-<norm_group norm_group="ⲁϥⲉⲣ">
+<norm_group norm_group="ⲁϥⲉⲣⲙⲁ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -306,20 +306,16 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲣ">
-<norm norm="ⲉⲣ">
-<lemma lemma="ⲓⲣⲓ">
+<orig orig="ⲉⲣⲙⲁ">
+<norm norm="ⲉⲣⲙⲁ">
+<lemma lemma="ⲉⲣⲙⲁ">
 <pos pos="V">
+<morph morph="ⲉⲣ">
 ⲉⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲙⲁ">
-<norm norm="ⲙⲁ">
-<lemma lemma="ⲙⲁ">
-<pos pos="N">
+</morph>
+<morph morph="ⲙⲁ">
 ⲙⲁ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -1114,7 +1110,7 @@
 </norm>
 </orig>
 <orig orig="ⲉⲣⲛⲟⲃⲓ">
-<norm norm="ⲉⲣ">
+<norm norm="ⲉⲣⲛⲟⲃⲓ">
 <lemma lemma="ⲉⲣⲛⲟⲃⲓ">
 <pos pos="V">
 <morph morph="ⲉⲣ">
@@ -1238,21 +1234,17 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲣ">
-<norm norm="ⲉⲣ">
-<lemma lemma="ⲓⲣⲓ">
+<orig orig="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
+<norm norm="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
+<lemma lemma="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
 <pos pos="V">
+<morph morph="ⲉⲣ">
 ⲉⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲙⲟⲛⲁⲭⲟⲥ">
-<norm norm="ⲙⲟⲛⲁⲭⲟⲥ">
-<lemma lemma="ⲙⲟⲛⲁⲭⲟⲥ">
-<pos pos="N">
+</morph>
 <lang lang="Greek">
+<morph morph="ⲙⲟⲛⲁⲭⲟⲥ">
 ⲙⲟⲛⲁⲭⲟⲥ
+</morph>
 </lang>
 </pos>
 </lemma>
@@ -1785,21 +1777,17 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲣ">
-<norm norm="ⲉⲣ">
-<lemma lemma="ⲓⲣⲓ">
+<orig orig="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
+<norm norm="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
+<lemma lemma="ⲉⲣⲙⲟⲛⲁⲭⲟⲥ">
 <pos pos="V">
+<morph morph="ⲉⲣ">
 ⲉⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲙⲟⲛⲁⲭⲟⲥ">
-<norm norm="ⲙⲟⲛⲁⲭⲟⲥ">
-<lemma lemma="ⲙⲟⲛⲁⲭⲟⲥ">
-<pos pos="N">
+</morph>
 <lang lang="Greek">
+<morph morph="ⲙⲟⲛⲁⲭⲟⲥ">
 ⲙⲟⲛⲁⲭⲟⲥ
+</morph>
 </lang>
 </pos>
 </lemma>
@@ -2561,20 +2549,16 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲣ">
-<norm norm="ⲉⲣ">
-<lemma lemma="ⲓⲣⲓ">
+<orig orig="ⲉⲣⲛⲟⲃⲓ">
+<norm norm="ⲉⲣⲛⲟⲃⲓ">
+<lemma lemma="ⲉⲣⲛⲟⲃⲓ">
 <pos pos="V">
+<morph morph="ⲉⲣ">
 ⲉⲣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲛⲟⲃⲓ">
-<norm norm="ⲛⲟⲃⲓ">
-<lemma lemma="ⲛⲟⲃⲓ">
-<pos pos="N">
+</morph>
+<morph morph="ⲛⲟⲃⲓ">
 ⲛⲟⲃⲓ
+</morph>
 </pos>
 </lemma>
 </norm>
