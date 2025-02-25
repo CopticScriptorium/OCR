@@ -8849,7 +8849,7 @@
 <orig orig="ⲭ︦ⲥ︦">
 <norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
 <lemma lemma="ⲭⲣⲓⲥⲧⲟⲥ">
-<pos pos="NPROP">
+<pos pos="N">
 <lang lang="Greek">
 ⲭ︦ⲥ︦
 </lang>
@@ -9362,7 +9362,7 @@
 <orig orig="ⲭⲥ">
 <norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
 <lemma lemma="ⲭⲣⲓⲥⲧⲟⲥ">
-<pos pos="NPROP">
+<pos pos="N">
 <lang lang="Greek">
 ⲭⲥ
 </lang>
@@ -10463,7 +10463,7 @@
 <orig orig="ⲭ︦ⲥ︦">
 <norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
 <lemma lemma="ⲭⲣⲓⲥⲧⲟⲥ">
-<pos pos="NPROP">
+<pos pos="N">
 <lang lang="Greek">
 ⲭ︦ⲥ︦
 </lang>
@@ -33295,8 +33295,8 @@
 </ed_line_n>
 </translation>
 </verse_n>
-<translation translation="It is better, therefore, to drink wine with good judgment than to drink water with pride. Consider those righteous ones who drank wine with good judgment, and do not regard as images of demons those who drink water with improper thoughts. I am not one to criticize or judge, for the one who eats, eats to the Lord and gives thanks to the Lord; and the one who does not eat, does not eat to the Lord and gives thanks to God. But it is very important that a person's affliction be carried out rationally, lest they fall into the mockery of demons.">
 <verse_n verse_n="30">
+<translation translation="It is better, therefore, to drink wine with good judgment than to drink water with pride.">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲛⲁⲛⲉⲥ">
 <norm_group norm_group="ⲛⲁⲛⲉⲥ">
@@ -33403,8 +33403,8 @@
 <norm_group norm_group="ⲉⲛⲁⲛⲉϥ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -33511,8 +33511,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="c">
+<translation translation="Consider those righteous ones who drank wine with good judgment, and do not regard as images of demons those who drink water with improper thoughts.">
 <orig_group orig_group="ⲙⲁϩⲑⲏⲕ">
 <norm_group norm_group="ⲙⲁϩⲑⲏⲕ">
 <orig orig="ⲙⲁ">
@@ -33736,16 +33738,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϯϩⲑⲏ">
-<norm norm="ϯϩⲑⲏ">
-<lemma lemma="ϯϩⲑⲏ">
+<orig orig="ϯ">
+<norm norm="ϯ">
+<lemma lemma="ϯ">
 <pos pos="V">
-<morph morph="ϯ">
 ϯ
-</morph>
-<morph morph="ϩⲑⲏ">
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϩⲑⲏ">
+<norm norm="ϩⲑⲏ">
+<lemma lemma="ϩⲏⲧ">
+<pos pos="N">
 ϩⲑⲏ
-</morph>
 </pos>
 </lemma>
 </norm>
@@ -33955,12 +33961,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="I am not one to criticize or judge, for the one who eats, eats to the Lord and gives thanks to the Lord; and the one who does not eat, does not eat to the Lord and gives thanks to God.">
 <orig_group orig_group="ⲉⲓⲙⲫⲣⲏϯ">
 <norm_group norm_group="ⲉⲓⲙⲫⲣⲏϯ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="CCIRC">
+<lemma lemma="ⲁⲣⲉ">
+<pos pos="CFOC">
 ⲉ
 </pos>
 </lemma>
@@ -34162,7 +34170,7 @@
 <norm_group norm_group="ⲁϥⲟⲩⲱⲙ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
-<lemma lemma="ⲁ">
+<lemma lemma="ⲁⲣⲉ">
 <pos pos="CFOC">
 ⲁ
 </pos>
@@ -34358,7 +34366,7 @@
 <norm_group norm_group="ⲁϥⲟⲩⲱⲙ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
-<lemma lemma="ⲁ">
+<lemma lemma="ⲁⲣⲉ">
 <pos pos="CFOC">
 ⲁ
 </pos>
@@ -34502,6 +34510,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="But it is very important that a person's affliction be carried out rationally, lest they fall into the mockery of demons.">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -34816,10 +34826,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
 </translation>
-<translation translation="I do not criticize food, nor do I exalt it with praise, but rather the judgment that receives food with good counsel. Those who receive good food I consider weak and ignorant. Look at the blessed Joseph: he drank wine with good judgment in the land of Egypt, but his mind was not changed, nor was his discipline corrupted. For his heart was steadfast, and his master's wife could not deceive him into defilement. On the other hand, philosophers such as Pythagoras, Diogenes, Plato, and the Manichees who originated from them, and all the groups of false sages, drank water and committed such great sins of this kind that they forgot God and worshiped impure idols.">
+</verse_n>
 <verse_n verse_n="31">
+<translation translation="I do not criticize food, nor do I exalt it with praise, but rather the judgment that receives food with good counsel. ">
 <orig_group orig_group="ϯϣⲱϣϥ">
 <norm_group norm_group="ϯϣⲱϣϥ">
 <orig orig="ϯ">
@@ -35183,6 +35193,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="Those who receive good food I consider weak and ignorant.">
 <orig_group orig_group="ⲛⲏ">
 <norm_group norm_group="ⲛⲏ">
 <orig orig="ⲛⲏ">
@@ -35346,7 +35358,7 @@
 <orig orig="ϫⲱⲃ">
 <norm norm="ϫⲱⲃ">
 <lemma lemma="ϫⲱⲃ">
-<pos pos="V">
+<pos pos="N">
 ϫⲱⲃ
 </pos>
 </lemma>
@@ -35407,6 +35419,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="Look at the blessed Joseph: he drank wine with good judgment in the land of Egypt, but his mind was not changed, nor was his discipline corrupted.">
 <orig_group orig_group="ⲁⲛⲁⲩ">
 <norm_group norm_group="ⲁⲛⲁⲩ">
 <orig orig="ⲁⲛⲁⲩ">
@@ -35739,6 +35753,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="For his heart was steadfast, and his master's wife could not deceive him into defilement. ">
 <orig_group orig_group="ⲛⲁϥⲧⲁϫⲣⲏⲟⲩⲧ">
 <norm_group norm_group="ⲛⲁϥⲧⲁϫⲣⲏⲟⲩⲧ">
 <orig orig="ⲛⲁ">
@@ -36020,6 +36036,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="On the other hand, philosophers such as Pythagoras, Diogenes, Plato, and the Manichees who originated from them, and all the groups of false sages, drank water and committed such great sins of this kind that they forgot God and worshiped impure idols.">
 <orig_group orig_group="ⲁⲩⲥⲉⲙⲱⲟⲩ">
 <norm_group norm_group="ⲁⲩⲥⲉⲙⲱⲟⲩ">
 <orig orig="ⲁ">
@@ -36114,7 +36132,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲧⲉⲡⲓⲑⲁⲅⲟⲣⲁⲥ">
-<norm_group norm_group="ⲉⲧⲉⲡⲓⲑⲁⲅⲟⲣⲁⲥ">
+<norm_group norm_group="ⲉⲧⲉⲡⲩⲑⲁⲅⲟⲣⲁⲥ">
 <orig orig="ⲉⲧⲉ">
 <norm norm="ⲉⲧⲉ">
 <lemma lemma="ⲉⲧⲉ">
@@ -36125,10 +36143,12 @@
 </norm>
 </orig>
 <orig orig="ⲡⲓⲑⲁⲅⲟⲣⲁⲥ">
-<norm norm="ⲡⲓⲑⲁⲅⲟⲣⲁⲥ">
-<lemma lemma="ⲡⲓⲑⲁⲅⲟⲣⲁⲥ">
+<norm norm="ⲡⲩⲑⲁⲅⲟⲣⲁⲥ">
+<lemma lemma="ⲡⲩⲑⲁⲅⲟⲣⲁⲥ">
 <pos pos="NPROP">
+<lang lang="Greek">
 ⲡⲓⲑⲁⲅⲟⲣⲁⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -36187,7 +36207,9 @@
 <norm norm="ⲡⲗⲁⲧⲱⲛ">
 <lemma lemma="ⲡⲗⲁⲧⲱⲛ">
 <pos pos="NPROP">
+<lang lang="Greek">
 ⲡⲗⲁⲧⲱⲛ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -36226,8 +36248,10 @@
 <orig orig="ⲙⲁⲛⲓⲭⲉⲟⲥ">
 <norm norm="ⲙⲁⲛⲓⲭⲉⲟⲥ">
 <lemma lemma="ⲙⲁⲛⲓⲭⲉⲟⲥ">
-<pos pos="N">
+<pos pos="NPROP">
+<lang lang="Aramaic">
 ⲙⲁⲛⲓⲭⲉⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -36557,9 +36581,9 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲱⲥⲇⲉ">
-<norm_group norm_group="ϩⲱⲥⲇⲉ">
+<norm_group norm_group="ϩⲱⲥⲧⲉ">
 <orig orig="ϩⲱⲥⲇⲉ">
-<norm norm="ϩⲱⲥⲇⲉ">
+<norm norm="ϩⲱⲥⲧⲉ">
 <lemma lemma="ϩⲱⲥⲧⲉ">
 <pos pos="CONJ">
 ϩⲱⲥⲇⲉ
@@ -36763,10 +36787,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
 </translation>
-<translation translation="Those in the house of Peter and all the disciples of our Lord Jesus Christ also drank wine with Him, so much so that the Jews murmured against the Master, saying: “Why do your disciples not fast like John's disciples?” But the Lord rebuked their foolishness, saying: “The sons of the bridegroom cannot fast while the bridegroom is with them,” meaning that He Himself, who dwelt in their minds and good counsel, was present with them.">
+</verse_n>
 <verse_n verse_n="32">
+<translation translation="Those in the house of Peter and all the disciples of our Lord Jesus Christ also drank wine with Him, so much so that the Jews murmured against the Master, saying: “Why do your disciples not fast like John's disciples?”">
 <orig_group orig_group="ⲁⲩⲥⲉⲏⲣⲡ">
 <norm_group norm_group="ⲁⲩⲥⲉⲏⲣⲡ">
 <orig orig="ⲁ">
@@ -37044,10 +37068,10 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲱⲥⲇⲉ">
-<norm_group norm_group="ϩⲱⲥⲇⲉ">
+<norm_group norm_group="ϩⲱⲥⲧⲉ">
 <orig orig="ϩⲱⲥⲇⲉ">
-<norm norm="ϩⲱⲥⲇⲉ">
-<lemma lemma="ϩⲱⲥⲇⲉ">
+<norm norm="ϩⲱⲥⲧⲉ">
+<lemma lemma="ϩⲱⲥⲧⲉ">
 <pos pos="CONJ">
 ϩⲱⲥⲇⲉ
 </pos>
@@ -37309,12 +37333,14 @@
 <morph morph="ⲉⲣ">
 ⲉⲣ
 </morph>
+<lang lang="Greek">
 <morph morph="ⲛⲏⲥⲧⲉⲩⲓⲛ">
 ⲛⲏ
 </ed_line_n>
 <ed_line_n ed_line_n="16">
 ⲥⲧⲉⲩⲓⲛ
 </morph>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -37422,8 +37448,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="c">
+<translation translation="But the Lord rebuked their foolishness, saying: “The sons of the bridegroom cannot fast while the bridegroom is with them,” meaning that He Himself, who dwelt in their minds and good counsel, was present with them.">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -37651,7 +37679,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲧⲉⲡⲓⲡⲉⲧϣⲉⲗⲉⲧ">
-<norm_group norm_group="ⲛⲧⲉⲡⲓⲡⲉⲧϣⲉⲗⲉⲧ">
+<norm_group norm_group="ⲛⲧⲉⲡⲓⲡⲁⲧϣⲉⲗⲉⲧ">
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
 <lemma lemma="ⲛⲧⲉ">
@@ -37672,11 +37700,14 @@
 </norm>
 </orig>
 <orig orig="ⲡⲉⲧϣⲉⲗⲉⲧ">
-<norm norm="ⲡⲉⲧϣⲉⲗⲉⲧ">
-<lemma lemma="ⲡⲉⲧϣⲉⲗⲉⲧ">
+<norm norm="ⲡⲁⲧϣⲉⲗⲉⲧ">
+<lemma lemma="ⲡⲁⲧϣⲉⲗⲉⲧ">
 <pos pos="N">
-<morph morph="ⲡⲉⲧ">
-ⲡⲉⲧ
+<morph morph="ⲡⲉ">
+ⲡⲉ
+</morph>
+<morph morph="ⲧ">
+ⲧ
 </morph>
 <morph morph="ϣⲉⲗⲉⲧ">
 ϣⲉⲗⲉⲧ
@@ -37697,9 +37728,11 @@
 <morph morph="ⲉⲣ">
 ⲉⲣ
 </morph>
+<lang lang="Greek">
 <morph morph="ⲛⲏⲥⲧⲉⲩⲓⲛ">
 ⲛⲏⲥⲧⲉⲩⲓⲛ
 </morph>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -37745,8 +37778,11 @@
 <norm norm="ⲡⲁⲧϣⲉⲗⲉⲧ">
 <lemma lemma="ⲡⲁⲧϣⲉⲗⲉⲧ">
 <pos pos="N">
-<morph morph="ⲡⲁⲧ">
-ⲡⲁⲧ
+<morph morph="ⲡⲁ">
+ⲡⲁ
+</morph>
+<morph morph="ⲧ">
+ⲧ
 </morph>
 </ed_line_n>
 <ed_line_n ed_line_n="2">
@@ -37946,10 +37982,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
 </translation>
-<translation translation="Again, they rebuked His disciples, saying: “Why does your teacher eat and drink with publicans and sinners?” They criticized the Savior only because He truly ate and drank. The Lord Jesus Christ answered them: “John the Baptist came to you neither eating nor drinking, and you said, ‘He has a demon’ (for he did not eat meat nor drink wine, though no one can live in the body without eating food or drinking water); the Son of Man came eating and drinking, and you say, ‘Behold a man who eats and drinks, who is a friend of publicans and sinners.’” Thus, Wisdom was fulfilled by His deeds.">
+</verse_n>
 <verse_n verse_n="33">
+<translation translation="Again, they rebuked His disciples, saying: “Why does your teacher eat and drink with publicans and sinners?”">
 <orig_group orig_group="ⲡⲁⲗⲓⲛ">
 <norm_group norm_group="ⲡⲁⲗⲓⲛ">
 <orig orig="ⲡⲁⲗⲓⲛ">
@@ -38080,23 +38116,19 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲡⲉⲧⲉⲛ‐">
-<norm_group norm_group="ⲡⲉⲧⲉⲛ‐">
-<orig orig="ⲡⲉⲧⲉⲛ‐">
-<norm norm="ⲡⲉⲧⲉⲛ‐">
-<lemma lemma="ⲡⲉⲧⲉⲛ‐">
+<orig_group orig_group="ⲡⲉⲧⲉⲛⲣⲉϥϯⲥⲃⲱ">
+<norm_group norm_group="ⲡⲉⲧⲉⲛⲣⲉϥϯⲥⲃⲱ">
+<orig orig="ⲡⲉⲧⲉⲛ">
+<norm norm="ⲡⲉⲧⲉⲛ">
+<lemma lemma="ⲡⲉⲧⲉⲛ">
 <pos pos="PPOS">
-ⲡⲉⲧⲉⲛ‐
+ⲡⲉⲧⲉⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲓ︦︦ⲏ︦">
-<orig_group orig_group="ⲣⲉϥϯⲥⲃⲱ">
-<norm_group norm_group="ⲣⲉϥϯⲥⲃⲱ">
 <orig orig="ⲣⲉϥϯⲥⲃⲱ">
 <norm norm="ⲣⲉϥϯⲥⲃⲱ">
 <lemma lemma="ⲣⲉϥϯⲥⲃⲱ">
@@ -38248,6 +38280,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="They criticized the Savior only because He truly ate and drank.">
 <orig_group orig_group="ⲛⲁⲩϫⲉⲙⲁⲣⲓⲕⲓ">
 <norm_group norm_group="ⲛⲁⲩϫⲉⲙⲁⲣⲓⲕⲓ">
 <orig orig="ⲛⲁ">
@@ -38470,6 +38504,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="The Lord Jesus Christ answered them: “John the Baptist came to you neither eating nor drinking, and you said, ‘He has a demon’ (for he did not eat meat nor drink wine, though no one can live in the body without eating food or drinking water);">
 <orig_group orig_group="ⲁϥⲉⲣⲟⲩⲱ">
 <norm_group norm_group="ⲁϥⲉⲣⲟⲩⲱ">
 <orig orig="ⲁ">
@@ -38554,13 +38590,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲭ︦ⲥ︦">
-<norm_group norm_group="ⲛⲭⲣⲓⲥⲧⲟⲥ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
+<orig_group orig_group="ⲡⲭ︦ⲥ︦">
+<norm_group norm_group="ⲡⲭⲣⲓⲥⲧⲟⲥ">
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
 <pos pos="PREP">
-ⲛ
+ⲡ
 </pos>
 </lemma>
 </norm>
@@ -38568,7 +38604,7 @@
 <orig orig="ⲭ︦ⲥ︦">
 <norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
 <lemma lemma="ⲭⲣⲓⲥⲧⲟⲥ">
-<pos pos="NPROP">
+<pos pos="N">
 <lang lang="Greek">
 ⲭ︦ⲥ︦
 </lang>
@@ -39084,9 +39120,9 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲙⲟⲛⲉϣ">
-<norm_group norm_group="ⲙⲙⲟⲛⲉϣ">
 <note note="sic">
+<orig_group orig_group="ⲙⲙⲟⲛ">
+<norm_group norm_group="ⲙⲙⲟⲛ">
 <orig orig="ⲙⲙⲟⲛ">
 <norm norm="ⲙⲙⲟⲛ">
 <lemma lemma="ⲙⲙⲟⲛ">
@@ -39096,6 +39132,10 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉϣ">
+<norm_group norm_group="ⲉϣ">
 <orig orig="ⲉϣ">
 <norm norm="ⲉϣ">
 <lemma lemma="ϣ">
@@ -39105,9 +39145,9 @@
 </lemma>
 </norm>
 </orig>
-</note>
 </norm_group>
 </orig_group>
+</note>
 <orig_group orig_group="ⲟⲩⲣⲱⲙⲓ">
 <norm_group norm_group="ⲟⲩⲣⲱⲙⲓ">
 <orig orig="ⲟⲩ">
@@ -39202,8 +39242,6 @@
 <morph morph="ⲟⲩⲉⲙ">
 ⲟⲩⲉⲙ
 </morph>
-</norm_group>
-</orig_group>
 <morph morph="ϧⲣⲉ">
 ϧⲣⲉ
 </morph>
@@ -39211,6 +39249,8 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲛⲉⲙⲙⲱⲟⲩ">
 <norm_group norm_group="ⲛⲉⲙⲙⲱⲟⲩ">
 <orig orig="ⲛⲉⲙ">
@@ -39268,6 +39308,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="The Son of Man came eating and drinking, and you say, ‘Behold a man who eats and drinks, who is a friend of publicans and sinners.’”">
 <orig_group orig_group="ⲁϥⲓ">
 <norm_group norm_group="ⲁϥⲓ">
 <orig orig="ⲁ">
@@ -39699,7 +39741,9 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
+</translation>
 <ed_line_n ed_line_n="14">
+<translation translation="Thus, Wisdom was fulfilled by its deeds.">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -39834,10 +39878,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
 </translation>
-<translation translation="What then do you think we should do? Let us follow neither those who heap praises on us nor those who criticize us, but let us follow John the Baptist. Let us fast intelligently with him, even if they say, “He has a demon.” Let us drink wine and eat fish with Christ in thanksgiving and with good counsel if our flesh is weak or in need, even if they say, “Behold, men who eat meat and drink wine.”">
+</verse_n>
 <verse_n verse_n="34">
+<translation translation="What then do you think we should do? Let us follow neither those who heap praises on us nor those who criticize us, but let us follow John the Baptist, let us fast intelligently with him, even if they say, “He has a demon.”">
 <orig_group orig_group="ⲭⲟⲩⲱϣ">
 <norm_group norm_group="ⲭⲟⲩⲱϣ">
 <orig orig="ⲭ">
@@ -40081,20 +40125,11 @@
 </orig_group>
 <orig_group orig_group="ⲙⲡⲉⲛⲑⲣⲉⲛⲙⲟϣⲓ">
 <norm_group norm_group="ⲙⲡⲉⲛⲑⲣⲉⲛⲙⲟϣⲓ">
-<orig orig="ⲙⲡⲉⲛ">
-<norm norm="ⲙⲡⲉⲛ">
-<lemma lemma="ⲙⲡⲉⲛ">
-<pos pos="NEG">
-ⲙⲡⲉⲛ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲑⲣⲉ">
-<norm norm="ⲑⲣⲉ">
-<lemma lemma="ⲑⲣⲉ">
-<pos pos="ACAUS">
-ⲑⲣⲉ
+<orig orig="ⲙⲡⲉⲛⲑⲣⲉ">
+<norm norm="ⲙⲡⲉⲛⲑⲣⲉ">
+<lemma lemma="ⲙⲡⲉⲛⲑⲣⲉ">
+<pos pos="ANEGJUS">
+ⲙⲡⲉⲛⲑⲣⲉ
 </pos>
 </lemma>
 </norm>
@@ -40270,9 +40305,11 @@
 <morph morph="ⲉⲣ">
 ⲉⲣ
 </morph>
+<lang lang="Greek">
 <morph morph="ⲛⲏⲥⲧⲉⲩⲓⲛ">
 ⲛⲏⲥⲧⲉⲩⲓⲛ
 </morph>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -40352,10 +40389,10 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲟⲩϣⲁⲛϫⲟⲥ">
-<norm_group norm_group="ⲟⲩϣⲁⲛϫⲟⲥ">
+<norm_group norm_group="ⲁⲩϣⲁⲛϫⲟⲥ">
 <orig orig="ⲟⲩϣⲁⲛ">
-<norm norm="ⲟⲩϣⲁⲛ">
-<lemma lemma="ⲟⲩϣⲁⲛ">
+<norm norm="ⲁⲩϣⲁⲛ">
+<lemma lemma="ⲁⲣⲉϣⲁⲛ_ⲛⲑⲱⲟⲩ">
 <pos pos="ACOND_PPERS">
 ⲟⲩϣⲁⲛ
 </pos>
@@ -40463,6 +40500,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="Let us drink wine and eat fish with Christ in thanksgiving and with good counsel if our flesh is weak or in need, even if they say, “Behold, men who eat meat and drink wine.”">
 <orig_group orig_group="ⲙⲁⲣⲉⲛⲥⲉⲏⲣⲡ">
 <norm_group norm_group="ⲙⲁⲣⲉⲛⲥⲉⲏⲣⲡ">
 <orig orig="ⲙⲁⲣⲉ">
@@ -40563,7 +40602,7 @@
 <orig orig="ⲭ︦ⲥ︦">
 <norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
 <lemma lemma="ⲭⲣⲓⲥⲧⲟⲥ">
-<pos pos="NPROP">
+<pos pos="N">
 <lang lang="Greek">
 ⲭ︦ⲥ︦
 </lang>
@@ -40752,10 +40791,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
 </translation>
-<translation translation="For eating or not eating is nothing, but what matters is right faith, which is required of you, and the observance of the commandments, which is made evident through good works. If, therefore, every good work we do for God is accompanied by faith—whether eating, drinking, or any other act—such works cannot be condemned because of right faith. However, any work done apart from faith is sin.">
+</verse_n>
 <verse_n verse_n="35">
+<translation translation="For not eating is nothing, but what matters is right faith, which is required of you, and the observance of the commandments, which is made evident through good works.">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -40958,7 +40997,7 @@
 <norm_group norm_group="ⲛⲧⲟⲧⲉⲛ">
 <orig orig="ⲛⲧⲟⲧ">
 <norm norm="ⲛⲧⲟⲧ">
-<lemma lemma="ⲛⲧⲛ">
+<lemma lemma="ⲛⲧⲉⲛ">
 <pos pos="PREP">
 ⲛⲧⲟ
 </pos>
@@ -41195,8 +41234,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="c">
+<translation translation="If, therefore, every good work we do for God is accompanied by faith—whether eating, drinking, or any other act—such works cannot be condemned because of right faith.">
 <orig_group orig_group="ⲉϣⲱⲡ">
 <norm_group norm_group="ⲉϣⲱⲡ">
 <orig orig="ⲉϣⲱⲡ">
@@ -41694,6 +41735,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="However, any work done apart from faith is sin.">
 <orig_group orig_group="ϩⲱⲃ">
 <norm_group norm_group="ϩⲱⲃ">
 <orig orig="ϩⲱⲃ">
@@ -41840,10 +41883,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
 </translation>
-<translation translation="But since there are those who eat with passion and indulgence, saying, “We eat with faith,” and who do not eat according to the measure of sufficiency but with insatiable greed, how shall we discern them? Certainly, we will recognize them, for Christ, our Savior, says: “You will know them by their fruits.” The fruits of those who strive in righteousness are, as the Apostle says: love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. These are the fruits of the Spirit.">
+</verse_n>
 <verse_n verse_n="36">
+<translation translation="But since there are those who eat with passion and indulgence, saying, “We eat with faith,” and who do not eat according to the measure of sufficiency but with insatiable greed, how shall we discern them?">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -42061,8 +42104,8 @@
 </orig>
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲁⲛⲟⲛ">
-<pos pos="PPERS">
+<lemma lemma="ⲡ">
+<pos pos="ART">
 ⲛ
 </pos>
 </lemma>
@@ -42071,7 +42114,7 @@
 <orig orig="ⲟⲩⲱⲙ">
 <norm norm="ⲟⲩⲱⲙ">
 <lemma lemma="ⲟⲩⲱⲙ">
-<pos pos="V">
+<pos pos="N">
 ⲟⲩⲱⲙ
 </pos>
 </lemma>
@@ -42394,6 +42437,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="Certainly, we will recognize them, for Christ, our Savior, says: “You will know them by their fruits.”">
 <orig_group orig_group="ⲧⲉⲛⲛⲁⲉⲙⲓ">
 <norm_group norm_group="ⲧⲉⲛⲛⲁⲉⲙⲓ">
 <orig orig="ⲧⲉⲛ">
@@ -42533,7 +42578,7 @@
 <orig orig="ⲭ︦ⲥ︦">
 <norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
 <lemma lemma="ⲭⲣⲓⲥⲧⲟⲥ">
-<pos pos="NPROP">
+<pos pos="N">
 <lang lang="Greek">
 ⲭ︦ⲥ︦
 </lang>
@@ -42565,8 +42610,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϧⲉⲛ">
-<norm_group norm_group="ϧⲉⲛ">
+<orig_group orig_group="ϧⲉⲛⲛⲟⲩⲟⲩⲧⲁϩ">
+<norm_group norm_group="ϧⲉⲛⲛⲟⲩⲟⲩⲧⲁϩ">
 <orig orig="ϧⲉⲛ">
 <norm norm="ϧⲉⲛ">
 <lemma lemma="ϧⲉⲛ">
@@ -42576,10 +42621,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲛⲟⲩⲟⲩⲧⲁϩ">
-<norm_group norm_group="ⲛⲟⲩⲟⲩⲧⲁϩ">
 <orig orig="ⲛⲟⲩ">
 <norm norm="ⲛⲟⲩ">
 <lemma lemma="ⲡⲟⲩ">
@@ -42606,8 +42647,8 @@
 <norm_group norm_group="ⲉⲣⲉⲧⲉⲛⲥⲟⲩⲱⲛⲟⲩ">
 <orig orig="ⲉⲣⲉ">
 <norm norm="ⲉⲣⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
+<lemma lemma="ⲁⲣⲉ">
+<pos pos="CFOC">
 ⲉⲣⲉ
 </pos>
 </lemma>
@@ -42655,6 +42696,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</translation>
+<translation translation="The fruits of those who strive in righteousness are, as the Apostle says: love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control.">
 <orig_group orig_group="ⲡⲟⲩⲧⲁϩ">
 <norm_group norm_group="ⲡⲟⲩⲧⲁϩ">
 <orig orig="ⲡ">
@@ -42714,8 +42757,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲧⲉⲣⲁⲅⲱⲛⲓ">
-<norm_group norm_group="ⲉⲧⲉⲣⲁⲅⲱⲛⲓ">
+<orig_group orig_group="ⲉⲧⲉⲣⲁⲅⲱⲛⲓⲍⲉⲥⲑⲉ">
+<norm_group norm_group="ⲉⲧⲉⲣⲁⲅⲱⲛⲓⲍⲉⲥⲑⲉ">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
 <lemma lemma="ⲉⲧⲉ">
@@ -42732,22 +42775,18 @@
 <morph morph="ⲉⲣ">
 ⲉⲣ
 </morph>
-<morph morph="ⲁⲅⲱⲛⲓ">
+<morph morph="ⲁⲅⲱⲛⲓⲍⲉⲥⲑⲉ">
 ⲁⲅⲱⲛⲓ
-</morph>
-</norm_group>
-</orig_group>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲕ︦">
-<orig_group orig_group="ⲍⲉⲥⲑⲉ">
-<norm_group norm_group="ⲍⲉⲥⲑⲉ">
 ⲍⲉⲥⲑⲉ
-</norm_group>
-</orig_group>
+</morph>
 </pos>
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </ed_line_n>
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ϧⲉⲛⲟⲩⲙⲉⲑⲙⲏⲓ">
@@ -43000,9 +43039,11 @@
 </orig>
 <orig orig="ϩⲓⲣⲓⲛⲏ">
 <norm norm="ϩⲓⲣⲓⲛⲏ">
-<lemma lemma="ϩⲓⲣⲏⲛⲏ">
+<lemma lemma="ⲉⲓⲣⲏⲛⲏ">
 <pos pos="N">
+<lang lang="Greek">
 ϩⲓⲣⲓⲛⲏ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -43177,8 +43218,8 @@
 <norm_group norm_group="ϯⲉⲛⲕⲣⲁⲧⲓⲁ">
 <orig orig="ϯ">
 <norm norm="ϯ">
-<lemma lemma="ϯ">
-<pos pos="V">
+<lemma lemma="ⲡⲓ">
+<pos pos="ART">
 ϯ
 </pos>
 </lemma>
@@ -43187,8 +43228,10 @@
 <orig orig="ⲉⲛⲕⲣⲁⲧⲓⲁ">
 <norm norm="ⲉⲛⲕⲣⲁⲧⲓⲁ">
 <lemma lemma="ⲉⲛⲕⲣⲁⲧⲓⲁ">
-<pos pos="PREP">
+<pos pos="N">
+<lang lang="Greek">
 ⲉⲛⲕⲣⲁⲧⲓⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -43196,7 +43239,9 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
+</translation>
 <ed_line_n ed_line_n="3">
+<translation translation="These are the fruits of the Spirit.">
 <orig_group orig_group="ⲫⲁⲓ">
 <norm_group norm_group="ⲫⲁⲓ">
 <orig orig="ⲫⲁⲓ">
@@ -43278,8 +43323,8 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
 </translation>
+</verse_n>
 <translation translation="But whoever desires these fruits will not desire to eat meat or drink wine imprudently or carelessly, nor will they find satisfaction in a guilty conscience. Paul reproves such a person, saying: “Whoever competes abstains from all things.” If, therefore, their flesh is healthy, they will abstain from all things; but if their body suffers from illness or pain, or if they are in sorrow, they will eat and drink so that food and drink may serve as remedies for the illness, pain, or sorrow within them, enabling them to endure the affliction of the body.">
 <verse_n verse_n="37">
 <orig_group orig_group="ⲟⲧⲓ">
