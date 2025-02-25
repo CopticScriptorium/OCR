@@ -1,6 +1,7 @@
-<meta people="none" places="none">
+<meta annotation="Nina Speranskaja, Nicholas Wagner, Amir Zeldes" corpus="bohairic.lausiac.history" entities="none" identities="none" language="Bohairic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" parsing="gold" people="none" places="none" project="Coptic SCRIPTORIUM" segmentation="gold" tagging="gold" title="Bohairic Lausiac History - Part 1" translation="Nicholas Wagner">
 <chapter_n chapter_n="1">
 <ed_page_id ed_page_id="0001">
+<pb_xml_id pb_xml_id="0">
 <translation translation="The letter written to Lausus, the servant of Christ. In the peace of God: amen.">
 <verse_n verse_n="1">
 <ed_line_n ed_line_n="2">
@@ -276,6 +277,7 @@
 </orig_group>
 </verse_n>
 </translation>
+</pb_xml_id>
 <pb_xml_id pb_xml_id="ⲁ︦">
 <translation translation="Oh, how blessed is your purpose!">
 <verse_n verse_n="2">
@@ -624,7 +626,7 @@
 </orig>
 <orig orig="ⲣⲱ">
 <norm norm="ⲣⲱ">
-<lemma lemma="ⲣⲱ">
+<lemma lemma="ⲣⲟ">
 <pos pos="N">
 ⲣⲱ
 </pos>
@@ -38545,7 +38547,7 @@
 </ed_line_n>
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲛϫⲉⲡⲉⲛϭ︦ⲥ︦">
-<norm_group norm_group="ⲛϫⲉⲡⲉⲛϭⲥ">
+<norm_group norm_group="ⲛϫⲉⲡⲉⲛϭⲟⲉⲓⲥ">
 <orig orig="ⲛϫⲉ">
 <norm norm="ⲛϫⲉ">
 <lemma lemma="ⲛϫⲉ">
@@ -38559,22 +38561,22 @@
 <norm norm="ⲡⲉⲛ">
 <lemma lemma="ⲡⲉⲛ">
 <pos pos="PPOS">
-ⲡⲉⲛϭ︦ⲥ︦
+ⲡⲉⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϭ︦ⲥ︦">
+<norm norm="ϭⲟⲉⲓⲥ">
+<lemma lemma="ϭⲟⲉⲓⲥ">
+<pos pos="N">
+ϭ︦ⲥ︦
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig orig="ϭ︦ⲥ︦">
-<norm norm="ϭⲟⲉⲓⲥ">
-<lemma lemma="ϭⲟⲉⲓⲥ">
-<pos pos="N">
-ⲡⲉⲛ
-</pos>
-</lemma>
-</norm>
-</orig>
 <orig_group orig_group="ⲓ︦ⲏ︦ⲥ︦">
 <norm_group norm_group="ⲓⲏⲥⲟⲩⲥ">
 <orig orig="ⲓ︦ⲏ︦ⲥ︦">
