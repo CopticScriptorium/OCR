@@ -1,4 +1,4 @@
-<meta annotation="Nina Speranskaja, Nicholas Wagner, Amir Zeldes" corpus="bohairic.lausiac.history" entities="none" identities="none" language="Bohairic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" parsing="gold" people="none" places="none" project="Coptic SCRIPTORIUM" segmentation="gold" tagging="gold" title="Bohairic Lausiac History - Part 1" translation="Nicholas Wagner">
+<meta annotation="Nina Speranskaja, Nicholas Wagner, Amir Zeldes" author="--" corpus="bohairic.lausiac.history" document_cts_urn="urn:cts:copticLit:lausiac.boh_lausiac.amelineau_ed:1-16" entities="none" identities="none" language="Bohairic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" parsing="gold" people="none" places="none" project="Coptic SCRIPTORIUM" segmentation="gold" source="&lt;a href='https://archive.org/details/MN41886ucmf_5/page/n85/mode/2up'&gt;archive.org&lt;/a&gt;" tagging="gold" title="Bohairic Lausiac History - Part 1" translation="Nicholas Wagner">
 <chapter_n chapter_n="1">
 <ed_page_id ed_page_id="0001">
 <pb_xml_id pb_xml_id="0">
@@ -1364,28 +1364,16 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
-ⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲡ">
-<norm norm="ⲡ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲡ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲧⲏⲣϥ">
-<norm norm="ⲧⲏⲣϥ">
-<lemma lemma="ⲧⲏⲣϥ">
+<orig orig="ⲉⲡⲧⲏⲣϥ">
+<norm norm="ⲉⲡⲧⲏⲣϥ">
+<lemma lemma="ⲉⲡⲧⲏⲣϥ">
 <pos pos="N">
+<morph morph="ⲉ">
+ⲉ
+</morph>
+<morph morph="ⲡ">
+ⲡ
+</morph>
 <morph morph="ⲧⲏⲣ">
 ⲧⲏⲣ
 </morph>
@@ -1718,7 +1706,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation=" Nothing is more excellent than this one divinity, this one kingdom. All other things, whether heavenly or earthly, must necessarily be taught, since they are created things and creatures of God. ">
+<translation translation="All other things, whether heavenly or earthly, must necessarily be taught, since they are created things and creatures of God. ">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲛⲓⲕⲉⲭⲱⲟⲩⲛⲓ">
 <norm_group norm_group="ⲛⲓⲕⲉⲭⲱⲟⲩⲛⲓ">
@@ -4796,7 +4784,7 @@
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
-<pos pos="CONJ">
+<pos pos="PTC">
 ϫⲉ
 </pos>
 </lemma>
@@ -5160,8 +5148,8 @@
 <norm_group norm_group="ⲧⲉ">
 <orig orig="ⲧⲉ">
 <norm norm="ⲧⲉ">
-<lemma lemma="ⲛⲑⲟ">
-<pos pos="PPERS">
+<lemma lemma="ⲡⲉ">
+<pos pos="COP">
 ⲧⲉ
 </pos>
 </lemma>
@@ -5285,12 +5273,19 @@
 </orig_group>
 <orig_group orig_group="ⲉⲣⲁⲧϥ">
 <norm_group norm_group="ⲉⲣⲁⲧϥ">
-<orig orig="ⲉⲣⲁⲧϥ">
-<norm norm="ⲉⲣⲁⲧϥ">
-<lemma lemma="ⲉⲣⲁⲧϥ">
-<pos pos="ADV">
-ⲉ
-ⲣⲁⲧ
+<orig orig="ⲉⲣⲁⲧ">
+<norm norm="ⲉⲣⲁⲧ">
+<lemma lemma="ⲉⲣⲁⲧ">
+<pos pos="PREP">
+ⲉⲣⲁⲧ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϥ">
+<norm norm="ϥ">
+<lemma lemma="ⲛⲑⲟϥ">
+<pos pos="PPERO">
 ϥ
 </pos>
 </lemma>
@@ -7087,16 +7082,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϯⲙⲕⲁϩ">
-<norm norm="ϯⲙⲕⲁϩ">
-<lemma lemma="ϯⲙⲕⲁϩ">
+<orig orig="ϯ">
+<norm norm="ϯ">
+<lemma lemma="ϯ">
 <pos pos="V">
-<morph morph="ϯ">
 ϯ
-</morph>
-<morph morph="ⲙⲕⲁϩ">
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲙⲕⲁϩ">
+<norm norm="ⲙⲕⲁϩ">
+<lemma lemma="ⲙⲕⲁϩ">
+<pos pos="N">
 ⲙⲕⲁϩ
-</morph>
 </pos>
 </lemma>
 </norm>
@@ -7417,6 +7416,7 @@
 <morph morph="ⲣ">
 ⲣ
 </morph>
+<lang lang="Greek">
 <morph morph="ⲁⲥⲕⲓⲛ">
 ⲁⲥ
 </ed_line_n>
@@ -7425,6 +7425,7 @@
 <ed_line_n ed_line_n="1">
 ⲕⲓⲛ
 </morph>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -7725,7 +7726,7 @@
 <orig orig="ⲛⲑⲟϥ">
 <norm norm="ⲛⲑⲟϥ">
 <lemma lemma="ⲛⲑⲟϥ">
-<pos pos="PTC">
+<pos pos="PPERI">
 ⲛⲑⲟϥ
 </pos>
 </lemma>
@@ -8025,10 +8026,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="From God, indeed, comes the beginning of apostasy when a person fills their heart neither desiring nor acting according to the Word of God.">
-<verse_n verse_n="7">
 <orig_group orig_group="ϧⲉⲛⲟⲩⲗⲓⲃⲓ">
 <norm_group norm_group="ϧⲉⲛⲟⲩⲗⲓⲃⲓ">
 <orig orig="ϧⲉⲛ">
@@ -8060,6 +8057,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
+<translation translation="From God, indeed, comes the beginning of apostasy when a person fills their heart neither desiring nor acting according to the Word of God.">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲧⲁⲣⲭⲏ">
 <norm_group norm_group="ⲧⲁⲣⲭⲏ">
 <orig orig="ⲧ">
@@ -8235,16 +8236,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲁϩϧⲏⲧ">
-<norm norm="ⲙⲁϩϧⲏⲧ">
-<lemma lemma="ⲙⲁϩϧⲏⲧ">
+<orig orig="ⲙⲁϩ">
+<norm norm="ⲙⲁϩ">
+<lemma lemma="ⲙⲟϩ">
 <pos pos="V">
-<morph morph="ⲙⲁϩ">
 ⲙⲁϩ
-</morph>
-<morph morph="ϧⲏⲧ">
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϧⲏⲧ">
+<norm norm="ϧⲏⲧ">
+<lemma lemma="ϧⲏⲧ">
+<pos pos="N">
 ϧⲏⲧ
-</morph>
 </pos>
 </lemma>
 </norm>
@@ -8689,7 +8694,7 @@
 <orig orig="ⲛⲓϥⲓ">
 <norm norm="ⲛⲓϥⲓ">
 <lemma lemma="ⲛⲓϥⲓ">
-<pos pos="V">
+<pos pos="N">
 ⲛⲓϥⲓ
 </pos>
 </lemma>
@@ -9424,18 +9429,22 @@
 </orig_group>
 <orig_group orig_group="ϩⲓⲧⲟⲧⲟⲩ">
 <norm_group norm_group="ϩⲓⲧⲟⲧⲟⲩ">
-<orig orig="ϩⲓⲧⲟⲧ">
-<norm norm="ϩⲓⲧⲟⲧ">
-<lemma lemma="ϩⲓⲧⲟⲟⲧ">
+<orig orig="ϩⲓ">
+<norm norm="ϩⲓ">
+<lemma lemma="ϩⲓⲟⲩⲓ">
 <pos pos="V">
-<morph morph="ϩⲓ">
 ϩⲓ
-</morph>
+</pos>
+</lemma>
+</norm>
+</orig>
 </ed_line_n>
 <ed_line_n ed_line_n="13">
-<morph morph="ⲧⲟⲧ">
+<orig orig="ⲧⲟⲧ">
+<norm norm="ⲧⲟⲧ">
+<lemma lemma="ⲧⲱⲣⲓ">
+<pos pos="N">
 ⲧⲟⲧ
-</morph>
 </pos>
 </lemma>
 </norm>
@@ -9629,8 +9638,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲡϫⲓ">
-<norm_group norm_group="ⲉⲡϫⲓ">
+<orig_group orig_group="ⲉⲡϫⲓⲛⲧⲟⲩϣⲟⲩϣⲟⲩ">
+<norm_group norm_group="ⲉⲡϫⲓⲛⲧⲟⲩϣⲟⲩϣⲟⲩ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -9649,42 +9658,22 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϫⲓ">
-<norm norm="ϫⲓ">
-<lemma lemma="ϫⲓ">
+<orig orig="ϫⲓⲛⲧⲟⲩϣⲟⲩϣⲟⲩ">
+<norm norm="ϫⲓⲛⲧⲟⲩϣⲟⲩϣⲟⲩ">
+<lemma lemma="ϫⲓⲛⲧⲟⲩϣⲟⲩϣⲟⲩ">
 <pos pos="N">
-ϫⲓ
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲛⲧⲟⲩϣⲟⲩϣⲟⲩ">
-<norm_group norm_group="ⲛⲧⲟⲩϣⲟⲩϣⲟⲩ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲧⲟⲩ">
-<norm norm="ⲧⲟⲩ">
-<lemma lemma="ⲡⲟⲩ">
-<pos pos="PPOS">
-ⲧⲟⲩ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ϣⲟⲩϣⲟⲩ">
-<norm norm="ϣⲟⲩϣⲟⲩ">
-<lemma lemma="ϣⲟⲩϣⲟⲩ">
-<pos pos="N">
+<morph morph="ϫⲓⲛ">
+ϫⲓⲛ
+</morph>
+<morph morph="ⲧ">
+ⲧ
+</morph>
+<morph morph="ⲟⲩ">
+ⲟⲩ
+</morph>
+<morph morph="ϣⲟⲩϣⲟⲩ">
 ϣⲟⲩϣⲟⲩ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -10619,7 +10608,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="Others, however, driven by the corrupt intention of pleasing men, loved material gain and left their explanations in words, providing comfort to those who pursue pleasure and anger, who love power, who love riches, but not the poor, until they destroy those who boast of knowledge while their understanding is blind in necessity - which is the schismatics and heretics.">
+<translation translation="Others, however, driven by the corrupt intention of pleasing men, loved material gain and left their explanations in words, providing comfort to those who pursue pleasure and anger, who love power, who love riches, but not the poor, until they destroy those who boast of knowledge while their understanding is blind in necessity - which is all of the heretic schismatics.">
 <verse_n verse_n="4">
 <orig_group orig_group="ϩⲁⲛⲕⲉⲟⲩⲟⲛ">
 <norm_group norm_group="ϩⲁⲛⲕⲉⲟⲩⲟⲛ">
@@ -11233,7 +11222,7 @@
 <norm_group norm_group="ϣⲁⲧⲟⲩⲧⲁⲕⲟ">
 <orig orig="ϣⲁⲧ">
 <norm norm="ϣⲁⲧ">
-<lemma lemma="ϣⲁⲧ">
+<lemma lemma="ϣⲁⲧⲉ">
 <pos pos="ALIM">
 ϣⲁⲧ
 </pos>
@@ -11641,20 +11630,16 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛⲁⲓⲁⲧ">
-<norm norm="ⲛⲁⲓⲁⲧ">
-<lemma lemma="ⲛⲁⲓⲁⲧ">
+<orig orig="ⲛⲁⲓⲁⲧⲥ">
+<norm norm="ⲛⲁⲓⲁⲧⲥ">
+<lemma lemma="ⲛⲁⲓⲁⲧⲥ">
 <pos pos="N">
+<morph morph="ⲛⲁⲓⲁⲧ">
 ⲛⲁⲓⲁⲧ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲥ">
-<norm norm="ⲥ">
-<lemma lemma="ⲛⲑⲟⲥ">
-<pos pos="PPERO">
+</morph>
+<morph morph="ⲥ">
 ⲥ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -12357,8 +12342,8 @@
 <norm_group norm_group="ⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
-<lemma lemma="ⲉⲧ">
-<pos pos="APREC">
+<lemma lemma="ⲉⲧⲉ">
+<pos pos="CREL">
 ⲉⲧ
 </pos>
 </lemma>
@@ -22713,7 +22698,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="For if a certain man, far greater than I, whose resolve was unchanging, walked from Tarsus to Judea to meet Peter, James, and John, and gloried in his sufferings, inspiring zeal in all the lazy and slothful, saying, “I went to Jerusalem to see Peter,”—for he did not merely content himself with hearing about the external virtues of the apostles but desired also to see their appearance, reputation, life, and instruction—how much more must I, who am a debtor of ten thousand talents, find it necessary to narrate what I have seen regarding our holy Fathers?">
+<translation translation="For if a certain man, far greater than I, whose resolve was unchanging, walked from Tarsus to Judea to meet Peter, James, and John, and gloried in his sufferings, inspiring zeal in all the lazy and slothful, saying, “I went to Jerusalem to see Peter,”—">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲓⲥϫⲉ">
 <norm_group norm_group="ⲓⲥϫⲉ">
@@ -23579,6 +23564,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
+<translation translation="for he did not merely content himself with hearing about the external virtues of the apostles but desired also to see their appearance, reputation, life, and instruction—">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -24022,9 +24011,13 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
+</verse_n>
+</translation>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲓ︦ⲃ︦">
 <ed_line_n ed_line_n="3">
+<translation translation="For this reason he strove until he saw Peter.">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲉⲑⲃⲉⲫⲁⲓ">
 <norm_group norm_group="ⲉⲑⲃⲉⲫⲁⲓ">
 <orig orig="ⲉⲑⲃⲉ">
@@ -24153,6 +24146,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
+<translation translation="How much more must I, who am a debtor of ten thousand talents, find it necessary to narrate what I have seen regarding our holy Fathers?">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲓⲉ">
 <norm_group norm_group="ⲓⲉ">
 <orig orig="ⲓⲉ">
@@ -24578,7 +24575,7 @@
 </verse_n>
 </translation>
 <translation translation="I speak the truth, I do not lie—not as though I am bringing benefit to the Fathers, but for the sole benefit of my soul and anyone who hears of their sufferings and exercises.">
-<verse_n verse_n="6">
+<verse_n verse_n="9">
 <orig_group orig_group="ⲉⲓϫⲱ">
 <norm_group norm_group="ⲉⲓϫⲱ">
 <orig orig="ⲉ">
@@ -24661,9 +24658,9 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲉⲑⲛⲁⲩϫ">
-<norm norm="ⲙⲉⲑⲛⲁⲩϫ">
-<lemma lemma="ⲙⲉⲑⲛⲁⲩϫ">
+<orig orig="ϫⲉⲙⲉⲑⲛⲁⲩϫ">
+<norm norm="ϫⲉⲙⲉⲑⲛⲁⲩϫ">
+<lemma lemma="ϫⲉⲙⲉⲑⲛⲁⲩϫ">
 <pos pos="V">
 <morph morph="ϫⲉ">
 ϫⲉ
@@ -25130,14 +25127,16 @@
 </verse_n>
 </translation>
 <translation translation="For those who wrote books about our Fathers, from Adam to Abraham, and about those who followed up to the present day as found in the Scriptures, did not write to bring glory to those about whom they wrote but to provide benefit to those who would read, so that they might emulate their lives.">
-<verse_n verse_n="7">
+<verse_n verse_n="10">
 <orig_group orig_group="ⲕⲉ">
-<norm_group norm_group="ⲕⲉ">
+<norm_group norm_group="ⲕⲁⲓ">
 <orig orig="ⲕⲉ">
-<norm norm="ⲕⲉ">
-<lemma lemma="ⲕⲉ">
-<pos pos="PTC">
+<norm norm="ⲕⲁⲓ">
+<lemma lemma="ⲕⲁⲓ">
+<pos pos="CONJ">
+<lang lang="Greek">
 ⲕⲉ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -25893,7 +25892,7 @@
 </verse_n>
 </translation>
 <translation translation="Therefore, knowing these things, O faithful and venerable servant of Christ, Lausus, strengthen yourself in the meditation of the holy books, and receive my verbosity, which is presented before you, so that you may preserve holy thoughts.">
-<verse_n verse_n="8">
+<verse_n verse_n="11">
 <orig_group orig_group="ϩⲱⲥ">
 <norm_group norm_group="ϩⲱⲥ">
 <orig orig="ϩⲱⲥ">
@@ -26133,7 +26132,9 @@
 <norm norm="ⲗⲁⲩⲥⲓⲉ">
 <lemma lemma="ⲗⲁⲩⲥⲓⲟⲥ">
 <pos pos="NPROP">
+<lang lang="Latin">
 ⲗⲁⲩⲥⲓⲉ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -28634,8 +28635,8 @@
 <norm_group norm_group="ⲉⲩϣⲟⲩϣⲟⲩ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
+<lemma lemma="ⲁⲣⲉ">
+<pos pos="CFOC">
 ⲉ
 </pos>
 </lemma>
@@ -30164,19 +30165,23 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲛϯⲙⲉⲧⲣⲁⲙⲁⲟ">
-<norm_group norm_group="ϫⲉⲛϯⲙⲉⲧⲣⲁⲙⲁⲟ">
+<orig_group orig_group="ϫⲉ">
+<norm_group norm_group="ϫⲉ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
-<pos pos="CONJ">
+<pos pos="PTC">
 ϫⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 </ed_line_n>
 <ed_line_n ed_line_n="8">
+<orig_group orig_group="ⲛϯⲙⲉⲧⲣⲁⲙⲁⲟ">
+<norm_group norm_group="ⲛϯⲙⲉⲧⲣⲁⲙⲁⲟ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -32129,7 +32134,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="Therefore, if you eat, eat according to your will; if you refrain from eating, refrain according to your ability without making an oath, and never admit sin.">
+<translation translation="Therefore, if you eat, eat according to your will; if you refrain from eating, refrain according to your ability without making an oath, and may you never sin.">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲛⲑⲟⲕ">
 <norm_group norm_group="ⲛⲑⲟⲕ">
@@ -32178,8 +32183,8 @@
 <norm_group norm_group="ⲉⲕⲟⲩⲱⲙ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲁⲣⲉ">
-<pos pos="CFOC">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -32268,8 +32273,8 @@
 <norm_group norm_group="ⲉⲕⲁⲙⲟⲛⲓ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲁⲣⲉ">
-<pos pos="CFOC">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -32503,7 +32508,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="For God is the intelligence that resides in us, fighting against the harmful movements of the evil spirit battling against us—that is, our thoughts—driving out those that are harmful and bringing in those that benefit us.">
+<translation translation="For the intelligence that resides in us is divine, fighting against the harmful movements of the evil spirit battling against us—that is, our thoughts—driving out those that are harmful and bringing in those that benefit us.">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲟⲩⲛⲟⲩϯ">
 <norm_group norm_group="ⲟⲩⲛⲟⲩϯ">
@@ -35938,19 +35943,15 @@
 </orig>
 </norm_group>
 </orig_group>
+<orig_group orig_group="ⲙⲡⲉⲥϣϫⲉⲙϫⲟⲙ">
+<norm_group norm_group="ⲙⲡⲉⲥϣϫⲉⲙϫⲟⲙ">
 <orig orig="ⲙⲡⲉ">
 <norm norm="ⲙⲡⲉ">
 <lemma lemma="ⲙⲡⲉ">
 <pos pos="ANEGPST">
-<orig_group orig_group="ⲙ‐">
-<norm_group norm_group="ⲙ‐">
-ⲙ‐
-</norm_group>
-</orig_group>
+ⲙ
 </pb_xml_id>
 <pb_xml_id pb_xml_id="ⲓ︦ⲍ︦">
-<orig_group orig_group="ⲡⲉⲥϣϫⲉⲙϫⲟⲙ">
-<norm_group norm_group="ⲡⲉⲥϣϫⲉⲙϫⲟⲙ">
 ⲡⲉ
 </pos>
 </lemma>
@@ -36706,8 +36707,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲁⲧⲥⲟⲩⲉⲛ">
-<norm_group norm_group="ⲛⲁⲧⲥⲟⲩⲉⲛ">
+<orig_group orig_group="ⲛⲁⲧⲥⲟⲩⲉⲛⲫ︦ϯ︦︦">
+<norm_group norm_group="ⲛⲁⲧⲥⲟⲩⲉⲛⲫⲛⲟⲩϯ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -36717,9 +36718,9 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁⲧⲥⲟⲩⲉⲛ">
-<norm norm="ⲁⲧⲥⲟⲩⲉⲛ">
-<lemma lemma="ⲁⲧⲥⲟⲩⲉⲛ">
+<orig orig="ⲁⲧⲥⲟⲩⲉⲛⲫ︦ϯ︦︦">
+<norm norm="ⲁⲧⲥⲟⲩⲉⲛⲫⲛⲟⲩϯ">
+<lemma lemma="ⲁⲧⲥⲟⲩⲉⲛⲫⲛⲟⲩϯ">
 <pos pos="N">
 <morph morph="ⲁⲧ">
 ⲁⲧ
@@ -36727,28 +36728,12 @@
 <morph morph="ⲥⲟⲩⲉⲛ">
 ⲥⲟⲩⲉⲛ
 </morph>
-</pos>
-</lemma>
-</norm>
-</orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲫ︦ϯ︦︦">
-<norm_group norm_group="ⲫⲛⲟⲩϯ">
-<orig orig="ⲫ︦">
-<norm norm="ⲫ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
+<morph morph="ⲫ">
 ⲫ︦
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ϯ︦︦">
-<norm norm="ⲛⲟⲩϯ">
-<lemma lemma="ⲛⲟⲩϯ">
-<pos pos="N">
+</morph>
+<morph morph="ⲛⲟⲩϯ">
 ϯ︦︦
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -36979,13 +36964,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲭ︦ⲥ︦">
-<norm_group norm_group="ⲛⲭⲣⲓⲥⲧⲟⲥ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
+<orig_group orig_group="ⲡⲭ︦ⲥ︦">
+<norm_group norm_group="ⲡⲭⲣⲓⲥⲧⲟⲥ">
+<orig orig="ⲡ">
+<norm norm="ⲡ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
+ⲡ
 </pos>
 </lemma>
 </norm>
@@ -37732,7 +37717,7 @@
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
 <lemma lemma="ⲛⲧⲉ">
-<pos pos="PREP">
+<pos pos="ACONJ">
 ⲛⲧⲉ
 </pos>
 </lemma>
@@ -38183,7 +38168,7 @@
 <orig orig="ⲉⲧⲃⲉ">
 <norm norm="ⲉⲧⲃⲉ">
 <lemma lemma="ⲉⲧⲃⲉ">
-<pos pos="V">
+<pos pos="PREP">
 ⲉⲧⲃⲉ
 </pos>
 </lemma>
@@ -38366,7 +38351,7 @@
 </orig_group>
 </verse_n>
 </translation>
-<translation translation="They criticized the Savior only because He truly ate and drank.">
+<translation translation="They did not criticize in vain only because He truly ate and drank.">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲛⲁⲩϫⲉⲙⲁⲣⲓⲕⲓ">
 <norm_group norm_group="ⲛⲁⲩϫⲉⲙⲁⲣⲓⲕⲓ">
@@ -38683,7 +38668,7 @@
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
-<pos pos="PREP">
+<pos pos="ART">
 ⲡ
 </pos>
 </lemma>
@@ -40042,17 +40027,21 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲁⲛⲟⲛ">
-<norm_group norm_group="ϫⲉⲁⲛⲟⲛ">
+<orig_group orig_group="ϫⲉ">
+<norm_group norm_group="ϫⲉ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
-<pos pos="CONJ">
+<pos pos="PTC">
 ϫⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲁⲛⲟⲛ">
+<norm_group norm_group="ⲁⲛⲟⲛ">
 <orig orig="ⲁⲛⲟⲛ">
 <norm norm="ⲁⲛⲟⲛ">
 <lemma lemma="ⲁⲛⲟⲛ">
@@ -40579,6 +40568,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
+<translation translation="And let us drink wine and eat fish with Christ in thanksgiving and with good counsel if our flesh is weak or in need, even if they say, “Behold, men who eat meat and drink wine.”">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
@@ -40592,10 +40585,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse_n>
-</translation>
-<translation translation="Let us drink wine and eat fish with Christ in thanksgiving and with good counsel if our flesh is weak or in need, even if they say, “Behold, men who eat meat and drink wine.”">
-<verse_n verse_n="8">
 <orig_group orig_group="ⲙⲁⲣⲉⲛⲥⲉⲏⲣⲡ">
 <norm_group norm_group="ⲙⲁⲣⲉⲛⲥⲉⲏⲣⲡ">
 <orig orig="ⲙⲁⲣⲉ">
@@ -41193,20 +41182,16 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁⲓⲧ">
-<norm norm="ⲁⲓⲧ">
-<lemma lemma="ⲓⲣⲓ">
-<pos pos="V">
+<orig orig="ⲁⲓⲧⲟⲩ">
+<norm norm="ⲁⲓⲧⲟⲩ">
+<lemma lemma="ⲁⲓⲧⲟⲩ">
+<pos pos="N">
+<morph morph="ⲁⲓⲧ">
 ⲁⲓⲧ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲟⲩ">
-<norm norm="ⲟⲩ">
-<lemma lemma="ⲛⲑⲱⲟⲩ">
-<pos pos="PPERO">
+</morph>
+<morph morph="ⲟⲩ">
 ⲟⲩ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -43376,8 +43361,8 @@
 <norm_group norm_group="ⲛⲟⲩⲧⲁϩ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
+<lemma lemma="ⲡ">
+<pos pos="ART">
 ⲛ
 </pos>
 </lemma>
@@ -43461,17 +43446,21 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲫⲏ">
-<norm_group norm_group="ϫⲉⲫⲏ">
+<orig_group orig_group="ϫⲉ">
+<norm_group norm_group="ϫⲉ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
-<pos pos="CONJ">
+<pos pos="PTC">
 ϫⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲫⲏ">
+<norm_group norm_group="ⲫⲏ">
 <orig orig="ⲫⲏ">
 <norm norm="ⲫⲏ">
 <lemma lemma="ⲫⲏ">
@@ -46508,12 +46497,12 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲉⲛ">
-<norm_group norm_group="ⲙⲉⲛ">
+<orig_group orig_group="ⲙⲉⲛⲛⲧⲉⲡⲟⲩϫⲓⲛⲱⲛϧ">
+<norm_group norm_group="ⲙⲉⲛⲛⲧⲉⲡⲟⲩϫⲓⲛⲱⲛϧ">
 <orig orig="ⲙⲉⲛ">
 <norm norm="ⲙⲉⲛ">
 <lemma lemma="ⲙⲉⲛ">
-<pos pos="PTC">
+<pos pos="PREP">
 <lang lang="Greek">
 ⲙⲉⲛ
 </lang>
@@ -46521,10 +46510,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲛⲧⲉⲡⲟⲩϫⲓⲛⲱⲛϧ">
-<norm_group norm_group="ⲛⲧⲉⲡⲟⲩϫⲓⲛⲱⲛϧ">
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
 <lemma lemma="ⲛⲧⲉ">
@@ -49309,21 +49294,17 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲉ">
-<norm_group norm_group="ⲛⲉ">
+<orig_group orig_group="ⲛⲉⲉⲃⲟⲗϩⲓⲧⲉⲛⲟⲩϫⲱⲙ">
+<norm_group norm_group="ⲛⲉⲃⲟⲗϩⲓⲧⲉⲛⲟⲩϫⲱⲙ">
 <orig orig="ⲛⲉ">
-<norm norm="ⲛⲉ">
-<lemma lemma="ⲡⲉ">
-<pos pos="COP">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
 ⲛⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲉⲃⲟⲗϩⲓⲧⲉⲛⲟⲩϫⲱⲙ">
-<norm_group norm_group="ⲉⲃⲟⲗϩⲓⲧⲉⲛⲟⲩϫⲱⲙ">
 <orig orig="ⲉⲃⲟⲗ">
 <norm norm="ⲉⲃⲟⲗ">
 <lemma lemma="ⲉⲃⲟⲗ">
