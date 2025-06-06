@@ -1,7 +1,9 @@
-<meta people="none" places="none">
-<translation translation="Now I shall begin to speak about Apa Evagrius, the deacon of Constantinople, upon whom Gregory the bishop laid his hands. It is fitting to recount the virtues of one to whom all ascribe glory, for he led an apostolic life. For truth itself required that his work be made known as something marvelous.">
+<meta annotation="Lydia Bremer-McCollum, Caroline T. Schroeder, Nina Speranskaja, Nicholas Wagner, Amir Zeldes" author="Palladius" collection="Vat.Copt" Coptic_edition="Amélineau 1887" corpus="bohairic.lausiac.history" country="Egypt" document_cts_urn="urn:cts:copticLit:lausiac.boh_lausiac.amelineau_ed:38" entities="none" facsimile_graphic_url="&lt;a href='https://digi.vatlib.it/view/MSS_Vat.copt.64/0338'&gt;https://digi.vatlib.it/view/MSS_Vat.copt.64/0338&lt;/a&gt;" Greek_source="Butler 1898-1904" identities="none" idno="64 ff. 174r-171r-185v" language="Bohairic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msItem_title="Letter to Lausus (Lausiac History)" msName="MACA.CO" note="Re manuscript pagination: page numbers not always visible in manuscript. Re chapter divisions: Chapter divisions correspond to the long sections for each holy person in Butler's Greek edition." objectType="codex" ocr="checked" order="3" origDate="800-1067" origDate_notAfter="1067" origDate_notBefore="801" origDate_precision="high" origPlace="Monastery of Saint Macarius" pages_from="37" pages_to="59" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/79'&gt;79&lt;/a&gt;" paths_manuscripts="&lt;a href='http://paths.uniroma1.it/atlas/manuscripts/128'&gt;128&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/245'&gt;245&lt;/a&gt;" people="none" placeName="Wadi Natrun" places="none" previous="urn:cts:copticLit:lausiac.boh_lausiac.amelineau_ed:10" project="Coptic SCRIPTORIUM" redundant="no" repository="Vatican Library" segmentation="-" source="&lt;a href='https://archive.org/details/MN41886ucmf_5/page/n85/mode/2up'&gt;Internet Archive&lt;/a&gt;" source_info="OCR of Amélineau edition pdf on Internet Archive using OCR4All	" tagging="-" title="Bohairic Lausiac History - Part 3" translation="none" Trismegistos="none" version_date="-" version_n="6.1">
+<chapter_n chapter_n="38">
+<ed_chapter_n ed_chapter_n="3">
+<ed_page_n ed_page_n="104">
 <verse_n verse_n="1">
-<lb_n lb_n="1">
+<pb_xml_id pb_xml_id="CO37">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲉⲑⲃⲉⲉⲩⲁⲅⲣⲓ">
 <norm_group norm_group="ⲉⲑⲃⲉⲉⲩⲁⲅⲣⲓ">
@@ -65,8 +67,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ϯⲛⲁⲉⲣϧⲏⲧⲥ">
 <norm_group norm_group="ϯⲛⲁⲉⲣϧⲏⲧⲥ">
@@ -236,8 +236,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲡⲓⲇⲓⲁⲕⲱⲛ">
 <norm_group norm_group="ⲡⲓⲇⲓⲁⲕⲱⲛ">
@@ -345,8 +343,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="11">
 <orig orig="ⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm norm="ⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
@@ -433,13 +429,17 @@
 </orig>
 </norm_group>
 </orig_group>
+</pb_xml_id>
+<pb_xml_id pb_xml_id="CO38">
 <orig_group orig_group="ⲥⲉⲙⲡϣⲁ">
 <norm_group norm_group="ⲥⲉⲙⲡϣⲁ">
 <orig orig="ⲥ">
 <norm norm="ⲥ">
 <lemma lemma="ⲛⲑⲟⲥ">
 <pos pos="PPERS">
+<note_note note_note="page ⲕ︦ⲏ︦ (sic) in Amélineau (should be ⲗ︦ⲏ︦)">
 ⲥ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -487,8 +487,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲉⲑⲃⲉⲛⲉϥⲁⲣⲉⲧⲏ">
 <norm_group norm_group="ⲉⲑⲃⲉⲛⲉϥⲁⲣⲉⲧⲏ">
@@ -647,8 +645,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲇⲉ">
 <norm_group norm_group="ⲇⲉ">
@@ -748,8 +744,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="For it would not be the work of truth if we were to pass over in silence its marvelous deeds and progress. Rather, let those things which are useful for the edification and benefit of those who will read be written, so that praise may be given to God our savior, who grants to humans the power to perform these deeds. For He himself taught me the life that is in Christ, and he himself instructed me in the spiritual understanding of the Scriptures and in the discourses of the elders, as it is written: ‘So that sin might be revealed, for he is a sinner.’ The entire time he remained on the mountain, I too stayed with him, with our solitude shared together: I spent the night of the Sabbath and Sunday entirely with him.">
 <verse_n verse_n="2">
 <orig_group orig_group="ⲟⲩϩⲱⲃ">
 <norm_group norm_group="ⲟⲩϩⲱⲃ">
@@ -833,8 +827,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲡⲉ">
 <norm_group norm_group="ⲡⲉ">
@@ -900,7 +892,7 @@
 </orig_group>
 <orig_group orig_group="ⲉⲛⲉϥϩⲏⲟⲩⲓ">
 <norm_group norm_group="ⲉⲛⲉϥϩⲏⲟⲩⲓ">
-<note note="sic">
+<note_note note_note="sic">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -928,7 +920,7 @@
 </lemma>
 </norm>
 </orig>
-</note>
+</note_note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛϣⲉⲛϩⲟ">
@@ -1016,9 +1008,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<ed_page_xml_id ed_page_xml_id="0037">
-<lb_n lb_n="8">
+</ed_page_n>
+<ed_page_n ed_page_n="105">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
@@ -1027,7 +1018,9 @@
 <lemma lemma="ⲁⲗⲗⲁ">
 <pos pos="CONJ">
 <lang lang="Greek">
+<note_note note_note="page ⲕⲏ">
 ⲁⲗⲗⲁ
+</note_note>
 </lang>
 </pos>
 </lemma>
@@ -1164,8 +1157,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="2">
 <orig orig="ϩⲏⲟⲩ">
 <norm norm="ϩⲏⲟⲩ">
@@ -1347,8 +1338,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="3">
 <orig orig="ⲥⲱⲧⲏⲣ">
 <norm norm="ⲥⲱⲧⲏⲣ">
@@ -1547,8 +1536,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲁϥϯⲥⲃⲱ">
 <norm_group norm_group="ⲁϥϯⲥⲃⲱ">
@@ -1779,8 +1766,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲉϯⲅⲣⲁⲫⲏ">
 <norm_group norm_group="ⲉϯⲅⲣⲁⲫⲏ">
@@ -1959,8 +1944,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ϫⲉⲟⲩ">
 <norm_group norm_group="ϫⲉⲟⲩ">
@@ -2121,8 +2104,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲛϫⲉⲫⲛⲟⲃⲓ">
 <norm_group norm_group="ⲛϫⲉⲫⲛⲟⲃⲓ">
@@ -2334,8 +2315,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ϩⲓⲡⲓⲧⲱⲟⲩ">
 <norm_group norm_group="ϩⲓⲡⲓⲧⲱⲟⲩ">
@@ -2550,8 +2529,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="16">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲟⲣϥ">
 <norm_group norm_group="ⲟⲣϥ">
@@ -2706,8 +2683,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="17">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲛϯⲕⲩⲣⲓⲁⲕⲏ">
 <norm_group norm_group="ⲛϯⲕⲩⲣⲓⲁⲕⲏ">
@@ -2818,8 +2793,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="But lest anyone should think that I ascribe glory to him or offer him praise, I call Christ as my witness that I saw most of his virtues with my own eyes, and that the miracles he performed were not done for his own glory, but for the benefit of those who will read or hear of them, so that they may praise Christ, who gives power to his servants and fulfills His will in them. Would that I were also worthy to teach you these things—namely, how he progressed from his beginning to this perfection and great asceticism, completing sixty years, and then rested, as it is written, ‘In a short time, he fulfilled many years.’">
 <verse_n verse_n="3">
 <orig_group orig_group="ϩⲓⲛⲁ">
 <norm_group norm_group="ϩⲓⲛⲁ">
@@ -2881,8 +2854,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲉⲣⲟⲓ">
 <norm_group norm_group="ⲉⲣⲟⲓ">
@@ -2981,14 +2952,17 @@
 </orig>
 </norm_group>
 </orig_group>
-<pb_xml_id pb_xml_id="ⲗ︦ⲑ︦">
+</pb_xml_id>
+<pb_xml_id pb_xml_id="CO39">
 <orig_group orig_group="ⲉⲓϯϩⲙⲟⲧ">
 <norm_group norm_group="ⲉⲓϯϩⲙⲟⲧ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
 <pos pos="CCIRC">
+<note_note note_note="page ⲗ︦ⲑ︦">
 ⲉ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -3096,8 +3070,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲙⲙⲉⲑⲣⲉ">
 <norm_group norm_group="ⲙⲙⲉⲑⲣⲉ">
@@ -3286,8 +3258,6 @@
 <pos pos="V">
 ⲥ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="13">
 ϧⲏⲧ
 </pos>
@@ -3481,8 +3451,6 @@
 <pos pos="V">
 ⲥⲱ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="14">
 ⲧⲉ
 </pos>
@@ -3683,8 +3651,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="15">
 <orig orig="ⲓⲣⲓ">
 <norm norm="ⲓⲣⲓ">
@@ -3875,8 +3841,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲧⲉϥⲁⲣⲭⲏ">
 <norm_group norm_group="ⲧⲉϥⲁⲣⲭⲏ">
@@ -4055,10 +4019,8 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0038">
-<lb_n lb_n="7">
+</ed_page_n>
+<ed_page_n ed_page_n="106">
 <ed_line_n ed_line_n="1">
 <orig orig="ϫⲉⲕ">
 <norm norm="ϫⲉⲕ">
@@ -4240,8 +4202,6 @@
 <pos pos="VSTAT">
 ⲥ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="2">
 ϧⲏⲟⲩⲧ
 </pos>
@@ -4414,12 +4374,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
 </verse_n>
-</translation>
-<translation translation="This man, of whom we speak, was of Pontic descent. He was the son of a presbyter from Iberia, whom Saint Basil, bishop of Cappadocia, ordained as a presbyter over the city near Arkeus. When blessed Basil died, Evagrius went to Constantinople, following his father, who was also a presbyter serving God. Evagrius, full of wisdom, followed in the footsteps of Saint Basil. He attached himself to Gregory, bishop of Constantinople, who, seeing his insight and understanding, which were truly good, ordained him as a deacon. For he was indeed a wise man, abstinent in his passions and an irreproachable deacon. He went to Constantinople along with our holy bishops, at the time when the synod was held in Constantinople. He surpassed all the heretics.">
 <verse_n verse_n="4">
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲡⲁⲓⲣⲱⲙⲓ">
 <norm_group norm_group="ⲡⲁⲓⲣⲱⲙⲓ">
@@ -4589,8 +4545,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="4">
 <orig orig="ϣⲗⲟⲗ">
 <norm norm="ϣⲗⲟⲗ">
@@ -4746,8 +4700,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="5">
 <orig orig="ⲙⲁⲕⲁⲣⲓⲟⲥ">
 <norm norm="ⲙⲁⲕⲁⲣⲓⲟⲥ">
@@ -4863,8 +4815,6 @@
 <lang lang="Greek">
 ⲡⲣⲉⲥ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="6">
 ⲃⲩⲧⲉⲣⲟⲥ
 </lang>
@@ -4976,8 +4926,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="7">
 <orig orig="ⲑⲣⲉ">
 <norm norm="ⲑⲣⲉ">
@@ -5112,8 +5060,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲕⲁⲧⲁⲫ︦ϯ︦">
 <norm_group norm_group="ⲕⲁⲧⲁⲫⲛⲟⲩϯ">
@@ -5129,7 +5075,7 @@
 </norm>
 </orig>
 <orig orig="ⲫ︦">
-<norm norm="ⲫ︦">
+<norm norm="ⲫ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
 ⲫ︦
@@ -5239,8 +5185,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="9">
 <orig orig="ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
 <norm norm="ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
@@ -5309,14 +5253,16 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦">
+<pb_xml_id pb_xml_id="CO40">
 <orig_group orig_group="ⲛⲉⲁϥϣⲱⲡⲓ">
 <norm_group norm_group="ⲛⲉⲁϥϣⲱⲡⲓ">
 <orig orig="ⲛⲉ">
 <norm norm="ⲛⲉ">
 <lemma lemma="ⲛⲁⲣⲉ">
 <pos pos="CPRET">
+<note_note note_note="page ⲙ︦">
 ⲛⲉ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -5421,8 +5367,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="10">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
@@ -5609,8 +5553,6 @@
 <lang lang="Greek">
 ⲅⲣⲏ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="11">
 ⲅⲟⲣⲓⲟⲥ
 </lang>
@@ -5720,8 +5662,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲉⲧⲉϥⲥⲃⲱ">
 <norm_group norm_group="ⲉⲧⲉϥⲥⲃⲱ">
@@ -5903,8 +5843,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲅⲁⲣ">
 <norm_group norm_group="ⲅⲁⲣ">
@@ -6093,8 +6031,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -6285,8 +6221,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</ed_line_n>
-</lb_n>
 <orig_group orig_group="ⲉⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
 <norm_group norm_group="ⲉⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
 <orig orig="ⲉ">
@@ -6298,14 +6232,15 @@
 </lemma>
 </norm>
 </orig>
-<lb_n lb_n="7">
-<ed_line_n ed_line_n="15">
 <orig orig="ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
 <norm norm="ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
 <lemma lemma="ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
 <pos pos="NPROP">
 <lang lang="Greek">
-ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ
+ⲕⲱⲥⲧⲁⲛ
+</ed_line_n>
+<ed_line_n ed_line_n="15">
+ⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ
 </lang>
 </pos>
 </lemma>
@@ -6433,8 +6368,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲉⲧⲁⲥϣⲱⲡⲓ">
 <norm_group norm_group="ⲉⲧⲁⲥϣⲱⲡⲓ">
@@ -6576,8 +6509,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="17">
 <orig orig="ϩⲉⲣⲉⲧⲓⲕⲟⲥ">
 <norm norm="ϩⲉⲣⲉⲧⲓⲕⲟⲥ">
@@ -6628,8 +6559,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="Therefore, Evagrius and Nectarius the bishop disputed face to face with each other, for Evagrius was very vigilant in the Scriptures and prepared by his own wisdom and understanding to refute all heretics. Thus, throughout the entire city of Constantinople, he was renowned for boldly combating the heretics with splendid words, and the entire populace attributed much praise to him. After all this knowledge, however, because of the pride he possessed, the demon of feminine desire ensnared him in thought. But just as he later escaped the passions, he taught us these things.">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲛⲑⲟϥ">
 <norm_group norm_group="ⲛⲑⲟϥ">
@@ -6725,10 +6654,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0039">
-<lb_n lb_n="10">
+</ed_page_n>
+<ed_page_n ed_page_n="107">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲡⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ">
@@ -6883,8 +6810,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲛⲑⲟϥ">
 <norm_group norm_group="ⲛⲑⲟϥ">
@@ -7034,8 +6959,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲥⲉⲃⲧⲱⲧ">
 <norm_group norm_group="ⲥⲉⲃⲧⲱⲧ">
@@ -7216,8 +7139,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="4">
 <orig orig="ϣⲱⲡⲓ">
 <norm norm="ϣⲱⲡⲓ">
@@ -7363,8 +7284,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲟⲩⲃⲉⲛⲓϩⲉⲣⲉⲧⲓⲕⲟⲥ">
 <norm_group norm_group="ⲟⲩⲃⲉⲛⲓϩⲉⲣⲉⲧⲓⲕⲟⲥ">
@@ -7492,8 +7411,6 @@
 <pos pos="VSTAT">
 ⲫⲉ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="6">
 ⲣⲓⲱⲟⲩ
 </pos>
@@ -7609,21 +7526,21 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦ⲁ︦">
+<pb_xml_id pb_xml_id="CO41">
 <orig_group orig_group="ⲙⲉⲛⲉⲛⲥⲁⲧⲁⲓⲥⲃⲱ">
 <norm_group norm_group="ⲙⲉⲛⲉⲛⲥⲁⲧⲁⲓⲥⲃⲱ">
 <orig orig="ⲙⲉⲛⲉⲛⲥⲁ">
 <norm norm="ⲙⲉⲛⲉⲛⲥⲁ">
 <lemma lemma="ⲙⲉⲛⲉⲛⲥⲁ">
 <pos pos="PREP">
+<note_note note_note="page ⲙ︦ⲁ︦">
 ⲙⲉⲛⲉⲛⲥⲁ
+</note_note>
 </pos>
 </lemma>
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="7">
 <orig orig="ⲧⲁⲓ">
 <norm norm="ⲧⲁⲓ">
@@ -7669,7 +7586,7 @@
 </orig_group>
 <orig_group orig_group="ⲭⲟⲩⲱϣ">
 <norm_group norm_group="ⲭⲟⲩⲱϣ">
-<note note="sic">
+<note_note note_note="sic">
 <orig orig="ⲭ">
 <norm norm="ⲭ">
 <lemma lemma="ⲛⲑⲟⲕ">
@@ -7688,7 +7605,7 @@
 </lemma>
 </norm>
 </orig>
-</note>
+</note_note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲑⲃⲉϯⲙⲉⲧϭⲁⲥⲓϩⲏⲧ">
@@ -7771,8 +7688,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲙⲙⲟϥ">
 <norm_group norm_group="ⲙⲙⲟϥ">
@@ -7947,8 +7862,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ϧⲉⲛⲟⲩⲙⲉⲩⲓ">
 <norm_group norm_group="ϧⲉⲛⲟⲩⲙⲉⲩⲓ">
@@ -8119,8 +8032,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="10">
 <orig orig="ⲥⲏⲟⲩ">
 <norm norm="ⲥⲏⲟⲩ">
@@ -8256,8 +8167,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="For a certain woman greatly loved him. But since Evagrius truly feared God, he did not sin with her, for the woman was married, and he guarded his own conscience, because the woman's husband was a man of great and most honorable lineage. Evagrius thought about his immunity to disgrace, about sin, judgment, and the joy with which heretics rejoiced after being confounded by him. He therefore prayed to God, ceaselessly imploring Him to aid him in his struggle against his passions in the battle imposed upon him. When the woman’s desire clung to him and persisted until he might succumb, he wished to flee her, but he could not find the strength. For his thoughts, like those of a child, were bound by pleasure. But divine mercy did not delay in seizing him; the grace of his prayers and supplications quickly came to him and gave him strength through a vision. Before anything evil happened with the woman, the Lord sent angels to him in a nighttime vision, dressed in splendid garments like the guards of an eparch. They seized him and dragged him away like one being led to judgment. They bound him, as with thieves, in a prison with other criminals, placing collars and shackles on him, though he knew not why they had taken him or what the cause was. He then realized that this was happening to him because he had considered, even in thought, standing before the eparch—the husband of the woman.">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲛⲉⲁϯⲕⲉⲥϩⲓⲙⲓ">
 <norm_group norm_group="ⲛⲉⲁϯⲕⲉⲥϩⲓⲙⲓ">
@@ -8324,8 +8233,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ϩⲱⲥ">
 <norm_group norm_group="ϩⲱⲥ">
@@ -8490,8 +8397,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="12">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
@@ -8684,8 +8589,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ϧⲁϩⲁⲓ">
 <norm_group norm_group="ϧⲁϩⲁⲓ">
@@ -8855,8 +8758,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="14">
 <orig orig="ⲛⲉ">
 <norm norm="ⲛⲉ">
@@ -9029,8 +8930,6 @@
 <pos pos="V">
 ⲙⲟⲕ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="15">
 ⲙⲉⲕ
 </pos>
@@ -9199,8 +9098,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -9288,7 +9185,7 @@
 </lemma>
 </norm>
 </orig>
-<note note="sic">
+<note_note note_note="sic">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
 <lemma lemma="ⲡⲓ">
@@ -9309,7 +9206,7 @@
 </lemma>
 </norm>
 </orig>
-</note>
+</note_note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲧⲏⲣⲟⲩ">
@@ -9364,7 +9261,7 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
+<ed_line_n ed_line_n="17">
 <orig orig="ⲑⲉⲃⲓⲱ">
 <norm norm="ⲑⲉⲃⲓⲱ">
 <lemma lemma="ⲑⲉⲃⲓⲟ">
@@ -9374,8 +9271,6 @@
 </lemma>
 </norm>
 </orig>
-<lb_n lb_n="12">
-<ed_line_n ed_line_n="17">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲛⲑⲱⲟⲩ">
@@ -9566,8 +9461,6 @@
 <pos pos="V">
 ⲉⲣ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="18">
 <lang lang="Greek">
 ⲃⲟⲏⲑⲓⲛ
@@ -9709,8 +9602,6 @@
 <pos pos="PREP">
 ϩⲓ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="19">
 ϫⲱ
 </pos>
@@ -9896,10 +9787,8 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0040">
-<lb_n lb_n="15">
+</ed_page_n>
+<ed_page_n ed_page_n="108">
 <ed_line_n ed_line_n="1">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
@@ -10059,8 +9948,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲛⲁϥϫⲓⲛⲓ">
 <norm_group norm_group="ⲛⲁϥϫⲓⲛⲓ">
@@ -10151,14 +10038,16 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦ⲃ︦">
+<pb_xml_id pb_xml_id="CO42">
 <orig_group orig_group="ϫⲉⲟⲩⲏⲓ">
 <norm_group norm_group="ϫⲉⲟⲩⲏⲓ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
 <pos pos="CONJ">
+<note_note note_note="page ⲙ︦ⲃ︦">
 ϫⲉ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -10219,8 +10108,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲡⲉ">
 <norm_group norm_group="ⲡⲉ">
@@ -10418,8 +10305,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲉⲧⲁϩⲟϥ">
 <norm_group norm_group="ⲉⲧⲁϩⲟϥ">
@@ -10588,8 +10473,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲛⲭⲱⲗⲉⲙ">
 <norm_group norm_group="ⲛⲭⲱⲗⲉⲙ">
@@ -10740,8 +10623,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="6">
 <orig orig="ϩⲗⲓ">
 <norm norm="ϩⲗⲓ">
@@ -10925,8 +10806,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="7">
 <orig orig="ⲁⲅⲅⲉⲗⲟⲥ">
 <norm norm="ⲁⲅⲅⲉⲗⲟⲥ">
@@ -11073,8 +10952,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="8">
 <orig orig="ϩⲁⲛ">
 <norm norm="ϩⲁⲛ">
@@ -11223,8 +11100,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -11444,8 +11319,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲙⲡⲓⲇⲓⲕⲁⲥⲧⲏⲥ">
 <norm_group norm_group="ⲙⲡⲓⲇⲓⲕⲁⲥⲧⲏⲥ">
@@ -11596,8 +11469,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="11">
 <orig orig="ϩⲁⲛ">
 <norm norm="ϩⲁⲛ">
@@ -11762,8 +11633,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲙⲫⲣⲏϯ">
 <norm_group norm_group="ⲙⲫⲣⲏϯ">
@@ -11980,8 +11849,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲓⲉ">
 <norm_group norm_group="ⲓⲉ">
@@ -12175,8 +12042,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ϧⲉⲛⲡⲉϥϩⲏⲧ">
 <norm_group norm_group="ϧⲉⲛⲡⲉϥϩⲏⲧ">
@@ -12376,8 +12241,9 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
+</ed_page_n>
+<ed_page_n ed_page_n="109">
+<ed_line_n ed_line_n="1">
 <orig orig="ⲉⲧ">
 <norm norm="ⲉⲧ">
 <lemma lemma="ⲉⲧ">
@@ -12387,9 +12253,6 @@
 </lemma>
 </norm>
 </orig>
-<ed_page_xml_id ed_page_xml_id="0041">
-<lb_n lb_n="14">
-<ed_line_n ed_line_n="1">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -12501,8 +12364,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="He was utterly astonished by these things. The angel who appeared to him changed his appearance and, in his presence, became like one of his friends who had come to comfort and encourage him. When the angel saw him bound with the criminals, he said to him: ‘Why have you been arrested, my deacon?’ He replied: ‘Truly, I do not know; but my mind tells me that I have accused a certain man, moved by jealousy. Therefore, fear lest he give silver to the judge and I perish here violently.'">
 <verse_n verse_n="7">
 <orig_group orig_group="ⲗⲟⲓⲡⲟⲛ">
 <norm_group norm_group="ⲗⲟⲓⲡⲟⲛ">
@@ -12571,8 +12432,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="2">
 <orig orig="ⲧⲟⲙⲧ">
 <norm norm="ⲧⲟⲙⲧ">
@@ -12748,8 +12607,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="16">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲁϥϣⲟⲡⲧϥ">
 <norm_group norm_group="ⲁϥϣⲟⲡⲧϥ">
@@ -12969,8 +12826,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲉⲁϥⲓ">
 <norm_group norm_group="ⲉⲁϥⲓ">
@@ -13097,14 +12952,16 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦ⲅ︦">
+<pb_xml_id pb_xml_id="CO43">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
 <orig orig="ⲡⲉϫⲁ">
 <norm norm="ⲡⲉϫⲁ">
 <lemma lemma="ⲡⲉϫⲉ">
 <pos pos="VBD">
+<note_note note_note="page ⲙ︦ⲅ︦">
 ⲡⲉϫⲁ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -13174,8 +13031,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲛⲉⲙⲛⲓⲥⲓⲛⲱⲟⲩⲓ">
 <norm_group norm_group="ⲛⲉⲙⲛⲓⲥⲓⲛⲱⲟⲩⲓ">
@@ -13352,8 +13207,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -13543,8 +13396,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲙⲙⲟⲥ">
 <norm_group norm_group="ⲙⲙⲟⲥ">
@@ -13737,8 +13588,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="8">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
@@ -13923,8 +13772,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲛϩⲁⲛⲭⲣⲏⲙⲁ">
 <norm_group norm_group="ⲛϩⲁⲛⲭⲣⲏⲙⲁ">
@@ -14086,8 +13933,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲛϫⲟⲛⲥ">
 <norm_group norm_group="ⲛϫⲟⲛⲥ">
@@ -14125,8 +13970,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="The angel said to him: 'If you listen to me, your friend, surely it is not good for you to remain in this city.’ Evagrius said: ‘If God frees me from this necessity and you see me again in this city of Constantinople, say to me: 'You have deserved this punishment by right.'‘ But the angel, who had taken the form of a friend, said to him: ‘I will bring you the Gospel; swear to me: 'I will not remain in this city.' What is good for your soul, the Lord will provide, and I will free you from this necessity.’">
 <verse_n verse_n="8">
 <orig_group orig_group="ⲡⲉϫⲉⲡⲁⲅⲅⲉⲗⲟⲥ">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲁⲅⲅⲉⲗⲟⲥ">
@@ -14272,8 +14115,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ϧⲁⲡⲉⲕϣⲫⲏⲣ">
 <norm_group norm_group="ϧⲁⲡⲉⲕϣⲫⲏⲣ">
@@ -14457,8 +14298,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲡⲉϫⲉⲉⲩⲁⲅⲣⲓ">
 <norm_group norm_group="ⲡⲉϫⲉⲉⲩⲁⲅⲣⲓ">
@@ -14615,8 +14454,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="13">
 <orig orig="ⲁⲛⲁⲅⲕⲏ">
 <norm norm="ⲁⲛⲁⲅⲕⲏ">
@@ -14729,8 +14566,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
 <norm_group norm_group="ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ">
@@ -14910,8 +14745,6 @@
 <lang lang="Greek">
 ⲁⲅⲅⲉ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="15">
 ⲗⲟⲥ
 </lang>
@@ -15121,7 +14954,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
+<ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲙⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ">
 <norm_group norm_group="ⲙⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ">
 <orig orig="ⲙ">
@@ -15133,8 +14966,6 @@
 </lemma>
 </norm>
 </orig>
-<lb_n lb_n="13">
-<ed_line_n ed_line_n="16">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
 <lemma lemma="ⲡⲓ">
@@ -15288,8 +15119,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="17">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -15437,17 +15266,16 @@
 </lemma>
 </norm>
 </orig>
-</ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0042">
-<lb_n lb_n="15">
-<ed_line_n ed_line_n="1">
 <orig orig="ⲛⲁϩⲙⲉ">
 <norm norm="ⲛⲁϩⲙⲉ">
 <lemma lemma="ⲛⲟϩⲉⲙ">
 <pos pos="V">
-ⲛⲁϩⲙⲉ
+ⲛⲁϩ
+</ed_line_n>
+</ed_page_n>
+<ed_page_n ed_page_n="110">
+<ed_line_n ed_line_n="1">
+ⲙⲉ
 </pos>
 </lemma>
 </norm>
@@ -15523,8 +15351,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="Then he swore upon the Gospel, saying: ‘After one day, when I have placed my belongings on a ship, I will leave this city.’ As soon as he swore, he awoke from the vision he had seen during the night and said: ‘Even though I swore in a dream, still I have sworn an oath.’ He immediately rose, loaded his belongings and clothing onto a ship, and sailed to Jerusalem. Blessed Melania the Roman received him with joy. Once again, the devil hardened his heart, just as he had once hardened Pharaoh’s. His heart became wavering and conflicted: his youth luxuriated, as did his pride in words and his delight in the changes of fine clothing. He would change them twice a day, succumbing to pride and the pleasures of the body. But God, who always protects his people from ruin, sent him a fever so severe that he endured a prolonged illness, and his flesh became thin as a thread; yet all these pains afflicted him so secretly that doctors, unaware of his illness, were unable to cure him.">
 <verse_n verse_n="9">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -15635,8 +15461,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="2">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
@@ -15683,14 +15507,16 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦ⲇ︦">
+<pb_xml_id pb_xml_id="CO44">
 <orig_group orig_group="ⲉⲟⲩⲗⲁ">
 <norm_group norm_group="ⲉⲟⲩⲗⲁ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
 <pos pos="PREP">
+<note_note note_note="page ⲙ︦ⲇ︦">
 ⲉ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -15800,8 +15626,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ϣⲁϯⲁⲗⲟ">
 <norm_group norm_group="ϣⲁϯⲁⲗⲟ">
@@ -16011,8 +15835,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲇⲉ">
 <norm_group norm_group="ⲇⲉ">
@@ -16247,8 +16069,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ϧⲉⲛⲡⲓⲉϫⲱⲣϩ">
 <norm_group norm_group="ϧⲉⲛⲡⲓⲉϫⲱⲣϩ">
@@ -16414,8 +16234,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="6">
 <orig orig="ⲣⲁⲥⲟⲩⲓ">
 <norm norm="ⲣⲁⲥⲟⲩⲓ">
@@ -16631,8 +16449,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="7">
 <orig orig="ⲧⲁⲗⲟ">
 <norm norm="ⲧⲁⲗⲟ">
@@ -16790,8 +16606,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲉⲓ︦ⲗ︦ⲏ︦︦ⲙ︦">
 <norm_group norm_group="ⲉϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ">
@@ -16963,8 +16777,6 @@
 <lang lang="Greek">
 ⲙⲁⲕⲁ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="9">
 ⲣⲓⲁ
 </lang>
@@ -17122,8 +16934,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="10">
 <orig orig="ϩⲏⲧ">
 <norm norm="ϩⲏⲧ">
@@ -17285,8 +17095,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -17455,8 +17263,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="12">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
@@ -17622,8 +17428,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="13">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
@@ -17807,8 +17611,6 @@
 <pos pos="ALIM">
 ϣⲁ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="14">
 ⲧⲉ
 </pos>
@@ -17954,8 +17756,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="15">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
@@ -18127,8 +17927,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲛⲓⲃⲉⲛ">
 <norm_group norm_group="ⲛⲓⲃⲉⲛ">
@@ -18314,8 +18112,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="17">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
@@ -18371,12 +18167,14 @@
 </norm>
 </orig>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦ⲉ︦">
+<pb_xml_id pb_xml_id="CO45">
 <orig orig="ⲧⲉϥ">
 <norm norm="ⲧⲉϥ">
 <lemma lemma="ⲡⲉϥ">
 <pos pos="PPOS">
+<note_note note_note="page ⲙ︦ⲉ︦">
 ⲧⲉϥ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -18470,10 +18268,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0043">
-<lb_n lb_n="2">
+</ed_page_n>
+<ed_page_n ed_page_n="111">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲑⲁⲓ">
 <norm_group norm_group="ⲑⲁⲓ">
@@ -18529,7 +18325,7 @@
 <orig orig="ⲛⲁⲓ">
 <norm norm="ⲛⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
-<pos pos="PREM">
+<pos pos="PDEM">
 ⲛⲁⲓ
 </pos>
 </lemma>
@@ -18664,8 +18460,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲉⲧⲁⲛⲓⲥⲏⲓⲛⲓ">
 <norm_group norm_group="ⲉⲧⲁⲛⲓⲥⲏⲓⲛⲓ">
@@ -18817,8 +18611,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="Saint Melania said to him: ‘My son Evagrius, this illness, which has been long for you, is a lesson for me: do not hide your thoughts from me, and perhaps I will heal you. Speak to me sincerely about your thoughts; otherwise, I see that this has not happened to you without God’s will.’ Then he revealed all his thoughts to her, and she said to him: ‘Promise me that you will take on the monastic habit, and although I am a sinner, I will pray to my God that He may grant you healing freely.’ He gave her the promise, and within a few days he was healed. He rose, put on the monastic habit, departed, and walked to Mount Pernoudj in Egypt. There he lived for two years, and in the third year he left. Then he entered the desert of Cellia, where he lived for sixteen years, practicing many exercises, and there he died at the age of sixty. He did not see the bitterness of old age or the weakness of the body, and so he rested, as it is written: ‘In a short time, he fulfilled many years,’ and he was swiftly carried to the Lord lest his understanding be corrupted by wickedness.">
 <verse_n verse_n="10">
 <orig_group orig_group="ⲡⲉϫⲉϯⲁⲅⲓⲁ">
 <norm_group norm_group="ⲡⲉϫⲉϯⲁⲅⲓⲁ">
@@ -18832,8 +18624,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="3">
 <orig orig="ϯ">
 <norm norm="ϯ">
@@ -19001,8 +18791,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲛⲧⲁⲕ">
 <norm_group norm_group="ⲛⲧⲁⲕ">
@@ -19197,8 +18985,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="5">
 <orig orig="ϫⲉⲙϫⲟⲙ">
 <norm norm="ϫⲉⲙϫⲟⲙ">
@@ -19347,8 +19133,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ϯⲛⲁⲩ">
 <norm_group norm_group="ϯⲛⲁⲩ">
@@ -19542,8 +19326,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲁϥⲟⲩⲱⲛϩ">
 <norm_group norm_group="ⲁϥⲟⲩⲱⲛϩ">
@@ -19752,8 +19534,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ϫⲉⲙⲁⲣⲱⲕ">
 <norm_group norm_group="ϫⲉⲙⲁⲣⲱⲕ">
@@ -19929,8 +19709,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ϩⲓⲱⲧⲕ">
 <norm_group norm_group="ϩⲓⲱⲧⲕ">
@@ -20101,8 +19879,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="10">
 <orig orig="ⲛⲟⲩϯ">
 <norm norm="ⲛⲟⲩϯ">
@@ -20317,8 +20093,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲛⲁⲥ">
 <norm_group norm_group="ⲛⲁⲥ">
@@ -20489,8 +20263,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲁϥϯ">
 <norm_group norm_group="ⲁϥϯ">
@@ -20727,8 +20499,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="13">
 <orig orig="ⲧⲱⲟⲩ">
 <norm norm="ⲧⲱⲟⲩ">
@@ -20865,8 +20635,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲙⲙⲁⲩ">
 <norm_group norm_group="ⲙⲙⲁⲩ">
@@ -21049,8 +20817,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="16">
 <ed_line_n ed_line_n="15">
 <orig_group orig_group="ⲙⲙⲁⲩ">
 <norm_group norm_group="ⲙⲙⲁⲩ">
@@ -21142,7 +20908,12 @@
 <norm norm="ϣⲁϥⲉ">
 <lemma lemma="ϣⲁϥⲉ">
 <pos pos="N">
-ϣⲁϥⲉ
+ϣⲁ
+</pb_xml_id>
+<pb_xml_id pb_xml_id="CO46">
+<note_note note_note="page ⲙ︦ⲋ︦">
+ϥⲉ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -21216,8 +20987,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="17">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲙⲓⲉ">
 <norm_group norm_group="ⲙⲓⲉ">
@@ -21376,8 +21145,6 @@
 <lang lang="Greek">
 ⲡⲟ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="18">
 <ed_line_n ed_line_n="17">
 ⲗⲏⲧⲓⲁ
 </lang>
@@ -21551,10 +21318,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0044">
-<lb_n lb_n="19">
+</ed_page_n>
+<ed_page_n ed_page_n="112">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲉⲡⲓⲛϣⲁϣⲓ">
 <norm_group norm_group="ⲉⲡⲓⲛϣⲁϣⲓ">
@@ -21717,8 +21482,6 @@
 <pos pos="V">
 ⲙ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="20">
 <ed_line_n ed_line_n="2">
 ⲧⲟⲛ
 </pos>
@@ -21867,8 +21630,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="21">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲁⲩϫⲱⲕ">
 <norm_group norm_group="ⲁⲩϫⲱⲕ">
@@ -22068,8 +21829,6 @@
 <pos pos="N">
 ⲭⲱ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="22">
 <ed_line_n ed_line_n="4">
 ⲗⲉⲙ
 </pos>
@@ -22193,12 +21952,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
 </verse_n>
-</translation>
-<translation translation="One day, our father Macarius was asked: ‘Father, how can I overcome the spirit of fornication?’ The elder said to him: ‘Do not eat at the appointed times, neither vegetables nor anything cooked with fire.’ That man was admirable, as his life was filled with the delights of peace and quiet. Indeed, it would not be fair to speak of his life without first recounting his old age. He prayed one hundred prayers every day, and he was also an elegant writer. When he had completed eight uninterrupted years of ascetic discipline, his bodily organs became afflicted; even the place where he passed water caused him pain, for his food was like stones in his stomach. The elders urged him to modify his ascetic practice. Until the time of his death, he did not eat bread, but only a few vegetables from among foods until he completed his short span of time. He neither ate fruit nor anything that gave pleasure to the body, and he did not allow his disciples to eat such things. This was the asceticism of his eating.">
 <verse_n verse_n="11">
-<lb_n lb_n="23">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲁϥϣⲉⲛⲡⲉⲛⲓⲱⲧ">
 <norm_group norm_group="ⲁϥϣⲉⲛⲡⲉⲛⲓⲱⲧ">
@@ -22376,8 +22131,6 @@
 ϫⲉⲙ
 </morph>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="24">
 <ed_line_n ed_line_n="6">
 <morph morph="ϫⲟⲙ">
 ϫⲟⲙ
@@ -22537,8 +22290,6 @@
 <pos pos="NEG">
 ⲙⲡⲉ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="25">
 <ed_line_n ed_line_n="7">
 ⲣ
 </pos>
@@ -22686,8 +22437,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="26">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ϧⲉⲛⲟⲩⲭⲣⲱⲙ">
 <norm_group norm_group="ϧⲉⲛⲟⲩⲭⲣⲱⲙ">
@@ -22877,8 +22626,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="27">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
@@ -23081,8 +22828,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="28">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲟⲛ">
 <norm_group norm_group="ⲟⲛ">
@@ -23277,8 +23022,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="29">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲛⲣ︦">
 <norm_group norm_group="ⲛⲣ">
@@ -23470,8 +23213,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="30">
 <ed_line_n ed_line_n="12">
 <orig orig="ϧⲱⲛⲧ">
 <norm norm="ϧⲱⲛⲧ">
@@ -23646,10 +23387,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦ⲍ︦">
-<lb_n lb_n="1">
+<pb_xml_id pb_xml_id="CO47">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲛⲁⲧϩⲗⲓ">
 <norm_group norm_group="ⲛⲁⲧϩⲗⲓ">
@@ -23657,7 +23396,9 @@
 <norm norm="ⲛⲁ">
 <lemma lemma="ⲛⲁ">
 <pos pos="PREP">
+<note_note note_note="page ⲙ︦ⲍ︦">
 ⲛⲁ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -23851,8 +23592,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="14">
 <orig orig="ⲙⲕⲁϩ">
 <norm norm="ⲙⲕⲁϩ">
@@ -24032,8 +23771,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="15">
 <orig orig="ⲱⲛⲓ">
 <norm norm="ⲱⲛⲓ">
@@ -24190,8 +23927,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -24364,10 +24099,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0045">
-<lb_n lb_n="5">
+</ed_page_n>
+<ed_page_n ed_page_n="113">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲛⲟⲩⲟϯ">
 <norm_group norm_group="ⲛⲟⲩⲟϯ">
@@ -24524,8 +24257,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲛⲁⲣⲕⲟⲛ">
 <norm_group norm_group="ⲛⲁⲣⲕⲟⲛ">
@@ -24699,8 +24430,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲕⲉϩⲗⲓ">
 <norm_group norm_group="ⲕⲉϩⲗⲓ">
@@ -24884,8 +24613,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="4">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
@@ -25059,8 +24786,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲛⲟⲩⲱⲙ">
 <norm_group norm_group="ⲛⲟⲩⲱⲙ">
@@ -25098,8 +24823,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="His sleep, however, was measured and divided: he slept for a third of the night, but never during the day. He had a corridor where, throughout the entire half of the day, he walked, weighed down with drowsiness, forcing his mind to contemplate visions that were revealed to him. At night, when he had already slept for a third of the night, he would spend the remaining part of the night walking through the corridor, meditating and praying, driving sleep away from himself, and compelling his mind to focus on the visions of the Scriptures. Thus, he became a man of the purest mind and of wisdom, knowledge, and discernment, and he was regarded as worthy of the grace of discretion, distinguishing the works of demons. In the holy Scriptures and the orthodoxy of the Catholic Church, he was eloquent and learned, for his knowledge and his chosen mind are attested to by the books he wrote. He wrote three books: one about the monks of monasteries, another about the monks who dwelled in the cells of his desert, and another about the presbyters of God, to make them vigilant in their holy place. These three books all taught a good life, ordered understanding, and visions in accordance with the orthodox traditions of the Church. For this was his custom.">
 <verse_n verse_n="12">
 <orig_group orig_group="ⲡⲓϩⲛⲓⲙ">
 <norm_group norm_group="ⲡⲓϩⲛⲓⲙ">
@@ -25282,8 +25005,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ⲡⲓⲣⲉⲅ︦">
 <norm_group norm_group="ⲡⲓⲣⲉⲅ">
@@ -25470,8 +25191,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲡⲉ">
 <norm_group norm_group="ⲡⲉ">
@@ -25672,8 +25391,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲛϧⲏⲧϥ">
 <norm_group norm_group="ⲛϧⲏⲧϥ">
@@ -25857,8 +25574,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲉⲙⲟⲩϣⲧ">
 <norm_group norm_group="ⲉⲙⲟⲩϣⲧ">
@@ -26011,8 +25726,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="10">
 <orig orig="ⲕⲏⲛ">
 <norm norm="ⲕⲏⲛ">
@@ -26126,16 +25839,18 @@
 </norm>
 </orig>
 </pb_xml_id>
+<pb_xml_id pb_xml_id="CO48">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
+<note_note note_note="page ⲙ︦ⲏ︦">
 ⲡ
+</note_note>
 </pos>
 </lemma>
 </norm>
 </orig>
-<pb_xml_id pb_xml_id="ⲙ︦ⲏ︦">
 <orig orig="ⲥⲱϫⲛ">
 <norm norm="ⲥⲱϫⲛ">
 <lemma lemma="ⲥⲱϫⲛ">
@@ -26192,8 +25907,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ϧⲉⲛⲡⲓⲟⲛϩ">
 <norm_group norm_group="ϧⲉⲛⲡⲓⲟⲛϩ">
@@ -26375,8 +26088,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
@@ -26558,8 +26269,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="13">
 <orig orig="ⲅⲣⲁⲫⲏ">
 <norm norm="ⲅⲣⲁⲫⲏ">
@@ -26705,8 +26414,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="14">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -26841,8 +26548,6 @@
 <lang lang="Greek">
 ⲇⲓⲁ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="15">
 ⲕⲣⲏⲥⲓⲥ
 </lang>
@@ -27018,8 +26723,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲛⲁⲕⲣⲓⲃⲏⲥ">
 <norm_group norm_group="ⲛⲁⲕⲣⲓⲃⲏⲥ">
@@ -27153,8 +26856,6 @@
 <lang lang="Greek">
 ⲡⲁⲣⲁ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="17">
 ⲇⲟⲥⲓⲥ
 </lang>
@@ -27290,10 +26991,8 @@
 ⲉⲣ
 </morph>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0046">
-<lb_n lb_n="9">
+</ed_page_n>
+<ed_page_n ed_page_n="114">
 <ed_line_n ed_line_n="1">
 <morph morph="ⲙⲉⲑⲣⲉ">
 ⲙⲉⲑⲣⲉ
@@ -27431,8 +27130,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="2">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
@@ -27640,8 +27337,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="3">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
@@ -27774,8 +27469,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ϧⲉⲛⲛⲓⲣⲓ">
 <norm_group norm_group="ϧⲉⲛⲛⲓⲣⲓ">
@@ -27933,8 +27626,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲉⲑⲣⲟⲩⲣⲱⲓⲥ">
 <norm_group norm_group="ⲉⲑⲣⲟⲩⲣⲱⲓⲥ">
@@ -28136,8 +27827,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ⲛⲓⲃⲉⲛ">
 <norm_group norm_group="ⲛⲓⲃⲉⲛ">
@@ -28328,8 +28017,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="7">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
@@ -28477,8 +28164,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲑⲁⲓ">
 <norm_group norm_group="ⲑⲁⲓ">
@@ -28559,8 +28244,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="The brothers would gather with him on the Sabbath and on Sunday. Throughout the entire night, they would share their thoughts with him, listening to his strong words until dawn. When they left him, they gave glory to God, for his teaching was very sweet to them. If they came to him and he noticed any deep or grave thought troubling them, he would beseech them, saying: ‘My brothers, if any one of you is troubled by a deep or serious thought, let him remain silent until the other brothers have gone, and then let him ask me privately, in secret, between the two of us. Let him not speak before his brothers, lest perhaps he lose the little one through his own thoughts and be overcome at the same time by pain of heart.’ He so loved strangers that in his cell he would admit five or six strangers daily who came from distant regions to hear his wisdom, understanding, and ascetic practices. For he possessed spiritual gifts and to him everyone would send offerings such that he had more than two hundred charismata. All of these were managed by the steward, who at all times served in his house. Often Apa Theophilus sought to apprehend him and make him bishop of Thmouis, but he fled so that this would not happen.">
 <verse_n verse_n="13">
 <orig_group orig_group="ⲛⲁⲣⲉⲛⲓⲥⲛⲏⲟⲩ">
 <norm_group norm_group="ⲛⲁⲣⲉⲛⲓⲥⲛⲏⲟⲩ">
@@ -28574,12 +28257,14 @@
 </norm>
 </orig>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦ⲑ︦">
+<pb_xml_id pb_xml_id="CO49">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
 <lemma lemma="ⲡⲓ">
 <pos pos="ART">
+<note_note note_note="page ⲙ︦ⲑ︦">
 ⲛⲓ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -28631,8 +28316,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲙⲡⲥⲁⲃⲃⲁⲧⲟⲛ">
 <norm_group norm_group="ⲙⲡⲥⲁⲃⲃⲁⲧⲟⲛ">
@@ -28805,8 +28488,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="10">
 <orig orig="ⲉϫⲱⲣϩ">
 <norm norm="ⲉϫⲱⲣϩ">
@@ -28957,8 +28638,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ϣⲁⲓ">
 <norm_group norm_group="ϣⲁⲓ">
@@ -29160,8 +28839,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ϫⲉⲟⲩⲏⲓ">
 <norm_group norm_group="ϫⲉⲟⲩⲏⲓ">
@@ -29317,8 +28994,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲛⲧⲟⲩⲓ">
 <norm_group norm_group="ⲛⲧⲟⲩⲓ">
@@ -29545,8 +29220,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="14">
 <orig orig="ⲛⲏⲟⲩ">
 <norm norm="ⲛⲏⲟⲩ">
@@ -29705,8 +29378,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="15">
 <orig_group orig_group="ⲙⲙⲱⲧⲉⲛ">
 <norm_group norm_group="ⲙⲙⲱⲧⲉⲛ">
@@ -29853,8 +29524,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -30009,10 +29678,8 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0047">
-<lb_n lb_n="10">
+</ed_page_n>
+<ed_page_n ed_page_n="115">
 <ed_line_n ed_line_n="1">
 <orig orig="ϫⲟ">
 <norm norm="ϫⲟ">
@@ -30145,8 +29812,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="2">
 <orig orig="ⲙⲉⲩⲓ">
 <norm norm="ⲙⲉⲩⲓ">
@@ -30292,8 +29957,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲛⲁϥⲟⲓ">
 <norm_group norm_group="ⲛⲁϥⲟⲓ">
@@ -30476,8 +30139,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="4">
 <orig orig="ⲧⲉϥ">
 <norm norm="ⲧⲉϥ">
@@ -30651,8 +30312,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="5">
 <orig orig="ϯ">
 <norm norm="ϯ">
@@ -30796,8 +30455,6 @@
 <lang lang="Greek">
 ⲁⲥ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="6">
 ⲕⲩⲥⲓⲥ
 </lang>
@@ -30933,8 +30590,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲟⲩⲙⲏϣ">
 <norm_group norm_group="ⲟⲩⲙⲏϣ">
@@ -31045,12 +30700,14 @@
 </norm>
 </orig>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲛ︦">
+<pb_xml_id pb_xml_id="CO50">
 <orig orig="ϩⲟⲩⲟ">
 <norm norm="ϩⲟⲩⲟ">
 <lemma lemma="ϩⲟⲩⲟ">
 <pos pos="N">
+<note_note note_note="page ⲛ︦">
 ϩⲟⲩⲟ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -31117,8 +30774,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲡⲉ">
 <norm_group norm_group="ⲡⲉ">
@@ -31295,8 +30950,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲛⲓⲃⲉⲛ">
 <norm_group norm_group="ⲛⲓⲃⲉⲛ">
@@ -31451,8 +31104,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲟⲩⲱϣ">
 <norm_group norm_group="ⲟⲩⲱϣ">
@@ -31631,8 +31282,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲁϥⲫⲱⲧ">
 <norm_group norm_group="ⲁϥⲫⲱⲧ">
@@ -31750,8 +31399,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="One day, demons came to him and inflicted wounds upon him; we heard his voice, but we saw no one. Throughout the night, they struck him with scourges, and we saw the wounds on his body with our own eyes: God is our witness. If you wish to know about the temptations he endured from demons, read the book he wrote against the demons, and you will see his entire life and the various temptations he suffered. He wrote it for this reason, so that those who read might be strengthened, for they are not the only ones who are tempted; and he taught us how such thoughts and inclinations might be overcome.">
 <verse_n verse_n="14">
 <orig_group orig_group="ⲁ">
 <norm_group norm_group="ⲁ">
@@ -31841,8 +31488,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲛⲟⲩⲥⲟⲡ">
 <norm_group norm_group="ⲛⲟⲩⲥⲟⲡ">
@@ -32050,8 +31695,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲙⲡⲉⲛⲛⲁⲩ">
 <norm_group norm_group="ⲙⲡⲉⲛⲛⲁⲩ">
@@ -32228,8 +31871,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲁⲛⲛⲁⲩ">
 <norm_group norm_group="ⲁⲛⲛⲁⲩ">
@@ -32442,8 +32083,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="15">
 <orig_group orig_group="ⲙⲙⲉⲑⲣⲉ">
 <norm_group norm_group="ⲙⲙⲉⲑⲣⲉ">
@@ -32648,8 +32287,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲛⲧⲟⲧⲟⲩ">
 <norm_group norm_group="ⲛⲧⲟⲧⲟⲩ">
@@ -32831,10 +32468,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0048">
-<lb_n lb_n="11">
+</ed_page_n>
+<ed_page_n ed_page_n="116">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲛⲧⲉⲛⲓⲇⲉⲙⲱⲛ">
 <norm_group norm_group="ⲛⲧⲉⲛⲓⲇⲁⲓⲙⲱⲛ">
@@ -32987,8 +32622,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲉⲧϣⲉⲃⲓⲏⲟⲩⲧ">
 <norm_group norm_group="ⲉⲧϣⲉⲃⲓⲏⲟⲩⲧ">
@@ -33158,8 +32791,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲙⲙⲱⲟⲩ">
 <norm_group norm_group="ⲙⲙⲱⲟⲩ">
@@ -33319,8 +32950,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="4">
 <orig orig="ⲉⲣⲡⲓⲣⲁⲍⲓⲛ">
 <norm norm="ⲉⲣⲡⲓⲣⲁⲍⲓⲛ">
@@ -33478,8 +33107,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲉⲁϣ">
 <norm_group norm_group="ⲉⲁϣ">
@@ -33605,8 +33232,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="This man was hidden at the beginning. One day, the demons increased fornication against him so much that they placed this thought in his heart: ‘God has forgotten me.’ As he told us, he spent the entire night naked in winter, praying until his flesh became as dry as stone. At another time, the spirit of blasphemy harassed him, and for forty days he did not enter the shelter of his cell. His entire body became inflamed, like an irrational beast filled with swelling. A few days later, he told us the visions he had seen and never concealed them from his disciples. He said: ‘During the night, I was sitting in my cell, burning with lamplight, meditating on one of the prophets. In the middle of the night, I was in a rapture of the mind, and I found myself, as it were, dreaming a dream, seeing myself suspended in the air, gazing at the clouds and the entire earth. And a certain one whose hands I was hanging from said to me: ‘Do you see all these things?’ For he had lifted me up to the clouds, and I was seeing the entire world at once. I said to him: ‘Indeed.’">
 <verse_n verse_n="15">
 <orig_group orig_group="ⲡⲁⲓⲣⲱⲙⲓ">
 <norm_group norm_group="ⲡⲁⲓⲣⲱⲙⲓ">
@@ -33677,8 +33302,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ⲁϥϣⲱⲡⲓ">
 <norm_group norm_group="ⲁϥϣⲱⲡⲓ">
@@ -33745,14 +33368,16 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲛ︦ⲁ︦">
+<pb_xml_id pb_xml_id="CO51">
 <orig_group orig_group="ⲉϥⲟⲃϣ">
 <norm_group norm_group="ⲉϥⲟⲃϣ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
 <pos pos="CCIRC">
+<note_note note_note="ⲛ︦ⲁ︦">
 ⲉ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -33837,8 +33462,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲉϯⲡⲟⲣⲛⲓⲁ">
 <norm_group norm_group="ⲉϯⲡⲟⲣⲛⲉⲓⲁ">
@@ -34041,8 +33664,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ϫⲉⲁⲫ︦ϯ︦">
 <norm_group norm_group="ϫⲉⲁⲫ︦ϯ︦">
@@ -34246,8 +33867,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -34440,8 +34059,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲙⲙⲱⲟⲩ">
 <norm_group norm_group="ⲙⲙⲱⲟⲩ">
@@ -34618,8 +34235,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲙⲫⲣⲏϯ">
 <norm_group norm_group="ⲙⲫⲣⲏϯ">
@@ -34817,8 +34432,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲛⲁϥ">
 <norm_group norm_group="ⲛⲁϥ">
@@ -35046,8 +34659,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ϣⲁⲧⲉⲡⲉϥⲥⲱⲙⲁ">
 <norm_group norm_group="ϣⲁⲧⲉⲡⲉϥⲥⲱⲙⲁ">
@@ -35213,8 +34824,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="14">
 <orig orig="ⲧⲉⲃⲛⲏ">
 <norm norm="ⲧⲉⲃⲛⲏ">
@@ -35361,8 +34970,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="15">
 <orig_group orig_group="ⲉϩⲁⲛϭⲱⲣⲡ">
 <norm_group norm_group="ⲉϩⲁⲛϭⲱⲣⲡ">
@@ -35537,8 +35144,6 @@
 <lang lang="Greek">
 ⲙⲁⲑⲏ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="16">
 ⲧⲏⲥ
 </lang>
@@ -35729,10 +35334,8 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0049">
-<lb_n lb_n="12">
+</ed_page_n>
+<ed_page_n ed_page_n="117">
 <ed_line_n ed_line_n="1">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
@@ -35899,8 +35502,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="2">
 <orig orig="ⲡⲣⲟⲫⲏⲧⲏⲥ">
 <norm norm="ⲡⲣⲟⲫⲏⲧⲏⲥ">
@@ -36040,8 +35641,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -36230,8 +35829,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -36423,8 +36020,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲁⲓϫⲟⲩϣⲧ">
 <norm_group norm_group="ⲁⲓϫⲟⲩϣⲧ">
@@ -36526,14 +36121,16 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲛ︦ⲃ︦">
+<pb_xml_id pb_xml_id="CO52">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
 <orig orig="ⲟⲩⲟϩ">
 <norm norm="ⲟⲩⲟϩ">
 <lemma lemma="ⲟⲩⲟϩ">
 <pos pos="CONJ">
+<note_note note_note="ⲛ︦ⲃ︦">
 ⲟⲩⲟϩ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -36552,8 +36149,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="6">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
@@ -36775,8 +36370,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲅⲁⲣ">
 <norm_group norm_group="ⲅⲁⲣ">
@@ -36990,8 +36583,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲛⲁϥ">
 <norm_group norm_group="ⲛⲁϥ">
@@ -37051,8 +36642,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="He said to me: ‘I will give you a command: if you fulfill it, you will be made ruler over all these things that you see.’ He said to me: ‘Go, be merciful and humble; place your thoughts rightly in the Lord, and you will be ruler over all these things.’ And when he had spoken these words to me, again I saw myself holding the book, with the lamp burning, though I had been somehow caught up to the clouds. I did not know whether I was in the flesh—God knows—or in the spirit, I do not know; God knows. And so he strove for these two virtues (to be attained), as if he had attained all others, saying: ‘Humility leads to correct knowledge, and understanding aspires to the heights.’ For it is written: ‘He will teach the humble his ways.’ And this is the virtue of the angels.’ Concerning purity, he said: ‘Not only monks and virgins possess it, but many laypeople also maintain purity; for not all possess bodily purity.’ He continued: ‘Therefore, seek peace with all, and pursue purity. No one, unless pure, shall see the Lord.’ It was impossible to find a worldly word in the mouth of Apa Evagrius, or even a word of contention; nor would he listen to such from anyone else.">
 <verse_n verse_n="16">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -37205,8 +36794,6 @@
 <pos pos="ACOND_PPERS">
 ⲁⲕ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="9">
 ϣⲁⲛ
 </pos>
@@ -37373,8 +36960,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲉⲣⲱⲟⲩ">
 <norm_group norm_group="ⲉⲣⲱⲟⲩ">
@@ -37559,8 +37144,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="11">
 <orig orig="ⲡⲉⲕ">
 <norm norm="ⲡⲉⲕ">
@@ -37724,8 +37307,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="12">
 <orig orig="ⲛⲁⲓ">
 <norm norm="ⲛⲁⲓ">
@@ -37980,8 +37561,6 @@
 <pos pos="V">
 ⲁ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="13">
 ⲙⲟⲛⲓ
 </pos>
@@ -38178,8 +37757,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ϣⲁⲛⲓϭⲏⲡⲓ">
 <norm_group norm_group="ϣⲁⲛⲓϭⲏⲡⲓ">
@@ -38387,8 +37964,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="15">
 <orig_group orig_group="ⲭⲟⲩⲱϣ">
 <norm_group norm_group="ⲭⲟⲩⲱϣ">
@@ -38580,8 +38155,6 @@
 ⲉⲣ
 </morph>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="16">
 <lang lang="Greek">
 <morph morph="ⲁⲅⲱⲛⲓⲍⲉⲥⲑⲉ">
@@ -38720,8 +38293,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="17">
 <orig_group orig_group="ⲧⲏⲣⲟⲩ">
 <norm_group norm_group="ⲧⲏⲣⲟⲩ">
@@ -38901,8 +38472,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="18">
 <orig_group orig_group="ⲉⲡⲓⲉⲙⲓ">
 <norm_group norm_group="ⲉⲡⲓⲉⲙⲓ">
@@ -39103,10 +38672,8 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0050">
-<lb_n lb_n="15">
+</ed_page_n>
+<ed_page_n ed_page_n="118">
 <ed_line_n ed_line_n="1">
 <orig orig="ⲉϥⲉ">
 <norm norm="ⲉϥⲉ">
@@ -39256,8 +38823,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="16">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲑⲁⲛⲓⲁⲅⲅⲉⲗⲟⲥ">
 <norm_group norm_group="ⲑⲁⲛⲓⲁⲅⲅⲉⲗⲟⲥ">
@@ -39362,11 +38927,15 @@
 </lemma>
 </norm>
 </orig>
+</pb_xml_id>
+<pb_xml_id pb_xml_id="CO53">
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
 <lemma lemma="ⲛⲧⲉ">
 <pos pos="PREP">
+<note_note note_note="page ⲛ︦ⲅ︦">
 ⲛⲧⲉ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -39411,8 +38980,6 @@
 <lang lang="Greek">
 ⲙⲟ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="17">
 <ed_line_n ed_line_n="3">
 ⲛⲁⲭⲟⲥ
 </lang>
@@ -39548,8 +39115,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="18">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲉⲣⲉⲧⲁⲓⲁⲣⲉⲧⲏ">
 <norm_group norm_group="ⲉⲣⲉⲧⲁⲓⲁⲣⲉⲧⲏ">
@@ -39690,8 +39255,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="19">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲟⲩⲙⲏϣ">
 <norm_group norm_group="ⲟⲩⲙⲏϣ">
@@ -39861,8 +39424,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="20">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ⲙⲙⲟⲛ">
 <norm_group norm_group="ⲙⲙⲟⲛ">
@@ -39870,9 +39431,9 @@
 <norm norm="ⲙⲙⲟⲛ">
 <lemma lemma="ⲙⲙⲟⲛ">
 <pos pos="EXIST">
-<note note="sic">
+<note_note note_note="sic">
 ⲙⲙⲟⲛ
-</note>
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -39984,9 +39545,9 @@
 <norm norm="ϫⲓ">
 <lemma lemma="ϫⲱ">
 <pos pos="V">
-<note note="sic">
+<note_note note_note="sic">
 ϫⲓ
-</note>
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -40009,8 +39570,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="21">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -40154,8 +39713,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="22">
 <ed_line_n ed_line_n="8">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -40344,8 +39901,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="23">
 <ed_line_n ed_line_n="9">
 <orig orig="ϫⲉⲙ">
 <norm norm="ϫⲉⲙ">
@@ -40504,8 +40059,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="24">
 <ed_line_n ed_line_n="10">
 <orig orig="ⲥⲁϫⲓ">
 <norm norm="ⲥⲁϫⲓ">
@@ -40684,12 +40237,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
 </verse_n>
-</translation>
-<translation translation="We also heard this miracle about him: when Apa Theophilus sought to make him bishop of Thmouis, he fled and withdrew to Palestine. There, he found a woman possessed by an unclean spirit. Nothing created could satisfy her, for the demon had proposed to her a life resembling that of angels; but for many years, she did not lie with her husband. When Apa Evagrius, the man of God had met him, and with a single word he turned the woman’s heart to God, along with her husband’s. For she had been speaking externally of philosophy, yet unaware of what she was saying, such that it was wondrous for her to speak otherwise. She was saved in the Lord and reconciled with her husband through him.">
 <verse_n verse_n="17">
-<lb_n lb_n="25">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲡⲁⲓⲕⲉⲙⲏⲓⲛⲓ">
 <norm_group norm_group="ⲡⲁⲓⲕⲉⲙⲏⲓⲛⲓ">
@@ -40857,8 +40406,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="26">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲛⲧⲟⲧϥ">
 <norm_group norm_group="ⲛⲧⲟⲧϥ">
@@ -41030,8 +40577,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="27">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲁϥⲫⲱⲧ">
 <norm_group norm_group="ⲁϥⲫⲱⲧ">
@@ -41224,8 +40769,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="28">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲛⲧⲉⲟⲩⲧⲣⲓⲃⲟⲩⲛⲟⲥ">
 <norm_group norm_group="ⲛⲧⲉⲟⲩⲧⲣⲓⲃⲟⲩⲛⲟⲥ">
@@ -41362,8 +40905,6 @@
 <pos pos="PREP">
 ⲛⲉ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="29">
 <ed_line_n ed_line_n="15">
 ⲙⲁ
 </pos>
@@ -41549,8 +41090,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="30">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲛⲉⲁⲡⲓⲇⲉⲙⲱⲛ">
 <norm_group norm_group="ⲛⲉⲁⲡⲓⲇⲉⲙⲱⲛ">
@@ -41726,8 +41265,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="17">
 <orig_group orig_group="ⲡⲓϫⲓⲛⲱⲛϧ">
 <norm_group norm_group="ⲡⲓϫⲓⲛⲱⲛϧ">
@@ -41748,9 +41285,11 @@
 ϫⲓⲛ
 </morph>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲛⲇ">
+<pb_xml_id pb_xml_id="CO54">
 <morph morph="ⲱⲛϧ">
+<note_note note_note="page ⲛⲇ">
 ⲱⲛϧ
+</note_note>
 </morph>
 </pos>
 </lemma>
@@ -42062,10 +41601,8 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0051">
-<lb_n lb_n="3">
+</ed_page_n>
+<ed_page_n ed_page_n="119">
 <ed_line_n ed_line_n="1">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
@@ -42253,8 +41790,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="2">
 <orig orig="ⲫ︦ϯ︦">
 <norm norm="ⲫⲛⲟⲩϯ">
@@ -42424,8 +41959,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲛⲁⲥⲥⲁϫⲓ">
 <norm_group norm_group="ⲛⲁⲥⲥⲁϫⲓ">
@@ -42573,8 +42106,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲛⲥⲉⲙⲓ">
 <norm_group norm_group="ⲛⲥⲉⲙⲓ">
@@ -42784,8 +42315,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲛⲕⲉϫⲟⲧⲟⲩ">
 <norm_group norm_group="ⲛⲕⲉϫⲟⲧⲟⲩ">
@@ -43003,8 +42532,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="6">
 <orig orig="ϩⲁⲓ">
 <norm norm="ϩⲁⲓ">
@@ -43064,8 +42591,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="On another occasion, an old man who was fleeing from the priesthood and living in the desert came to him. While traveling, his bread and that of his disciple failed, and the disciple was on the verge of collapsing from hunger on the way. But an angel brought bread before him and placed it on the mountain. When the old man reached the place of Apa Evagrius, he said to him: ‘As I was coming to you, my boy and I, on the road, we were starving and found no bread to eat. The boy nearly fainted from hunger, and when we had stretched out a skin and knelt down, as we fell to the ground, the scent of warm bread reached us. When I rose, I found two warm loaves. And when each of us had taken his share of bread, we ate and were strengthened, we traveled and came to you.’ And I also sat there while he spoke of these things and the wondrous deed that had happened to Apa Evagrius.">
 <verse_n verse_n="18">
 <orig_group orig_group="ⲁϥⲓ">
 <norm_group norm_group="ⲁϥⲓ">
@@ -43198,8 +42723,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲉϥϣⲟⲡ">
 <norm_group norm_group="ⲉϥϣⲟⲡ">
@@ -43346,8 +42869,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲉϥⲛⲏⲟⲩ">
 <norm_group norm_group="ⲉϥⲛⲏⲟⲩ">
@@ -43546,8 +43067,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -43737,8 +43256,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
@@ -43928,8 +43445,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲙⲙⲟϥ">
 <norm_group norm_group="ⲙⲙⲟϥ">
@@ -44137,8 +43652,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲉⲫⲙⲁ">
 <norm_group norm_group="ⲉⲫⲙⲁ">
@@ -44330,10 +43843,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲛ︦ⲉ︦">
-<lb_n lb_n="1">
+<pb_xml_id pb_xml_id="CO55">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲛⲉⲙⲡⲁⲁⲗⲟⲩ">
 <norm_group norm_group="ⲛⲉⲙⲡⲁⲁⲗⲟⲩ">
@@ -44341,7 +43852,9 @@
 <norm norm="ⲛⲉⲙ">
 <lemma lemma="ⲛⲉⲙ">
 <pos pos="PREP">
+<note_note note_note="page ⲛ︦ⲉ︦">
 ⲛⲉⲙ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -44509,8 +44022,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲁⲡⲓⲁⲗⲟⲩ">
 <norm_group norm_group="ⲁⲡⲓⲁⲗⲟⲩ">
@@ -44683,8 +44194,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="15">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
@@ -44859,8 +44368,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="16">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
@@ -45062,10 +44569,8 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0052">
-<lb_n lb_n="5">
+</ed_page_n>
+<ed_page_n ed_page_n="120">
 <ed_line_n ed_line_n="1">
 <orig orig="ⲃ︦">
 <norm norm="ⲃ">
@@ -45300,8 +44805,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲁⲛⲟⲩⲟⲙϥ">
 <norm_group norm_group="ⲁⲛⲟⲩⲟⲙϥ">
@@ -45516,8 +45019,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="3">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
@@ -45710,8 +45211,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲉⲩⲁⲅⲣⲓ">
 <norm_group norm_group="ⲉⲩⲁⲅⲣⲓ">
@@ -45835,8 +45334,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="As I sat, he said: ‘Tell me, then, do you think that demons can accomplish these things?’ Apa Evagrius replied: ‘The same thing happened to both of us—you and I are witnesses. A few days ago, I also set out to visit the brothers, and as I walked along the road, I found a purse in which were three gold coins.’ After I sat down for a day, no one came to search for it, and because I did not know who it belonged to, I sent someone to the nearby villages, saying: 'Has anyone lost a purse in recent days?' When no one came forward, I gave an order to my steward and said: 'Distribute it among the pilgrims, whether it comes from angels or from the devil.' And we distributed it accordingly. Therefore, I give thanks to God, for such works do not pertain to the soul unless they lead it to be purified, are useful. However, I congratulate you for having received food from an angel; for demons, too, can bring bread, even steal it and offer it. But this bread does not nourish the body, for the bread of demons stinks, and if bread is from the devil, the soul is disturbed when it sees it. But if the bread is from an angel, the soul is not disturbed but remains in peace and tranquility. At that moment when someone is worthy to receive bread from the hands of angels, reason first provides discernment, if we recall the words of the Apostle, saying: ‘The food of the mature is for those who, because of their perfection, have trained their senses to discern what is good and what is evil.’">
 <verse_n verse_n="19">
 <orig_group orig_group="ⲙⲁⲧⲁⲙⲟⲓ">
 <norm_group norm_group="ⲙⲁⲧⲁⲙⲟⲓ">
@@ -45907,8 +45404,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ϫⲉⲁⲛ">
 <norm_group norm_group="ϫⲉⲁⲛ">
@@ -46094,8 +45589,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="6">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
@@ -46290,8 +45783,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲙⲡⲃ︦">
 <norm_group norm_group="ⲙⲡⲃ">
@@ -46472,8 +45963,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ϩⲱ">
 <norm_group norm_group="ϩⲱ">
@@ -46657,8 +46146,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲉⲓⲥⲓⲛⲓ">
 <norm_group norm_group="ⲉⲓⲥⲓⲛⲓ">
@@ -46862,16 +46349,16 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲛ︦︦ⲋ︦">
-<lb_n lb_n="1">
+<pb_xml_id pb_xml_id="CO56">
 <ed_line_n ed_line_n="10">
 <orig orig="ϩⲉⲙⲥⲓ">
 <norm norm="ϩⲉⲙⲥⲓ">
 <lemma lemma="ϩⲉⲙⲥⲓ">
 <pos pos="V">
+<note_note note_note="page ⲛ︦︦ⲋ︦">
 ϩⲉⲙⲥⲓ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -47036,8 +46523,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="11">
 <orig orig="ⲟⲩⲟⲣⲡ">
 <norm norm="ⲟⲩⲟⲣⲡ">
@@ -47237,8 +46722,6 @@
 </lemma>
 </norm>
 </orig>
-</ed_line_n>
-</lb_n>
 <orig orig="ⲓ">
 <norm norm="ⲓ">
 <lemma lemma="ⲁⲛⲟⲕ">
@@ -47248,7 +46731,7 @@
 </lemma>
 </norm>
 </orig>
-<lb_n lb_n="3">
+</ed_line_n>
 <ed_line_n ed_line_n="12">
 <orig orig="ⲟⲩⲱⲣⲡ">
 <norm norm="ⲟⲩⲱⲣⲡ">
@@ -47263,7 +46746,7 @@
 </orig_group>
 <orig_group orig_group="ⲉⲛⲓⲧⲓⲙⲓ">
 <norm_group norm_group="ⲉⲛⲓⲧⲓⲙⲓ">
-<note note="sic">
+<note_note note_note="sic">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -47291,7 +46774,7 @@
 </lemma>
 </norm>
 </orig>
-</note>
+</note_note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲧϧⲱⲛⲧ">
@@ -47396,8 +46879,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ϧⲉⲛⲛⲁⲓⲉϩⲟⲟⲩ">
 <norm_group norm_group="ϧⲉⲛⲛⲁⲓⲉϩⲟⲟⲩ">
@@ -47570,8 +47051,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲉϭⲱⲟⲩ">
 <norm_group norm_group="ⲉϭⲱⲟⲩ">
@@ -47733,8 +47212,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="15">
 <orig orig="ⲇⲉⲙⲱⲛ">
 <norm norm="ⲇⲉⲙⲱⲛ">
@@ -47922,8 +47399,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲙⲁⲣⲉⲛϯⲱⲟⲩ">
 <norm_group norm_group="ⲙⲁⲣⲉⲛϯⲱⲟⲩ">
@@ -48101,8 +47576,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="17">
 <orig_group orig_group="ⲛϯⲯⲩⲭⲏ">
 <norm_group norm_group="ⲛϯⲯⲩⲭⲏ">
@@ -48308,10 +47781,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0053">
-<lb_n lb_n="9">
+</ed_page_n>
+<ed_page_n ed_page_n="121">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲛⲟⲩϧⲣⲉ">
 <norm_group norm_group="ⲛⲟⲩϧⲣⲉ">
@@ -48466,8 +47937,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲉⲕⲱⲗⲛ">
 <norm_group norm_group="ⲉⲕⲱⲗⲛ">
@@ -48678,8 +48147,6 @@
 </lemma>
 </norm>
 </orig>
-</ed_line_n>
-</lb_n>
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -48689,7 +48156,7 @@
 </lemma>
 </norm>
 </orig>
-<lb_n lb_n="11">
+</ed_line_n>
 <ed_line_n ed_line_n="3">
 <orig orig="ⲥⲓ">
 <norm norm="ⲥⲓ">
@@ -48845,8 +48312,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ϯⲯⲩⲭⲏ">
 <norm_group norm_group="ϯⲯⲩⲭⲏ">
@@ -48991,8 +48456,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲡⲉ">
 <norm_group norm_group="ⲡⲉ">
@@ -49164,8 +48627,6 @@
 ϩⲓ
 </lang>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="6">
 <lang lang="Greek">
 ⲣⲏⲛⲏ
@@ -49325,8 +48786,6 @@
 <pos pos="PREP">
 ⲛⲧⲟ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="7">
 ⲧ
 </pos>
@@ -49448,14 +48907,16 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲛ︦ⲍ︦">
+<pb_xml_id pb_xml_id="CO57">
 <orig_group orig_group="ϣⲱⲡⲓ">
 <norm_group norm_group="ϣⲱⲡⲓ">
 <orig orig="ϣⲱⲡⲓ">
 <norm norm="ϣⲱⲡⲓ">
 <lemma lemma="ϣⲱⲡⲓ">
 <pos pos="V">
+<note_note note_note="page ⲛ︦ⲍ︦">
 ϣⲱⲡⲓ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -49463,8 +48924,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲛϧⲏⲧϥ">
 <norm_group norm_group="ⲛϧⲏⲧϥ">
@@ -49679,8 +49138,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="9">
 <orig orig="ϯ">
 <norm norm="ϯ">
@@ -49838,8 +49295,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲛⲛⲟⲩⲉⲥⲑⲏⲧⲏⲣⲓⲟⲛ">
 <norm_group norm_group="ⲛⲛⲟⲩⲉⲥⲑⲏⲧⲏⲣⲓⲟⲛ">
@@ -50014,12 +49469,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
 </verse_n>
-</translation>
-<translation translation="Another time, three demons approached him at midday, disguised in the form of ministers of the church. By their appearance, they displayed themselves as though they were righteous, and he did not immediately recognize them as demons. After they left and he found the door firmly closed, he knew they were demons, though at first he had not realized it. They showed themselves in such a way as to dispute with men of faith about the Scriptures and each of them presented him with a problem: ‘We have heard of you, that you speak beautifully of the orthodox faith; therefore, we have come to you to persuade our hearts concerning these matters which we question.’ He replied to them: ‘Say what you want.’ The first said: ‘I am a Eunomian, and I have come to you so that you may teach me whether the Father is unbegotten or begotten.’ Apa Evagrius said to him: ‘I will not answer you because you have questioned poorly, for it is not fitting to speak of what is unbegotten by nature as something begotten or unbegotten.’ When the first man knew that he had been defeated, he instructed his companion to proceed. The second man stepped forward and said to the first: ‘You questioned poorly.’ Apa Evagrius said to him: ‘And you, who are you?’ He replied: ‘I am an Arian.’ Apa Evagrius said: ‘And what do you seek?’ He said: ‘Concerning the Holy Spirit and about the truth of the saying that Mary bore God in the flesh.’ Then Saint Evagrius said to them: ‘The Holy Spirit is neither begotten nor created; for every created thing is comprehensible, mutable, and is sanctified by Him who chose to sanctify it.’ The third said: ‘You have defeated these […] The old man replied: ‘What are you seeking, you who boast of yourself before the battle?’ The demon replied: ‘I bring no ambiguity, but my heart is not persuaded, nor am I certain that Christ accepted human understanding. Instead, I believe divine understanding was in Him. For it cannot happen that a human spirit could drive out demons who dominate and overcome them. However, the human spirit does not exist in a body alongside God.’">
 <verse_n verse_n="20">
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲡⲁⲗⲓⲛ">
 <norm_group norm_group="ⲡⲁⲗⲓⲛ">
@@ -50218,8 +49669,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲛϩⲁⲛⲣⲉϥⲫⲱϣⲉⲛ">
 <norm_group norm_group="ⲛϩⲁⲛⲣⲉϥⲫⲱϣⲉⲛ">
@@ -50364,8 +49813,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="13">
 <orig orig="ⲁⲙⲉⲣⲓ">
 <norm norm="ⲁⲙⲉⲣⲓ">
@@ -50526,8 +49973,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲛⲧⲟⲩϣⲧⲉⲙⲭⲁϥ">
 <norm_group norm_group="ⲛⲧⲟⲩϣⲧⲉⲙⲭⲁϥ">
@@ -50702,8 +50147,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="15">
 <orig orig="ⲫⲁⲓ">
 <norm norm="ⲫⲁⲓ">
@@ -50866,8 +50309,6 @@
 <pos pos="VSTAT">
 ⲧⲁϫ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="16">
 ⲣⲏⲟⲩⲧ
 </pos>
@@ -51020,10 +50461,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0054">
-<lb_n lb_n="11">
+</ed_page_n>
+<ed_page_n ed_page_n="122">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲟⲩⲟϩ">
 <norm_group norm_group="ⲟⲩⲟϩ">
@@ -51212,8 +50651,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
@@ -51363,8 +50800,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲙⲡⲉϥⲡⲣⲟⲃⲗⲏⲙⲁ">
 <norm_group norm_group="ⲙⲡⲉϥⲡⲣⲟⲃⲗⲏⲙⲁ">
@@ -51541,8 +50976,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲉⲑⲃⲏⲧⲕ">
 <norm_group norm_group="ⲉⲑⲃⲏⲧⲕ">
@@ -51697,7 +51130,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
+<ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲁⲛⲓ">
 <norm_group norm_group="ⲁⲛⲓ">
 <orig orig="ⲁ">
@@ -51718,8 +51151,6 @@
 </lemma>
 </norm>
 </orig>
-<lb_n lb_n="15">
-<ed_line_n ed_line_n="5">
 <orig orig="ⲓ">
 <norm norm="ⲓ">
 <lemma lemma="ⲓ">
@@ -51902,8 +51333,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="16">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ⲛⲧⲟⲧⲕ">
 <norm_group norm_group="ⲛⲧⲟⲧⲕ">
@@ -51940,13 +51369,17 @@
 </orig>
 </norm_group>
 </orig_group>
+</pb_xml_id>
+<pb_xml_id pb_xml_id="CO58">
 <orig_group orig_group="ⲛⲑⲟϥ">
 <norm_group norm_group="ⲛⲑⲟϥ">
 <orig orig="ⲛⲑⲟϥ">
 <norm norm="ⲛⲑⲟϥ">
 <lemma lemma="ⲛⲑⲟϥ">
 <pos pos="PPERI">
+<note_note note_note="page ⲛ︦ⲏ︦">
 ⲛⲑⲟϥ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -52064,8 +51497,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="17">
 <ed_line_n ed_line_n="7">
 <orig orig="ⲟⲩⲁϣ">
 <norm norm="ⲟⲩⲁϣ">
@@ -52190,9 +51621,9 @@
 <norm norm="ⲉⲩⲙⲉⲛⲓⲟⲥ">
 <lemma lemma="ⲉⲩⲙⲉⲛⲓⲟⲥ">
 <pos pos="NPROP">
-<note note="sic">
+<note_note note_note="sic">
 ⲉⲩⲙⲉⲛⲓⲟⲥ
-</note>
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -52213,8 +51644,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="18">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲇⲉ">
 <norm_group norm_group="ⲇⲉ">
@@ -52400,17 +51829,15 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="19">
 <ed_line_n ed_line_n="9">
 <orig orig="ⲅⲉⲛⲉⲧⲟⲥ">
 <norm norm="ⲅⲉⲛⲉⲧⲟⲥ">
 <lemma lemma="ⲅⲉⲛⲉⲧⲟⲥ">
 <pos pos="N">
 <lang lang="Greek">
-<note note="sic">
+<note_note note_note="sic">
 ⲅⲉⲛⲉⲧⲟⲥ
-</note>
+</note_note>
 </lang>
 </pos>
 </lemma>
@@ -52556,8 +51983,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="20">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ϫⲉϯⲛⲁⲉⲣⲟⲩⲱ">
 <norm_group norm_group="ϫⲉϯⲛⲁⲉⲣⲟⲩⲱ">
@@ -52744,8 +52169,6 @@
 </lemma>
 </norm>
 </orig>
-</ed_line_n>
-</lb_n>
 <orig orig="ⲁⲧⲙⲓⲥⲓ">
 <norm norm="ⲁⲧⲙⲓⲥⲓ">
 <lemma lemma="ⲁⲧⲙⲓⲥⲓ">
@@ -52753,7 +52176,7 @@
 <morph morph="ⲁⲧ">
 ⲁⲧ
 </morph>
-<lb_n lb_n="21">
+</ed_line_n>
 <ed_line_n ed_line_n="11">
 <morph morph="ⲙⲓⲥⲓ">
 ⲙⲓⲥⲓ
@@ -52924,8 +52347,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="22">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲧⲉ">
 <norm_group norm_group="ⲧⲉ">
@@ -53149,8 +52570,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="23">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲉⲧⲁϥⲓ">
 <norm_group norm_group="ⲉⲧⲁϥⲓ">
@@ -53371,8 +52790,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="24">
 <ed_line_n ed_line_n="14">
 <orig orig="ⲁⲡⲁ">
 <norm norm="ⲁⲡⲁ">
@@ -53539,8 +52956,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="25">
 <ed_line_n ed_line_n="15">
 <orig_group orig_group="ⲁⲛⲟⲕ">
 <norm_group norm_group="ⲁⲛⲟⲕ">
@@ -53740,8 +53155,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="26">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲡⲉϫⲁϥ">
 <norm_group norm_group="ⲡⲉϫⲁϥ">
@@ -53931,8 +53344,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="27">
 <ed_line_n ed_line_n="17">
 <orig_group orig_group="ⲙⲡⲭ︦ⲥ︦">
 <norm_group norm_group="ⲙⲡⲭⲣⲓⲥⲧⲟⲥ">
@@ -54111,8 +53522,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="28">
 <ed_line_n ed_line_n="18">
 <orig_group orig_group="ⲙⲁⲥϥ">
 <norm_group norm_group="ⲙⲁⲥϥ">
@@ -54292,10 +53701,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0055">
-<lb_n lb_n="29">
+</ed_page_n>
+<ed_page_n ed_page_n="123">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲟⲩⲙⲓⲥⲓ">
 <norm_group norm_group="ⲟⲩⲙⲓⲥⲓ">
@@ -54457,8 +53864,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="30">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲙⲙⲱⲟⲩ">
 <norm_group norm_group="ⲙⲙⲱⲟⲩ">
@@ -54604,8 +54009,6 @@
 ⲉⲣ
 </morph>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="1">
 <ed_line_n ed_line_n="3">
 <lang lang="Greek">
 <morph morph="ⲁⲅⲓⲁⲍⲓⲛ">
@@ -54707,14 +54110,16 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲛ︦ⲑ︦">
+<pb_xml_id pb_xml_id="CO59">
 <orig_group orig_group="[ⲡⲉϫⲉⲡⲓⲙⲁϩⲅ︦">
 <norm_group norm_group="ⲡⲉϫⲉⲡⲓⲙⲁϩⲅ">
 <orig orig="[ⲡⲉϫⲉ">
 <norm norm="ⲡⲉϫⲉ">
 <lemma lemma="ⲡⲉϫⲉ">
 <pos pos="VBD">
+<note_note note_note="page ⲛ︦ⲑ︦">
 [ⲡⲉϫⲉ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -54738,8 +54143,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="2">
 <ed_line_n ed_line_n="4">
 <orig orig="ⲅ︦">
 <norm norm="ⲅ">
@@ -54890,8 +54293,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="3">
 <ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲉϫⲟϥ">
 <norm_group norm_group="ⲉϫⲟϥ">
@@ -55083,8 +54484,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="4">
 <ed_line_n ed_line_n="6">
 <orig_group orig_group="ⲛⲥⲱϥ">
 <norm_group norm_group="ⲛⲥⲱϥ">
@@ -55241,8 +54640,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="5">
 <ed_line_n ed_line_n="7">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
@@ -55396,8 +54793,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="6">
 <ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲡⲁϩⲏⲧ">
 <norm_group norm_group="ⲡⲁϩⲏⲧ">
@@ -55562,8 +54957,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="7">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲛⲣⲱⲙⲓ">
 <norm_group norm_group="ⲛⲣⲱⲙⲓ">
@@ -55766,8 +55159,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="8">
 <ed_line_n ed_line_n="10">
 <orig_group orig_group="ⲅⲁⲣ">
 <norm_group norm_group="ⲅⲁⲣ">
@@ -55919,8 +55310,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="9">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲛⲧⲉⲛⲓⲇⲉⲙⲱⲛ">
 <norm_group norm_group="ⲛⲧⲉⲛⲓⲇⲁⲓⲙⲱⲛ">
@@ -56094,8 +55483,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="10">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲙⲡⲁⲣⲉⲕⲁϯ">
 <norm_group norm_group="ⲙⲡⲁⲣⲉⲕⲁϯ">
@@ -56232,8 +55619,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="Apa Evagrius said: ‘If He had not accepted the human spirit, He would not have taken on human flesh; for the Blessed Virgin Mary did not bear one without a human soul. In every human work, free from sin, this was fitting. For it is not possible that there be a body [….] soul and spirit. For unless He had received these, Christ would be called in vain. Therefore, the immutable Word, the Only-Begotten Son of the Father, assumed a human body, as well as a soul, spirit, and all things human, without sin.">
 <verse_n verse_n="21">
 <orig_group orig_group="ⲡⲉϫⲉⲁⲡⲁ">
 <norm_group norm_group="ⲡⲉϫⲉⲁⲡⲁ">
@@ -56260,8 +55645,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="11">
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲉⲩⲁⲅⲣⲓ">
 <norm_group norm_group="ⲉⲩⲁⲅⲣⲓ">
@@ -56454,8 +55837,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="12">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲛⲣⲱⲙⲓ">
 <norm_group norm_group="ⲛⲣⲱⲙⲓ">
@@ -56646,8 +56027,6 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="13">
 <ed_line_n ed_line_n="15">
 <orig orig="ⲙⲁⲣⲓⲁ">
 <norm norm="ⲙⲁⲣⲓⲁ">
@@ -56790,9 +56169,9 @@
 <lemma lemma="ⲯⲩⲭⲏ">
 <pos pos="N">
 <lang lang="Greek">
-<note note="sic">
+<note_note note_note="sic">
 ⲯⲩⲭⲏ
-</note>
+</note_note>
 </lang>
 </pos>
 </lemma>
@@ -56801,8 +56180,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="14">
 <ed_line_n ed_line_n="16">
 <orig_group orig_group="[ⲛⲉⲙⲟⲩⲕⲁϯ]">
 <norm_group norm_group="ⲛⲉⲙⲟⲩⲕⲁϯ">
@@ -56951,8 +56328,6 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="15">
 <ed_line_n ed_line_n="17">
 <orig_group orig_group="ϣⲁⲧⲉⲛⲫⲛⲟⲃⲓ">
 <norm_group norm_group="ϣⲁⲧⲉⲛⲫⲛⲟⲃⲓ">
@@ -57100,10 +56475,8 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="0056">
-<lb_n lb_n="16">
+</ed_page_n>
+<ed_page_n ed_page_n="124">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group=".......">
 <norm_group norm_group=".......">
@@ -57281,9 +56654,7 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="17">
-<ed_line_n ed_line_n="1">
+<ed_line_n ed_line_n="2">
 <orig orig="ⲙⲟⲩϯ">
 <norm norm="ⲙⲟⲩϯ">
 <lemma lemma="ⲙⲟⲩϯ">
@@ -57372,15 +56743,15 @@
 </orig>
 </norm_group>
 </orig_group>
-</ed_page_xml_id>
-<ed_page_xml_id ed_page_xml_id="ⲝ̄_cod._ⲝ︦ⲃ">
 <orig_group orig_group="ⲡⲗⲟⲅⲟⲥ">
 <norm_group norm_group="ⲡⲗⲟⲅⲟⲥ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
+<note_note note_note="page ⲝ̄ cod. ⲝ︦ⲃ">
 ⲡ
+</note_note>
 </pos>
 </lemma>
 </norm>
@@ -57430,9 +56801,7 @@
 <pos pos="N">
 ⲁⲧ
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="18">
-<ed_line_n ed_line_n="2">
+<ed_line_n ed_line_n="3">
 ϣⲓⲃϯ
 </pos>
 </lemma>
@@ -57582,9 +56951,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="19">
-<ed_line_n ed_line_n="3">
+<ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲛⲉⲙⲯⲩⲭⲏ">
 <norm_group norm_group="ⲛⲉⲙⲯⲩⲭⲏ">
 <orig orig="ⲛⲉⲙ">
@@ -57718,9 +57085,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="20">
-<ed_line_n ed_line_n="4">
+<ed_line_n ed_line_n="5">
 <orig_group orig_group="ⲫⲛⲟⲃⲓ">
 <norm_group norm_group="ⲫⲛⲟⲃⲓ">
 <orig orig="ⲫ">
@@ -57757,8 +57122,6 @@
 </norm_group>
 </orig_group>
 </verse_n>
-</translation>
-<translation translation="Let us now simply bring forward Paul’s testimony, which says: to unite us into one faith, one divinity, one kingdom, because the Trinity is immutable. For he said: ‘There is one God and one mediator between God and humanity, Jesus Christ, the Son of God the Father, one Holy Spirit, one Catholic Church, one resurrection of the dead in time.’ Thus, Paul said, ‘[…] you have fully grasped the mystery of the Holy Trinity.’ One among you said the Word is a creature; another said the Holy Spirit and the body of Christ are creatures; another, however, killed the soul and body of Christ […].">
 <verse_n verse_n="22">
 <orig_group orig_group="ⲙⲁⲣⲉⲥⲣⲱϣⲓ">
 <norm_group norm_group="ⲙⲁⲣⲉⲥⲣⲱϣⲓ">
@@ -57883,8 +57246,6 @@
 </lemma>
 </norm>
 </orig>
-</ed_line_n>
-</lb_n>
 <orig orig="ⲙⲉⲧⲙⲉⲑⲣⲉ">
 <norm norm="ⲙⲉⲧⲙⲉⲑⲣⲉ">
 <lemma lemma="ⲙⲉⲧⲙⲉⲑⲣⲉ">
@@ -57892,8 +57253,8 @@
 <morph morph="ⲙⲉⲧ">
 ⲙⲉⲧ
 </morph>
-<lb_n lb_n="21">
-<ed_line_n ed_line_n="5">
+</ed_line_n>
+<ed_line_n ed_line_n="6">
 <morph morph="ⲙⲉⲑⲣⲉ">
 ⲙⲉⲑⲣⲉ
 </morph>
@@ -58036,9 +57397,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="22">
-<ed_line_n ed_line_n="6">
+<ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲉϧⲟⲩⲛ">
 <norm_group norm_group="ⲉϧⲟⲩⲛ">
 <orig orig="ⲉϧⲟⲩⲛ">
@@ -58197,9 +57556,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="23">
-<ed_line_n ed_line_n="7">
+<ed_line_n ed_line_n="8">
 <orig_group orig_group="ⲛⲟⲩⲱⲧ">
 <norm_group norm_group="ⲛⲟⲩⲱⲧ">
 <orig orig="ⲛ">
@@ -58331,9 +57688,7 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="24">
-<ed_line_n ed_line_n="8">
+<ed_line_n ed_line_n="9">
 <orig orig="ⲁⲧϣⲓⲃϯ">
 <norm norm="ⲁⲧϣⲓⲃϯ">
 <lemma lemma="ⲁⲧϣⲓⲃϯ">
@@ -58512,9 +57867,7 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="25">
-<ed_line_n ed_line_n="9">
+<ed_line_n ed_line_n="10">
 <orig orig="ⲙⲉⲥⲓⲧⲏⲥ">
 <norm norm="ⲙⲉⲥⲓⲧⲏⲥ">
 <lemma lemma="ⲙⲉⲥⲓⲧⲏⲥ">
@@ -58705,9 +58058,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="26">
-<ed_line_n ed_line_n="10">
+<ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲛⲉⲙⲡⲓⲡ︤ⲛ︦ⲁ︥">
 <norm_group norm_group="ⲛⲉⲙⲡⲓⲡⲛⲉⲩⲙⲁ">
 <orig orig="ⲛⲉⲙ">
@@ -58877,9 +58228,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="27">
-<ed_line_n ed_line_n="11">
+<ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲟⲩⲁⲛⲁⲥⲧⲁⲥⲓⲥ">
 <norm_group norm_group="ⲟⲩⲁⲛⲁⲥⲧⲁⲥⲓⲥ">
 <orig orig="ⲟⲩ">
@@ -59016,9 +58365,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="28">
-<ed_line_n ed_line_n="12">
+<ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲕⲁⲧⲁϯϧⲉ">
 <norm_group norm_group="ⲕⲁⲧⲁϯϧⲉ">
 <orig orig="ⲕⲁⲧⲁ">
@@ -59171,9 +58518,7 @@
 </norm>
 </orig>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="29">
-<ed_line_n ed_line_n="13">
+<ed_line_n ed_line_n="14">
 <orig orig="ϫⲱⲗ">
 <norm norm="ϫⲱⲗ">
 <lemma lemma="ϫⲱⲗ">
@@ -59322,9 +58667,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="30">
-<ed_line_n ed_line_n="14">
+<ed_line_n ed_line_n="15">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
 <orig orig="ⲉⲃⲟⲗ">
@@ -59507,9 +58850,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="31">
-<ed_line_n ed_line_n="15">
+<ed_line_n ed_line_n="16">
 <orig_group orig_group="ⲛⲁⲅⲓⲟⲛ">
 <norm_group norm_group="ⲛⲁⲅⲓⲟⲛ">
 <orig orig="ⲛ">
@@ -59685,9 +59026,7 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</lb_n>
-<lb_n lb_n="32">
-<ed_line_n ed_line_n="16">
+<ed_line_n ed_line_n="17">
 <orig_group orig_group="ⲛϯⲯⲩⲭⲏ">
 <norm_group norm_group="ⲛϯⲯⲩⲭⲏ">
 <orig orig="ⲛ">
@@ -59769,16 +59108,13 @@
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
 <pos pos="ART">
-<note note="sic exit codex.">
+<note_note note_note="sic exit codex.">
 ⲡ
-</note>
+</note_note>
 </pos>
 </lemma>
 </norm>
 </orig>
-</ed_line_n>
-</lb_n>
-</ed_page_xml_id>
 </pb_xml_id>
 <orig orig="ⲭ︦ⲥ︦">
 <norm norm="ⲭⲣⲓⲥⲧⲟⲥ">
@@ -59806,6 +59142,9 @@
 </orig>
 </norm_group>
 </orig_group>
+</ed_line_n>
 </verse_n>
-</translation>
+</ed_page_n>
+</ed_chapter_n>
+</chapter_n>
 </meta>
